@@ -1,0 +1,6 @@
+flask
+playwright
+beautifulsoup4
+html5lib
+python-dotenv
+requests

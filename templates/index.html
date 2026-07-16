@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Karachi Flat Finder - Clifton & Pakistan Chowk Automation</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="glass-bg"></div>
+    <div class="app-container">
+        <!-- Header Section -->
+        <header class="app-header">
+            <div class="logo-area">
+                <span class="logo-icon">🏢</span>
+                <div class="logo-text">
+                    <h1>Karachi Flat Finder</h1>
+                    <p>Automated Real Estate Monitor</p>
+                </div>
+            </div>
+            
+            <div class="status-panel">
+                <div class="status-meta">
+                    <span class="status-indicator" id="status-dot"></span>
+                    <span class="status-text" id="status-msg">Idle</span>
+                </div>
+                <div class="status-time">
+                    Last scanned: <span id="last-scanned">Never</span>
+                </div>
+                <button class="btn btn-primary" id="btn-scan">
+                    <span class="btn-icon">⚡</span>
+                    <span class="btn-text">Scan for Properties</span>
+                </button>
+            </div>
+        </header>
+
+        <!-- Stats Overview Cards -->
+        <section class="stats-overview">
+            <div class="stat-card">
+                <div class="stat-icon icon-blue">🌊</div>
+                <div class="stat-data">
+                    <h3 id="stat-clifton">0</h3>
+                    <p>Clifton Flats</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon icon-gold">🕌</div>
+                <div class="stat-data">
+                    <h3 id="stat-chowk">0</h3>
+                    <p>Pakistan Chowk Flats</p>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon icon-purple">🏷️</div>
+                <div class="stat-data">
+                    <h3 id="stat-budget">0</h3>
+                    <p>Average Rent (PKR)</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Filters & Search Controls -->
+        <section class="filter-controls">
+            <div class="control-group">
+                <label>Location</label>
+                <div class="filter-tabs" id="filter-location">
+                    <button class="tab-btn active" data-value="all">All Locations</button>
+                    <button class="tab-btn" data-value="Clifton">Clifton</button>
+                    <button class="tab-btn" data-value="Pakistan Chowk">Pakistan Chowk Area</button>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label>Rooms</label>
+                <div class="filter-tabs" id="filter-rooms">
+                    <button class="tab-btn active" data-value="all">Any</button>
+                    <button class="tab-btn" data-value="2">2 Rooms</button>
+                    <button class="tab-btn" data-value="3">3 Rooms</button>
+                </div>
+            </div>
+
+            <div class="control-group">
+                <label>Sort By</label>
+                <div class="select-wrapper">
+                    <select id="sort-select">
+                        <option value="price-asc">Price: Low to High</option>
+                        <option value="price-desc">Price: High to Low</option>
+                        <option value="rooms-desc">Rooms: Most to Least</option>
+                        <option value="date-desc">Newest Listings</option>
+                    </select>
+                </div>
+            </div>
+        </section>
+
+        <!-- Main Display Panel -->
+        <main class="properties-panel">
+            <div class="panel-header">
+                <h2>Matching Properties (<span id="results-count">0</span>)</h2>
+                <div class="search-bar">
+                    <input type="text" id="search-input" placeholder="Search by title, road or keywords...">
+                    <span class="search-icon">🔍</span>
+                </div>
+            </div>
+
+            <div class="properties-grid" id="properties-grid">
+                <!-- Cards will be dynamically injected here -->
+                <div class="loading-placeholder">
+                    <div class="spinner"></div>
+                    <p>Loading listings... Run a scan if empty.</p>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <!-- Scraper Log Drawer -->
+    <div class="log-drawer" id="log-drawer">
+        <div class="drawer-header" id="drawer-toggle">
+            <span>📋 Live Scraper Logs</span>
+            <span class="drawer-icon">▲</span>
+        </div>
+        <div class="drawer-content">
+            <pre id="log-console">No logs loaded.</pre>
+        </div>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

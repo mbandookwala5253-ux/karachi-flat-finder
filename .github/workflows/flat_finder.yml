@@ -1,0 +1,46 @@
+name: Karachi Flat Finder 24/7 Automation
+
+on:
+  schedule:
+    # Runs every 2 hours
+    - cron: '0 */2 * * *'
+  workflow_dispatch: # Allows manual trigger from the GitHub Actions tab
+
+jobs:
+  scrape_and_alert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository code
+      uses: actions/checkout@v3
+
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+        cache: 'pip'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Install Playwright Chromium Browser
+      run: |
+        playwright install chromium
+
+    - name: Run automated property search
+      env:
+        # Load Gmail credentials securely from GitHub Repository Secrets
+        EMAIL_USER: ${{ secrets.EMAIL_USER }}
+        EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
+      run: |
+        python scraper.py
+
+    - name: Commit and push updated property database
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions Bot"
+        git add flats.json
+        git commit -m "sync: update properties database [skip ci]" || echo "No changes to commit"
+        git push
