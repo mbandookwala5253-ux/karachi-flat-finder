@@ -5,6 +5,7 @@ import time
 import logging
 import requests
 import smtplib
+import urllib.parse
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from bs4 import BeautifulSoup
@@ -260,13 +261,21 @@ def clean_price(price_str):
     price_str = price_str.lower().replace(",", "").replace("rs", "").replace("pkr", "").strip()
     
     # Check for lakh
-    if "lakh" in price_str:
+    if "lakh" in price_str or "lacs" in price_str or "lac" in price_str:
         try:
             val = float(re.findall(r"[\d\.]+", price_str)[0])
             return int(val * 100000)
         except Exception:
             pass
             
+    # Check for crore
+    if "crore" in price_str or "cr" in price_str:
+        try:
+            val = float(re.findall(r"[\d\.]+", price_str)[0])
+            return int(val * 10000000)
+        except Exception:
+            pass
+
     # Check for thousand
     if "thousand" in price_str or "k" in price_str:
         try:
@@ -314,124 +323,17 @@ def get_commute_area(title, location_text, default_area="Midway / PECHS"):
             
     return default_area
 
-def scrape_olx(max_budget):
-    """Scrapes OLX Pakistan listings for multiple target areas close to the commutes."""
-    listings = []
-    
-    queries = [
-        {"q": "clifton", "default": "Clifton Area"},
-        {"q": "pakistan-chowk", "default": "Pakistan Chowk Area"},
-        {"q": "saddar", "default": "Pakistan Chowk Area"},
-        {"q": "burns-road", "default": "Pakistan Chowk Area"},
-        {"q": "bath-island", "default": "Clifton Area"},
-        {"q": "gizri", "default": "Clifton Area"},
-        {"q": "pechs", "default": "PECHS / Shabbirabad"},
-        {"q": "shabbirabad", "default": "PECHS / Shabbirabad"},
-        {"q": "garden-east", "default": "Pakistan Chowk Area"}
-    ]
-    
-    with sync_playwright() as p:
-        logging.info("Starting Playwright for OLX scraping...")
-        browser = p.chromium.launch(headless=True)
-        context = browser.new_context(
-            user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-            viewport={"width": 1280, "height": 800}
-        )
-        page = context.new_page()
-        
-        # OLX search limit
-        search_limit = max_budget + 5000
-        
-        for q_item in queries:
-            query = q_item["q"]
-            default_commute = q_item["default"]
-            logging.info(f"Scraping OLX query '{query}'")
-            
-            url = f"https://www.olx.com.pk/karachi_g4060695/apartments-flats_c367/q-{query}?filter=price_to_{search_limit}"
-            try:
-                page.goto(url, timeout=30000)
-                page.wait_for_timeout(3000)
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight/2)")
-                page.wait_for_timeout(2000)
-                
-                html = page.content()
-                soup = BeautifulSoup(html, "html.parser")
-                
-                items = soup.find_all(attrs={"data-aut-id": "itemBox"})
-                
-                if not items:
-                    links = soup.find_all("a", href=re.compile(r"/item/"))
-                    items = []
-                    seen_parents = set()
-                    for link in links:
-                        parent = link.find_parent("li") or link.find_parent("div", class_=re.compile(r"card|item|listing|product"))
-                        if parent and parent not in seen_parents:
-                            items.append(parent)
-                            seen_parents.add(parent)
-                
-                for item in items:
-                    try:
-                        link_el = item.find("a", href=re.compile(r"/item/"))
-                        if not link_el:
-                            continue
-                        link = "https://www.olx.com.pk" + link_el["href"] if link_el["href"].startswith("/") else link_el["href"]
-                        
-                        title_el = item.find(attrs={"data-aut-id": "itemTitle"}) or item.find("h2") or item.find("span", class_=re.compile(r"title"))
-                        title = title_el.text.strip() if title_el else "Flat for rent"
-                        
-                        price_el = item.find(attrs={"data-aut-id": "itemPrice"}) or item.find("span", class_=re.compile(r"price|Price"))
-                        price_str = price_el.text.strip() if price_el else "0"
-                        price = clean_price(price_str)
-                        
-                        loc_el = item.find(attrs={"data-aut-id": "itemDetails"}) or item.find("span", class_=re.compile(r"location|Location"))
-                        location_text = loc_el.text.strip() if loc_el else ""
-                        
-                        img_el = item.find("img")
-                        img_url = ""
-                        if img_el:
-                            img_url = img_el.get("data-src") or img_el.get("src") or ""
-                        
-                        if price > max_budget or price < 10000:
-                            continue
-                            
-                        # Work out commute region
-                        matched_area = get_commute_area(title, location_text, default_commute)
-                        
-                        rooms = clean_rooms(title, "")
-                        if rooms == 0:
-                            rooms = 2
-                            
-                        listings.append({
-                            "title": title,
-                            "price": price,
-                            "price_str": f"PKR {price:,}",
-                            "location": location_text or query.capitalize(),
-                            "area": matched_area,
-                            "rooms": rooms,
-                            "link": link,
-                            "image": img_url or "https://via.placeholder.com/300x200?text=No+Image",
-                            "source": "OLX",
-                            "date": time.strftime("%Y-%m-%d")
-                        })
-                    except Exception as e:
-                        logging.error(f"Error parsing OLX item: {e}")
-            except Exception as e:
-                logging.error(f"Error loading OLX URL for {query}: {e}")
-                
-        browser.close()
-    return listings
-
 def scrape_zameen(max_budget):
-    """Scrapes Zameen.com listings for Clifton, Saddar, DHA, PECHS, and Bath Island."""
+    """Scrapes Zameen.com listings for Clifton, Saddar, PECHS, Bath Island, and Garden East."""
     listings = []
     
-    # Location IDs: Clifton (118), Saddar/Pakistan Chowk (201), PECHS (184), Bath Island (116), Garden East (186)
+    # Corrected category mappings and location IDs for Zameen
     queries = [
-        {"id": 118, "name": "Clifton", "default": "Clifton Area"},
-        {"id": 201, "name": "Saddar", "default": "Pakistan Chowk Area"},
+        {"id": 5, "name": "Clifton", "default": "Clifton Area"},
+        {"id": 304, "name": "Saddar", "default": "Pakistan Chowk Area"},
         {"id": 184, "name": "PECHS", "default": "PECHS / Shabbirabad"},
-        {"id": 116, "name": "Bath_Island", "default": "Clifton Area"},
-        {"id": 186, "name": "Garden_East", "default": "Pakistan Chowk Area"}
+        {"id": 198, "name": "Bath_Island", "default": "Clifton Area"},
+        {"id": 6922, "name": "Jamshed_Town_Garden_East", "default": "Pakistan Chowk Area"}
     ]
     
     with sync_playwright() as p:
@@ -452,7 +354,7 @@ def scrape_zameen(max_budget):
             default_commute = q_item["default"]
             
             logging.info(f"Scraping Zameen for {loc_name} (ID: {loc_id})")
-            url = f"https://www.zameen.com/Rent_Flats/Karachi_{loc_name}-{loc_id}-1.html?price_max={search_limit}"
+            url = f"https://www.zameen.com/Rentals_Flats_Apartments/Karachi_{loc_name}-{loc_id}-1.html?price_max={search_limit}"
             try:
                 page.goto(url, timeout=30000)
                 page.wait_for_timeout(3000)
@@ -481,8 +383,21 @@ def scrape_zameen(max_budget):
                         title_el = card.find("h2") or card.find("div", aria_label="Title") or card.find("span", aria_label="Title")
                         title = title_el.text.strip() if title_el else "Apartment for rent"
                         
-                        price_el = card.find("span", aria_label="Price") or card.find(class_=re.compile(r"price|Price"))
-                        price_str = price_el.text.strip() if price_el else "0"
+                        # Bulletproof Zameen Price Extraction
+                        price_el = card.find("span", attrs={"aria-label": "Price"})
+                        price_str = "0"
+                        if price_el:
+                            price_str = price_el.text.strip()
+                        else:
+                            # Sibling based price parsing fallback
+                            currency_span = card.find("span", string=re.compile(r"PKR|Rs", re.I)) or card.find(string=re.compile(r"PKR|Rs", re.I))
+                            if currency_span:
+                                parent_span = currency_span.parent if currency_span.name != "span" else currency_span
+                                for sib in parent_span.next_siblings:
+                                    if sib.name == "span" and sib.text.strip():
+                                        price_str = sib.text.strip()
+                                        break
+                                        
                         price = clean_price(price_str)
                         
                         loc_el = card.find("div", aria_label="Location") or card.find(class_=re.compile(r"location|Location"))
@@ -529,115 +444,117 @@ def scrape_zameen(max_budget):
         browser.close()
     return listings
 
-def scrape_google_listings(max_budget):
-    """Queries Google search results for broader coverage including Facebook, Instagram, and Graana."""
+def scrape_web_listings(max_budget):
+    """Queries DuckDuckGo HTML search results for broader coverage including Facebook, Instagram, OLX, and Graana."""
     listings = []
     
-    # Query matching multiple commute zones and budget
-    query = f'flat for rent ("clifton" OR "pakistan chowk" OR "saddar" OR "pechs" OR "shabbirabad" OR "gizri" OR "bath island") karachi 20000..{max_budget} -site:zameen.com -site:olx.com.pk'
-    url = f"https://www.google.com/search?q={requests.utils.quote(query)}"
+    # Query matching multiple commute zones and budget limit
+    query = f'flat for rent ("clifton" OR "pakistan chowk" OR "saddar" OR "pechs" OR "shabbirabad" OR "gizri" OR "bath island") karachi rent'
+    url = f"https://html.duckduckgo.com/html/?q={requests.utils.quote(query)}"
     
-    with sync_playwright() as p:
-        logging.info("Starting Playwright for Google search scraping...")
-        try:
-            browser = p.chromium.launch(headless=True)
-            context = browser.new_context(
-                user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-                viewport={"width": 1280, "height": 800}
-            )
-            page = context.new_page()
-            page.goto(url, timeout=30000)
-            page.wait_for_timeout(3000)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
+    logging.info(f"Querying DuckDuckGo HTML search for multi-platform listings...")
+    try:
+        response = requests.get(url, headers=headers, timeout=15)
+        if response.status_code != 200:
+            logging.warning(f"DuckDuckGo search request failed with status: {response.status_code}")
+            return listings
             
-            html = page.content()
-            soup = BeautifulSoup(html, "html.parser")
-            
-            results = soup.find_all(class_="g")
-            logging.info(f"Found {len(results)} potential Google search results")
-            
-            for res in results:
-                try:
-                    h3 = res.find("h3")
-                    a_tag = res.find("a")
-                    if not h3 or not a_tag:
-                        continue
-                        
-                    link = a_tag["href"]
-                    if not link.startswith("http") or "google.com" in link:
-                        continue
-                        
-                    title = h3.text.strip()
+        soup = BeautifulSoup(response.text, "html.parser")
+        results = soup.find_all(class_="result")
+        logging.info(f"Found {len(results)} potential search results on DuckDuckGo")
+        
+        for res in results:
+            try:
+                a = res.find("a", class_="result__a")
+                snippet_el = res.find(class_="result__snippet")
+                if not a or not snippet_el:
+                    continue
                     
-                    snippet_el = res.find(class_=re.compile(r"VwiC3b|yDAB2d|MUb15c"))
-                    snippet = snippet_el.text.strip() if snippet_el else ""
+                title = a.text.strip()
+                link_raw = a["href"]
+                
+                # Decode DuckDuckGo redirect link
+                parsed_url = urllib.parse.urlparse(link_raw)
+                query_params = urllib.parse.parse_qs(parsed_url.query)
+                link = query_params.get("uddg", [link_raw])[0]
+                
+                if not link.startswith("http") or "google.com" in link or "duckduckgo.com" in link:
+                    continue
                     
-                    domain_match = re.search(r"https?://(?:www\.)?([^/]+)", link)
-                    source = "Web Search"
-                    if domain_match:
-                        dom = domain_match.group(1).lower()
-                        if "facebook.com" in dom:
-                            source = "Facebook Marketplace"
-                        elif "instagram.com" in dom:
-                            source = "Instagram"
-                        elif "graana.com" in dom:
-                            source = "Graana"
-                        elif "bolee.com" in dom:
-                            source = "Bolee"
-                        elif "ilaan.com" in dom:
-                            source = "Ilaan"
-                        elif "mitula" in dom:
-                            source = "Mitula"
-                        elif "lamudi" in dom:
-                            source = "Lamudi"
-                        else:
-                            source = dom.split(".")[0].capitalize()
-                            
-                    combined_text = f"{title} {snippet}".lower()
-                    
-                    # Deduce commute zone
-                    matched_area = get_commute_area(title, snippet, "PECHS / Shabbirabad")
+                snippet = snippet_el.text.strip()
+                
+                domain_match = re.search(r"https?://(?:www\.)?([^/]+)", link)
+                source = "Web Search"
+                if domain_match:
+                    dom = domain_match.group(1).lower()
+                    if "facebook.com" in dom:
+                        source = "Facebook Marketplace"
+                    elif "instagram.com" in dom:
+                        source = "Instagram"
+                    elif "graana.com" in dom:
+                        source = "Graana"
+                    elif "bolee.com" in dom:
+                        source = "Bolee"
+                    elif "olx.com.pk" in dom:
+                        source = "OLX"
+                    elif "realproperty.pk" in dom:
+                        source = "RealProperty"
+                    elif "ilaan.com" in dom:
+                        source = "Ilaan"
+                    elif "mitula" in dom:
+                        source = "Mitula"
+                    elif "lamudi" in dom:
+                        source = "Lamudi"
+                    else:
+                        source = dom.split(".")[0].capitalize()
                         
-                    price = 45000
-                    price_match = re.search(r"\b(1[5-9]|[2-4][0-9]|50),?000\b", combined_text)
-                    if price_match:
+                combined_text = f"{title} {snippet}".lower()
+                matched_area = get_commute_area(title, snippet, "PECHS / Shabbirabad")
+                
+                price = 45000
+                price_match = re.search(r"\b(1[5-9]|[2-9][0-9]|100),?000\b", combined_text)
+                if price_match:
+                    try:
+                        price = int(price_match.group(1).replace(",", "")) * 1000
+                    except Exception:
+                        pass
+                else:
+                    k_match = re.search(r"\b(1[5-9]|[2-9][0-9]|100)\s*k\b", combined_text)
+                    if k_match:
                         try:
-                            price = int(price_match.group(1).replace(",", "")) * 1000
+                            price = int(k_match.group(1)) * 1000
                         except Exception:
                             pass
-                    else:
-                        k_match = re.search(r"\b(1[5-9]|[2-4][0-9]|50)\s*k\b", combined_text)
-                        if k_match:
-                            try:
-                                price = int(k_match.group(1)) * 1000
-                            except Exception:
-                                pass
-                                
-                    if price > max_budget:
-                        continue
-
-                    rooms = 2
-                    rooms_match = re.search(r"(\d)\s*(?:bed|room|bedroom)", combined_text)
-                    if rooms_match:
-                        rooms = int(rooms_match.group(1))
-                        
-                    listings.append({
-                        "title": title,
-                        "price": price,
-                        "price_str": f"PKR {price:,}",
-                        "location": snippet[:60] + "..." if len(snippet) > 60 else (snippet or matched_area),
-                        "area": matched_area,
-                        "rooms": rooms,
-                        "link": link,
-                        "image": "https://via.placeholder.com/300x200?text=Social/Web+Ad",
-                        "source": source,
-                        "date": time.strftime("%Y-%m-%d")
-                    })
-                except Exception as e:
-                    logging.error(f"Error parsing Google result details: {e}")
-            browser.close()
-        except Exception as e:
-            logging.error(f"Google dorking scraper execution failed: {e}")
-            
+                            
+                if price > max_budget:
+                    continue
+                    
+                rooms = 2
+                rooms_match = re.search(r"(\d)\s*(?:bed|room|bedroom)", combined_text)
+                if rooms_match:
+                    rooms = int(rooms_match.group(1))
+                    
+                listings.append({
+                    "title": title,
+                    "price": price,
+                    "price_str": f"PKR {price:,}",
+                    "location": snippet[:60] + "..." if len(snippet) > 60 else (snippet or matched_area),
+                    "area": matched_area,
+                    "rooms": rooms,
+                    "link": link,
+                    "image": "https://via.placeholder.com/300x200?text=Social/Web+Ad",
+                    "source": source,
+                    "date": time.strftime("%Y-%m-%d")
+                })
+            except Exception as e:
+                logging.error(f"Error parsing DuckDuckGo search result: {e}")
+    except Exception as e:
+        logging.error(f"DuckDuckGo search scraper failed: {e}")
+        
     return listings
 
 def run_scraper(progress_callback=None):
@@ -664,22 +581,17 @@ def run_scraper(progress_callback=None):
         except Exception as e:
             logging.error(f"Failed to read existing DATA_FILE: {e}")
 
-    # 2. Scrape OLX, Zameen, and Google Dorks
-    olx_results = []
+    # 2. Scrape Zameen and Web Search
     zameen_results = []
     web_results = []
     
-    try:
-        if progress_callback:
-            progress_callback("olx", f"Scanning OLX (Limit: PKR {max_budget:,})...")
-        olx_results = scrape_olx(max_budget)
-        logging.info(f"OLX search complete. Found {len(olx_results)} listings.")
-    except Exception as e:
-        logging.error(f"OLX scraper failed globally: {e}")
+    if progress_callback:
+        progress_callback("olx", "OLX direct scraper bypassed (relying on search fallbacks)...")
+        time.sleep(1)
         
     try:
         if progress_callback:
-            progress_callback("zameen", f"Scanning Zameen (Limit: PKR {max_budget:,})...")
+            progress_callback("zameen", f"Scanning Zameen.com (Limit: PKR {max_budget:,})...")
         zameen_results = scrape_zameen(max_budget)
         logging.info(f"Zameen search complete. Found {len(zameen_results)} listings.")
     except Exception as e:
@@ -687,13 +599,13 @@ def run_scraper(progress_callback=None):
 
     try:
         if progress_callback:
-            progress_callback("google", f"Searching Google (Max: PKR {max_budget:,})...")
-        web_results = scrape_google_listings(max_budget)
-        logging.info(f"Google Web/Social search complete. Found {len(web_results)} listings.")
+            progress_callback("google", f"Searching Web & Social portals (Max: PKR {max_budget:,})...")
+        web_results = scrape_web_listings(max_budget)
+        logging.info(f"DuckDuckGo Web/Social search complete. Found {len(web_results)} listings.")
     except Exception as e:
-        logging.error(f"Google Search scraper failed globally: {e}")
+        logging.error(f"DuckDuckGo Search scraper failed globally: {e}")
         
-    all_results = olx_results + zameen_results + web_results
+    all_results = zameen_results + web_results
     
     # 3. Deduplicate listings
     unique_scraped = {}
