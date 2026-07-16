@@ -92,6 +92,37 @@ def get_logs():
             return jsonify({"error": str(e)}), 500
     return jsonify({"logs": "No log file found yet."})
 
+# API endpoints to fetch/save configurations
+@app.route("/api/config", methods=["GET", "POST"])
+def manage_config():
+    config_file = "config.json"
+    if request.method == "POST":
+        data = request.get_json() or {}
+        max_budget = data.get("max_budget")
+        if max_budget is not None:
+            try:
+                max_budget = int(max_budget)
+                config_data = {}
+                if os.path.exists(config_file):
+                    with open(config_file, "r", encoding="utf-8") as f:
+                        config_data = json.load(f)
+                config_data["max_budget"] = max_budget
+                with open(config_file, "w", encoding="utf-8") as f:
+                    json.dump(config_data, f, indent=4)
+                return jsonify({"success": True, "max_budget": max_budget})
+            except Exception as e:
+                return jsonify({"error": str(e)}), 400
+        return jsonify({"error": "Missing max_budget parameter"}), 400
+    else:
+        config_data = {"max_budget": 50000}
+        if os.path.exists(config_file):
+            try:
+                with open(config_file, "r", encoding="utf-8") as f:
+                    config_data = json.load(f)
+            except Exception:
+                pass
+        return jsonify(config_data)
+
 if __name__ == "__main__":
     # Ensure templates and static directories exist
     os.makedirs("templates", exist_ok=True)

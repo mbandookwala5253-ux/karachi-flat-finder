@@ -25,10 +25,22 @@ logging.basicConfig(
 )
 
 DATA_FILE = "flats.json"
+CONFIG_FILE = "config.json"
 
 # Email Configuration
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASS = os.getenv("EMAIL_PASS")
+
+def get_max_budget():
+    """Loads the max budget from config.json, defaulting to 50000 if missing."""
+    if os.path.exists(CONFIG_FILE):
+        try:
+            with open(CONFIG_FILE, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                return int(data.get("max_budget", 50000))
+        except Exception:
+            pass
+    return 50000
 
 def send_email_alert(flat):
     """Sends a beautifully styled HTML email notification when a new flat is found."""
@@ -302,11 +314,10 @@ def get_commute_area(title, location_text, default_area="Midway / PECHS"):
             
     return default_area
 
-def scrape_olx():
+def scrape_olx(max_budget):
     """Scrapes OLX Pakistan listings for multiple target areas close to the commutes."""
     listings = []
     
-    # We query specific neighborhood terms to widen search
     queries = [
         {"q": "clifton", "default": "Clifton Area"},
         {"q": "pakistan-chowk", "default": "Pakistan Chowk Area"},
@@ -328,12 +339,15 @@ def scrape_olx():
         )
         page = context.new_page()
         
+        # OLX search limit
+        search_limit = max_budget + 5000
+        
         for q_item in queries:
             query = q_item["q"]
             default_commute = q_item["default"]
             logging.info(f"Scraping OLX query '{query}'")
             
-            url = f"https://www.olx.com.pk/karachi_g4060695/apartments-flats_c367/q-{query}?filter=price_to_55000"
+            url = f"https://www.olx.com.pk/karachi_g4060695/apartments-flats_c367/q-{query}?filter=price_to_{search_limit}"
             try:
                 page.goto(url, timeout=30000)
                 page.wait_for_timeout(3000)
@@ -377,7 +391,7 @@ def scrape_olx():
                         if img_el:
                             img_url = img_el.get("data-src") or img_el.get("src") or ""
                         
-                        if price > 50000 or price < 10000:
+                        if price > max_budget or price < 10000:
                             continue
                             
                         # Work out commute region
@@ -407,7 +421,7 @@ def scrape_olx():
         browser.close()
     return listings
 
-def scrape_zameen():
+def scrape_zameen(max_budget):
     """Scrapes Zameen.com listings for Clifton, Saddar, DHA, PECHS, and Bath Island."""
     listings = []
     
@@ -429,13 +443,16 @@ def scrape_zameen():
         )
         page = context.new_page()
         
+        # Zameen search limit
+        search_limit = max_budget + 5000
+        
         for q_item in queries:
             loc_id = q_item["id"]
             loc_name = q_item["name"]
             default_commute = q_item["default"]
             
             logging.info(f"Scraping Zameen for {loc_name} (ID: {loc_id})")
-            url = f"https://www.zameen.com/Rent_Flats/Karachi_{loc_name}-{loc_id}-1.html?price_max=55000"
+            url = f"https://www.zameen.com/Rent_Flats/Karachi_{loc_name}-{loc_id}-1.html?price_max={search_limit}"
             try:
                 page.goto(url, timeout=30000)
                 page.wait_for_timeout(3000)
@@ -487,7 +504,7 @@ def scrape_zameen():
                         if img_el:
                             img_url = img_el.get("src") or img_el.get("data-src") or ""
                             
-                        if price > 50000 or price < 10000:
+                        if price > max_budget or price < 10000:
                             continue
                             
                         matched_area = get_commute_area(title, location_text, default_commute)
@@ -512,12 +529,12 @@ def scrape_zameen():
         browser.close()
     return listings
 
-def scrape_google_listings():
+def scrape_google_listings(max_budget):
     """Queries Google search results for broader coverage including Facebook, Instagram, and Graana."""
     listings = []
     
-    # Query matching multiple commute zones
-    query = 'flat for rent ("clifton" OR "pakistan chowk" OR "saddar" OR "pechs" OR "shabbirabad" OR "gizri" OR "bath island") karachi 35000..50000 -site:zameen.com -site:olx.com.pk'
+    # Query matching multiple commute zones and budget
+    query = f'flat for rent ("clifton" OR "pakistan chowk" OR "saddar" OR "pechs" OR "shabbirabad" OR "gizri" OR "bath island") karachi 20000..{max_budget} -site:zameen.com -site:olx.com.pk'
     url = f"https://www.google.com/search?q={requests.utils.quote(query)}"
     
     with sync_playwright() as p:
@@ -595,6 +612,9 @@ def scrape_google_listings():
                             except Exception:
                                 pass
                                 
+                    if price > max_budget:
+                        continue
+
                     rooms = 2
                     rooms_match = re.search(r"(\d)\s*(?:bed|room|bedroom)", combined_text)
                     if rooms_match:
@@ -624,6 +644,10 @@ def run_scraper(progress_callback=None):
     """Runs scrapers for all portals, dedups, fetches contact details for new ads, and emails."""
     logging.info("Starting complete Karachi Flat Finder Scraper...")
     
+    # Load dynamic config budget
+    max_budget = get_max_budget()
+    logging.info(f"Loaded Max Budget limit: PKR {max_budget:,}")
+
     if progress_callback:
         progress_callback("checking_db", "Loading local seen properties database...")
         
@@ -647,24 +671,24 @@ def run_scraper(progress_callback=None):
     
     try:
         if progress_callback:
-            progress_callback("olx", "Scanning OLX Pakistan for multiple commute zones...")
-        olx_results = scrape_olx()
+            progress_callback("olx", f"Scanning OLX (Limit: PKR {max_budget:,})...")
+        olx_results = scrape_olx(max_budget)
         logging.info(f"OLX search complete. Found {len(olx_results)} listings.")
     except Exception as e:
         logging.error(f"OLX scraper failed globally: {e}")
         
     try:
         if progress_callback:
-            progress_callback("zameen", "Scanning Zameen.com (Clifton, Saddar, PECHS, Bath Island)...")
-        zameen_results = scrape_zameen()
+            progress_callback("zameen", f"Scanning Zameen (Limit: PKR {max_budget:,})...")
+        zameen_results = scrape_zameen(max_budget)
         logging.info(f"Zameen search complete. Found {len(zameen_results)} listings.")
     except Exception as e:
         logging.error(f"Zameen scraper failed globally: {e}")
 
     try:
         if progress_callback:
-            progress_callback("google", "Searching Google (Facebook Marketplace, Instagram, Graana)...")
-        web_results = scrape_google_listings()
+            progress_callback("google", f"Searching Google (Max: PKR {max_budget:,})...")
+        web_results = scrape_google_listings(max_budget)
         logging.info(f"Google Web/Social search complete. Found {len(web_results)} listings.")
     except Exception as e:
         logging.error(f"Google Search scraper failed globally: {e}")

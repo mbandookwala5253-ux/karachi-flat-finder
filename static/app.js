@@ -4,6 +4,7 @@ let currentFilters = {
     location: 'all',
     rooms: 'all',
     search: '',
+    maxBudget: 50000,
     sortBy: 'price-asc'
 };
 let statusInterval = null;
@@ -35,12 +36,29 @@ document.addEventListener('DOMContentLoaded', () => {
     setupEventListeners();
 });
 
-function initApp() {
+async function initApp() {
+    await loadConfig();
     loadFlatsData();
     checkScraperStatus();
     
     // Poll status frequently (every 3 seconds)
     statusInterval = setInterval(checkScraperStatus, 3000);
+}
+
+async function loadConfig() {
+    try {
+        const response = await fetch('/api/config');
+        const config = await response.json();
+        if (config.max_budget) {
+            currentFilters.maxBudget = config.max_budget;
+            const slider = document.getElementById('budget-slider');
+            const valLabel = document.getElementById('budget-val');
+            if (slider) slider.value = config.max_budget;
+            if (valLabel) valLabel.textContent = config.max_budget.toLocaleString();
+        }
+    } catch (e) {
+        console.error("Error loading budget config:", e);
+    }
 }
 
 function setupEventListeners() {
@@ -78,6 +96,32 @@ function setupEventListeners() {
         currentFilters.sortBy = e.target.value;
         applyFiltersAndRender();
     });
+
+    // Budget range slider
+    const budgetSlider = document.getElementById('budget-slider');
+    const budgetVal = document.getElementById('budget-val');
+    if (budgetSlider && budgetVal) {
+        budgetSlider.addEventListener('input', (e) => {
+            budgetVal.textContent = parseInt(e.target.value).toLocaleString();
+        });
+        
+        budgetSlider.addEventListener('change', async (e) => {
+            const val = parseInt(e.target.value);
+            currentFilters.maxBudget = val;
+            applyFiltersAndRender();
+            
+            // Save configuration back to backend
+            try {
+                await fetch('/api/config', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ max_budget: val })
+                });
+            } catch (err) {
+                console.error("Failed to save budget configuration:", err);
+            }
+        });
+    }
 
     // Log Drawer toggling
     drawerToggle.addEventListener('click', () => {
@@ -290,6 +334,11 @@ function applyFiltersAndRender() {
     // Filter by Location
     if (currentFilters.location !== 'all') {
         filteredList = filteredList.filter(flat => flat.area === currentFilters.location);
+    }
+
+    // Filter by Max Budget
+    if (currentFilters.maxBudget) {
+        filteredList = filteredList.filter(flat => flat.price <= currentFilters.maxBudget);
     }
 
     // Filter by Rooms
