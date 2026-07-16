@@ -26,7 +26,7 @@ logging.basicConfig(
 
 DATA_FILE = "flats.json"
 
-# Email Configuration (SMTP Gmail relay)
+# Email Configuration
 EMAIL_USER = os.getenv("EMAIL_USER")
 EMAIL_PASS = os.getenv("EMAIL_PASS")
 
@@ -37,7 +37,6 @@ def send_email_alert(flat):
         return False
         
     try:
-        # Create message container
         msg = MIMEMultipart('alternative')
         msg['Subject'] = f"🏠 [New Flat Found] {flat['area']} - {flat['price_str']}"
         msg['From'] = f"Karachi Flat Finder <{EMAIL_USER}>"
@@ -125,7 +124,7 @@ def send_email_alert(flat):
                     
                     <table class="details-table">
                         <tr>
-                            <td class="label">📍 Area</td>
+                            <td class="label">📍 Area Category</td>
                             <td class="value">{flat['area']}</td>
                         </tr>
                         <tr>
@@ -278,13 +277,46 @@ def clean_rooms(title, description):
         return int(match.group(1))
     return 0
 
+def get_commute_area(title, location_text, default_area="Midway / PECHS"):
+    """Infers whether an area is closer to Clifton commute, Pakistan Chowk commute, or midway."""
+    combined = f"{title} {location_text}".lower()
+    
+    clifton_keywords = ["clifton", "bath island", "gizri", "dha", "defence", "civil lines", "cantt"]
+    chowk_keywords = ["pakistan chowk", "saddar", "burns road", "aram bagh", "garden east", "garden west", "kharadar", "mithadar"]
+    midway_keywords = ["pechs", "shabbirabad", "bahadurabad", "karsaz", "dhoraji"]
+    
+    # Check Clifton
+    for k in clifton_keywords:
+        if k in combined:
+            return "Clifton Area"
+            
+    # Check Pakistan Chowk
+    for k in chowk_keywords:
+        if k in combined:
+            return "Pakistan Chowk Area"
+            
+    # Check PECHS/Midway
+    for k in midway_keywords:
+        if k in combined:
+            return "PECHS / Shabbirabad"
+            
+    return default_area
+
 def scrape_olx():
-    """Scrapes OLX Pakistan listings for Clifton and Pakistan Chowk."""
+    """Scrapes OLX Pakistan listings for multiple target areas close to the commutes."""
     listings = []
+    
+    # We query specific neighborhood terms to widen search
     queries = [
-        {"q": "clifton", "location": "Clifton"},
-        {"q": "pakistan-chowk", "location": "Pakistan Chowk"},
-        {"q": "saddar", "location": "Pakistan Chowk"}
+        {"q": "clifton", "default": "Clifton Area"},
+        {"q": "pakistan-chowk", "default": "Pakistan Chowk Area"},
+        {"q": "saddar", "default": "Pakistan Chowk Area"},
+        {"q": "burns-road", "default": "Pakistan Chowk Area"},
+        {"q": "bath-island", "default": "Clifton Area"},
+        {"q": "gizri", "default": "Clifton Area"},
+        {"q": "pechs", "default": "PECHS / Shabbirabad"},
+        {"q": "shabbirabad", "default": "PECHS / Shabbirabad"},
+        {"q": "garden-east", "default": "Pakistan Chowk Area"}
     ]
     
     with sync_playwright() as p:
@@ -298,16 +330,14 @@ def scrape_olx():
         
         for q_item in queries:
             query = q_item["q"]
-            target_loc = q_item["location"]
-            logging.info(f"Scraping OLX query '{query}' for location target: {target_loc}")
+            default_commute = q_item["default"]
+            logging.info(f"Scraping OLX query '{query}'")
             
             url = f"https://www.olx.com.pk/karachi_g4060695/apartments-flats_c367/q-{query}?filter=price_to_55000"
             try:
                 page.goto(url, timeout=30000)
                 page.wait_for_timeout(3000)
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight/2)")
-                page.wait_for_timeout(2000)
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 page.wait_for_timeout(2000)
                 
                 html = page.content()
@@ -350,38 +380,25 @@ def scrape_olx():
                         if price > 50000 or price < 10000:
                             continue
                             
-                        text_to_search = f"{title} {location_text}".lower()
-                        is_match = False
-                        matched_loc = target_loc
-                        if "clifton" in text_to_search:
-                            is_match = True
-                            matched_loc = "Clifton"
-                        elif "pakistan chowk" in text_to_search or "chowk" in text_to_search or "saddar" in text_to_search or "burns road" in text_to_search or "aram bagh" in text_to_search:
-                            is_match = True
-                            matched_loc = "Pakistan Chowk"
+                        # Work out commute region
+                        matched_area = get_commute_area(title, location_text, default_commute)
+                        
+                        rooms = clean_rooms(title, "")
+                        if rooms == 0:
+                            rooms = 2
                             
-                        if not is_match and target_loc == "Pakistan Chowk":
-                            is_match = True
-                        if not is_match and target_loc == "Clifton" and "clifton" in text_to_search:
-                            is_match = True
-                            
-                        if is_match:
-                            rooms = clean_rooms(title, "")
-                            if rooms == 0:
-                                rooms = 2
-                                
-                            listings.append({
-                                "title": title,
-                                "price": price,
-                                "price_str": f"PKR {price:,}",
-                                "location": location_text or matched_loc,
-                                "area": matched_loc,
-                                "rooms": rooms,
-                                "link": link,
-                                "image": img_url or "https://via.placeholder.com/300x200?text=No+Image",
-                                "source": "OLX",
-                                "date": time.strftime("%Y-%m-%d")
-                            })
+                        listings.append({
+                            "title": title,
+                            "price": price,
+                            "price_str": f"PKR {price:,}",
+                            "location": location_text or query.capitalize(),
+                            "area": matched_area,
+                            "rooms": rooms,
+                            "link": link,
+                            "image": img_url or "https://via.placeholder.com/300x200?text=No+Image",
+                            "source": "OLX",
+                            "date": time.strftime("%Y-%m-%d")
+                        })
                     except Exception as e:
                         logging.error(f"Error parsing OLX item: {e}")
             except Exception as e:
@@ -391,11 +408,16 @@ def scrape_olx():
     return listings
 
 def scrape_zameen():
-    """Scrapes Zameen.com listings for Clifton and Saddar (Pakistan Chowk area)."""
+    """Scrapes Zameen.com listings for Clifton, Saddar, DHA, PECHS, and Bath Island."""
     listings = []
+    
+    # Location IDs: Clifton (118), Saddar/Pakistan Chowk (201), PECHS (184), Bath Island (116), Garden East (186)
     queries = [
-        {"id": 118, "name": "Clifton", "area": "Clifton"},
-        {"id": 201, "name": "Saddar", "area": "Pakistan Chowk"}
+        {"id": 118, "name": "Clifton", "default": "Clifton Area"},
+        {"id": 201, "name": "Saddar", "default": "Pakistan Chowk Area"},
+        {"id": 184, "name": "PECHS", "default": "PECHS / Shabbirabad"},
+        {"id": 116, "name": "Bath_Island", "default": "Clifton Area"},
+        {"id": 186, "name": "Garden_East", "default": "Pakistan Chowk Area"}
     ]
     
     with sync_playwright() as p:
@@ -410,7 +432,7 @@ def scrape_zameen():
         for q_item in queries:
             loc_id = q_item["id"]
             loc_name = q_item["name"]
-            matched_loc = q_item["area"]
+            default_commute = q_item["default"]
             
             logging.info(f"Scraping Zameen for {loc_name} (ID: {loc_id})")
             url = f"https://www.zameen.com/Rent_Flats/Karachi_{loc_name}-{loc_id}-1.html?price_max=55000"
@@ -418,8 +440,6 @@ def scrape_zameen():
                 page.goto(url, timeout=30000)
                 page.wait_for_timeout(3000)
                 page.evaluate("window.scrollTo(0, document.body.scrollHeight/2)")
-                page.wait_for_timeout(2000)
-                page.evaluate("window.scrollTo(0, document.body.scrollHeight)")
                 page.wait_for_timeout(2000)
                 
                 html = page.content()
@@ -470,25 +490,20 @@ def scrape_zameen():
                         if price > 50000 or price < 10000:
                             continue
                             
-                        text_to_search = f"{title} {location_text}".lower()
-                        is_match = True
-                        if matched_loc == "Pakistan Chowk":
-                            if "clifton" in text_to_search:
-                                is_match = False
-                                
-                        if is_match:
-                            listings.append({
-                                "title": title,
-                                "price": price,
-                                "price_str": f"PKR {price:,}",
-                                "location": location_text,
-                                "area": matched_loc,
-                                "rooms": rooms,
-                                "link": full_link,
-                                "image": img_url or "https://via.placeholder.com/300x200?text=No+Image",
-                                "source": "Zameen",
-                                "date": time.strftime("%Y-%m-%d")
-                            })
+                        matched_area = get_commute_area(title, location_text, default_commute)
+                        
+                        listings.append({
+                            "title": title,
+                            "price": price,
+                            "price_str": f"PKR {price:,}",
+                            "location": location_text,
+                            "area": matched_area,
+                            "rooms": rooms,
+                            "link": full_link,
+                            "image": img_url or "https://via.placeholder.com/300x200?text=No+Image",
+                            "source": "Zameen",
+                            "date": time.strftime("%Y-%m-%d")
+                        })
                     except Exception as e:
                         logging.error(f"Error parsing Zameen item: {e}")
             except Exception as e:
@@ -498,9 +513,11 @@ def scrape_zameen():
     return listings
 
 def scrape_google_listings():
-    """Queries Google search results to capture Facebook, Instagram, Graana, and other sources."""
+    """Queries Google search results for broader coverage including Facebook, Instagram, and Graana."""
     listings = []
-    query = 'flat for rent ("clifton" OR "pakistan chowk") karachi 35000..50000 -site:zameen.com -site:olx.com.pk'
+    
+    # Query matching multiple commute zones
+    query = 'flat for rent ("clifton" OR "pakistan chowk" OR "saddar" OR "pechs" OR "shabbirabad" OR "gizri" OR "bath island") karachi 35000..50000 -site:zameen.com -site:olx.com.pk'
     url = f"https://www.google.com/search?q={requests.utils.quote(query)}"
     
     with sync_playwright() as p:
@@ -559,9 +576,9 @@ def scrape_google_listings():
                             source = dom.split(".")[0].capitalize()
                             
                     combined_text = f"{title} {snippet}".lower()
-                    area = "Pakistan Chowk"
-                    if "clifton" in combined_text:
-                        area = "Clifton"
+                    
+                    # Deduce commute zone
+                    matched_area = get_commute_area(title, snippet, "PECHS / Shabbirabad")
                         
                     price = 45000
                     price_match = re.search(r"\b(1[5-9]|[2-4][0-9]|50),?000\b", combined_text)
@@ -587,8 +604,8 @@ def scrape_google_listings():
                         "title": title,
                         "price": price,
                         "price_str": f"PKR {price:,}",
-                        "location": snippet[:60] + "..." if len(snippet) > 60 else (snippet or area),
-                        "area": area,
+                        "location": snippet[:60] + "..." if len(snippet) > 60 else (snippet or matched_area),
+                        "area": matched_area,
                         "rooms": rooms,
                         "link": link,
                         "image": "https://via.placeholder.com/300x200?text=Social/Web+Ad",
@@ -603,10 +620,13 @@ def scrape_google_listings():
             
     return listings
 
-def run_scraper():
+def run_scraper(progress_callback=None):
     """Runs scrapers for all portals, dedups, fetches contact details for new ads, and emails."""
     logging.info("Starting complete Karachi Flat Finder Scraper...")
     
+    if progress_callback:
+        progress_callback("checking_db", "Loading local seen properties database...")
+        
     # 1. Load existing listings to detect new ones
     existing_links = set()
     if os.path.exists(DATA_FILE):
@@ -626,18 +646,24 @@ def run_scraper():
     web_results = []
     
     try:
+        if progress_callback:
+            progress_callback("olx", "Scanning OLX Pakistan for multiple commute zones...")
         olx_results = scrape_olx()
         logging.info(f"OLX search complete. Found {len(olx_results)} listings.")
     except Exception as e:
         logging.error(f"OLX scraper failed globally: {e}")
         
     try:
+        if progress_callback:
+            progress_callback("zameen", "Scanning Zameen.com (Clifton, Saddar, PECHS, Bath Island)...")
         zameen_results = scrape_zameen()
         logging.info(f"Zameen search complete. Found {len(zameen_results)} listings.")
     except Exception as e:
         logging.error(f"Zameen scraper failed globally: {e}")
 
     try:
+        if progress_callback:
+            progress_callback("google", "Searching Google (Facebook Marketplace, Instagram, Graana)...")
         web_results = scrape_google_listings()
         logging.info(f"Google Web/Social search complete. Found {len(web_results)} listings.")
     except Exception as e:
@@ -656,9 +682,15 @@ def run_scraper():
     
     # 4. Compare and identify brand-new listings
     new_listings_found = 0
-    for flat in current_listings:
+    total_new = sum(1 for flat in current_listings if flat["link"].split("?")[0] not in existing_links)
+    
+    for idx, flat in enumerate(current_listings):
         normalized_link = flat["link"].split("?")[0]
         if normalized_link not in existing_links:
+            new_listings_found += 1
+            if progress_callback:
+                progress_callback("contacts", f"Extracting contacts ({new_listings_found}/{total_new}): {flat['title'][:30]}...")
+            
             logging.info(f"✨ Brand-new flat listing detected: {flat['title']} ({flat['price_str']})")
             
             # Fetch contact details for the new listing in real-time
@@ -669,10 +701,13 @@ def run_scraper():
             # Send Email Alert (Using credentials from Maimoon Dental Care)
             send_email_alert(flat)
             
-            new_listings_found += 1
+            # Add to seen list to prevent duplicate alert on current run
             existing_links.add(normalized_link)
             
     logging.info(f"Scan complete. Discovered {new_listings_found} new flat listings.")
+
+    if progress_callback:
+        progress_callback("saving", "Sorting and writing updated results to database...")
 
     # 5. Sort combined list by price ascending
     current_listings.sort(key=lambda x: x["price"])

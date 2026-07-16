@@ -12,6 +12,7 @@ scrape_status = {
     "is_running": False,
     "last_run": "Never",
     "status_message": "Idle",
+    "stage": "idle",
     "listings_found": 0
 }
 status_lock = threading.Lock()
@@ -20,16 +21,24 @@ def bg_scrape_task():
     global scrape_status
     with status_lock:
         scrape_status["is_running"] = True
-        scrape_status["status_message"] = "Scanning OLX and Zameen..."
+        scrape_status["stage"] = "starting"
+        scrape_status["status_message"] = "Initializing Playwright browser..."
     
+    def progress_update(stage_name, message):
+        with status_lock:
+            scrape_status["stage"] = stage_name
+            scrape_status["status_message"] = message
+            
     try:
-        listings = run_scraper()
+        listings = run_scraper(progress_callback=progress_update)
         with status_lock:
             scrape_status["listings_found"] = len(listings)
+            scrape_status["stage"] = "completed"
             scrape_status["status_message"] = "Scan completed successfully."
             scrape_status["last_run"] = time.strftime("%Y-%m-%d %H:%M:%S")
     except Exception as e:
         with status_lock:
+            scrape_status["stage"] = "failed"
             scrape_status["status_message"] = f"Error during scan: {str(e)}"
     finally:
         with status_lock:

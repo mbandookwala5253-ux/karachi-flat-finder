@@ -67,9 +67,10 @@
             <div class="control-group">
                 <label>Location</label>
                 <div class="filter-tabs" id="filter-location">
-                    <button class="tab-btn active" data-value="all">All Locations</button>
-                    <button class="tab-btn" data-value="Clifton">Clifton</button>
-                    <button class="tab-btn" data-value="Pakistan Chowk">Pakistan Chowk Area</button>
+                    <button class="tab-btn active" data-value="all">All Areas</button>
+                    <button class="tab-btn" data-value="Clifton Area">Clifton Commute</button>
+                    <button class="tab-btn" data-value="Pakistan Chowk Area">Pakistan Chowk Commute</button>
+                    <button class="tab-btn" data-value="PECHS / Shabbirabad">PECHS / Shabbirabad</button>
                 </div>
             </div>
 
@@ -113,6 +114,46 @@
                 </div>
             </div>
         </main>
+    </div>
+
+    <!-- Scanning Progress Stepper Overlay -->
+    <div class="scan-overlay" id="scan-overlay">
+        <div class="scan-modal">
+            <div class="scan-modal-header">
+                <div class="spinner inline-spinner"></div>
+                <div>
+                    <h3>Running Property Search...</h3>
+                    <p id="overlay-status-msg">Booting scraping engine...</p>
+                </div>
+            </div>
+            
+            <div class="scan-stepper">
+                <div class="step" id="step-starting">
+                    <span class="step-dot"></span>
+                    <span class="step-label">Initialize Playwright Browser</span>
+                </div>
+                <div class="step" id="step-olx">
+                    <span class="step-dot"></span>
+                    <span class="step-label">Scan OLX Pakistan (Multiple Commute Zones)</span>
+                </div>
+                <div class="step" id="step-zameen">
+                    <span class="step-dot"></span>
+                    <span class="step-label">Scan Zameen.com (Clifton/Saddar/PECHS)</span>
+                </div>
+                <div class="step" id="step-google">
+                    <span class="step-dot"></span>
+                    <span class="step-label">Search Google Dorks (Facebook/Instagram/Graana)</span>
+                </div>
+                <div class="step" id="step-contacts">
+                    <span class="step-dot"></span>
+                    <span class="step-label">Extract Advertiser Contact Details</span>
+                </div>
+                <div class="step" id="step-saving">
+                    <span class="step-dot"></span>
+                    <span class="step-label">Sync Database and Dispatch Email Alerts</span>
+                </div>
+            </div>
+        </div>
     </div>
 
     <!-- Scraper Log Drawer -->

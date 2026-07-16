@@ -123,8 +123,8 @@ async function loadFlatsData(wasJustScanned = false) {
 
 // Stats computations
 function updateStatsCounters(data) {
-    const cliftonCount = data.filter(f => f.area === "Clifton").length;
-    const chowkCount = data.filter(f => f.area === "Pakistan Chowk").length;
+    const cliftonCount = data.filter(f => f.area === "Clifton Area").length;
+    const chowkCount = data.filter(f => f.area === "Pakistan Chowk Area").length;
     
     // Compute average rent
     let avgRent = 0;
@@ -169,16 +169,50 @@ async function checkScraperStatus() {
         lastScanned.textContent = status.last_run || "Never";
         statusMsg.textContent = status.status_message || "Idle";
         
+        // Modal Overlay Control
+        const overlay = document.getElementById('scan-overlay');
+        const overlayMsg = document.getElementById('overlay-status-msg');
+        
         if (status.is_running) {
             btnScan.disabled = true;
             btnScan.classList.add('running');
             statusDot.className = "status-indicator running";
+            
+            // Show Overlay Modal
+            if (overlay) {
+                overlay.style.display = 'flex';
+            }
+            if (overlayMsg) {
+                overlayMsg.textContent = status.status_message || "Processing...";
+            }
+            
+            // Manage Stepper Steps Active/Completed states
+            const steps = ['starting', 'olx', 'zameen', 'google', 'contacts', 'saving'];
+            const currentStage = status.stage || 'starting';
+            const currentIdx = steps.indexOf(currentStage);
+            
+            steps.forEach((step, idx) => {
+                const el = document.getElementById(`step-${step}`);
+                if (el) {
+                    el.classList.remove('active', 'completed');
+                    if (idx < currentIdx) {
+                        el.classList.add('completed');
+                    } else if (idx === currentIdx) {
+                        el.classList.add('active');
+                    }
+                }
+            });
             
             // Auto update logs if drawer is open
             if (logDrawer.classList.contains('open')) {
                 updateLogs();
             }
         } else {
+            // Hide Overlay Modal
+            if (overlay) {
+                overlay.style.display = 'none';
+            }
+            
             // If it just stopped running, reload the property data with scan notification flag
             if (btnScan.disabled && btnScan.classList.contains('running')) {
                 loadFlatsData(true);
