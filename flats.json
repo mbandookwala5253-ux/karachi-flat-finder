@@ -360,18 +360,6 @@
         "date": "2026-07-17"
     },
     {
-        "title": "1000 Square Feet Flat For rent Is Available In Gulshan-e-Iqbal - Block 11",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_1000_square_feet_flat_for_rent_is_available_in_gulshan-e-iqbal_-_block_11-54336280-6872-4.html",
-        "image": "https://media.zameen.com/thumbnails/300888144-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-17"
-    },
-    {
         "title": "Ideal Flat For rent In Gulshan-e-Iqbal - Block 13/B",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -380,6 +368,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-17"
+    },
+    {
+        "title": "1000 Square Feet Flat For rent Is Available In Gulshan-e-Iqbal - Block 11",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_1000_square_feet_flat_for_rent_is_available_in_gulshan-e-iqbal_-_block_11-54336280-6872-4.html",
+        "image": "https://media.zameen.com/thumbnails/300888144-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-17"
     },
