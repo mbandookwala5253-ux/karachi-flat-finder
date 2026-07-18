@@ -120,6 +120,20 @@
         "date": "2026-07-18"
     },
     {
+        "title": "FLAT 2 BED LOUNGE GROUND FLOOR BEHINED PATEL HOSPITAL AVAILABLE FOR RENT",
+        "price": 25000,
+        "price_str": "PKR 25,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_flat_2_bed_lounge_ground_floor_behined_patel_hospital_available_for_rent-54330732-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/299769819-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-18",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Affordable Flat For rent In Clifton - Block 2",
         "price": 30000,
         "price_str": "PKR 30,000",
@@ -396,7 +410,7 @@
         "date": "2026-07-18"
     },
     {
-        "title": "4th Floor with roof top (Without Lift) 3 Bed DD Flat Available For Rent Block 7 Gulistan-E-Jauhar Karachi",
+        "title": "4th Floor With Roof Top (Without Lift) 3 Bed DD Flat Available For Rent Block 7 Gulistan-E-Jauhar Karachi",
         "price": 50000,
         "price_str": "PKR 50,000",
         "location": "Saddar",
