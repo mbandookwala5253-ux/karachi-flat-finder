@@ -120,6 +120,20 @@
         "date": "2026-07-18"
     },
     {
+        "title": "Affordable Flat For rent In Clifton - Block 2",
+        "price": 30000,
+        "price_str": "PKR 30,000",
+        "location": "Clifton",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/clifton_clifton_-_block_2_affordable_flat_for_rent_in_clifton_-_block_2-54427954-1664-4.html",
+        "image": "https://media.zameen.com/thumbnails/304222695-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-18",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "900 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
         "price": 30000,
         "price_str": "PKR 30,000",
@@ -213,9 +227,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_5_affordable_flat_for_rent_in_gulshan-e-iqbal_-_block_5-54443193-6866-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.919484/67.089765/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-07-18",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-18"
     },
     {
         "title": "2 Bed 2nd Floor Flat Common Only For guzrati  Family",
@@ -384,6 +396,20 @@
         "image": "https://media.zameen.com/thumbnails/304397169-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-18"
+    },
+    {
+        "title": "Female Full Furnished Flat Available Clifton",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Clifton",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/clifton_clifton_-_block_5_female_full_furnished_flat_available_clifton-54486692-1667-4.html",
+        "image": "https://media.zameen.com/thumbnails/304809412-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-18",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "4th Floor With Roof Top (Without Lift) 3 Bed DD Flat Available For Rent Block 7 Gulistan-E-Jauhar Karachi",
