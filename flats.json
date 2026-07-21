@@ -168,6 +168,20 @@
         "date": "2026-07-21"
     },
     {
+        "title": "2 Bed Lounge 3rd floor flat available for Rent in block 1 gulshan-e-Iqbal",
+        "price": 32000,
+        "price_str": "PKR 32,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_3rd_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54502274-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/304955285-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-21",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "950 Square Feet Flat In Gulshan-e-Iqbal - Block 1 Best Option",
         "price": 33000,
         "price_str": "PKR 33,000",
@@ -300,18 +314,6 @@
         "date": "2026-07-21"
     },
     {
-        "title": "2nd Floor Flat",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_2nd_floor_flat-54455936-8844-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.908304/67.080631/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-07-21"
-    },
-    {
         "title": "Furnished Apartment",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -360,18 +362,6 @@
         "date": "2026-07-21"
     },
     {
-        "title": "FLAT FOR RENT CIVIC VIEW APARTMENT FIRST FLOOR LIFT CAR PARKING BOUNDARIES WALL NEARLY HASAN SQUARE BLOCK 13A GULSHAN E IQBAL CELL 03219257555",
-        "price": 47000,
-        "price_str": "PKR 47,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_flat_for_rent_civic_view_apartment_first_floor_lift_car_parking_boundaries_wall_nearly_hasan_square_block_13a_gulshan_e_iqbal_cell_03219257555-54409869-8468-4.html",
-        "image": "https://media.zameen.com/thumbnails/304033144-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-21"
-    },
-    {
         "title": "Gulshan Iqbal block 13. E. Flat available on Rent at Ground floor. 3bed. d. d.",
         "price": 48000,
         "price_str": "PKR 48,000",
@@ -381,9 +371,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_gulshan_iqbal_block_13_e_flat_available_on_rent_at_ground_floor_3bed_d_d-54501620-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/304951606-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-21",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-21"
     },
     {
         "title": "Get This Amazing 1150 Square Feet Flat Available In Gulshan-e-Iqbal Town",
