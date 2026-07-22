@@ -120,6 +120,20 @@
         "date": "2026-07-22"
     },
     {
+        "title": "Affordable Flat For rent In Clifton - Block 2",
+        "price": 30000,
+        "price_str": "PKR 30,000",
+        "location": "Clifton",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/clifton_clifton_-_block_2_affordable_flat_for_rent_in_clifton_-_block_2-54427954-1664-4.html",
+        "image": "https://media.zameen.com/thumbnails/304222695-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-22",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Near Practical Centre Al Raheem Terrace Flat For Rent",
         "price": 30000,
         "price_str": "PKR 30,000",
@@ -216,26 +230,14 @@
         "date": "2026-07-22"
     },
     {
-        "title": "2 bed d. d gulshan nipa",
-        "price": 38000,
-        "price_str": "PKR 38,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_2_bed_d_d_gulshan_nipa-54491861-6872-4.html",
-        "image": "https://media.zameen.com/thumbnails/304858527-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-22"
-    },
-    {
-        "title": "2 Bed 2nd Floor Flat Common",
+        "title": "Prime Location 1080 Square Feet Flat For rent In Defence View Phase 2 Karachi In Only Rs. 40000",
         "price": 40000,
         "price_str": "PKR 40,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
+        "location": "Saddar",
+        "area": "Clifton Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_2_bed_2nd_floor_flat_common-54472213-217-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.88776/67.076926/image.jpeg?quality=80&imageformat=jpeg",
+        "link": "https://www.zameen.com/Property/defence_view_society_defence_view_phase_2_prime_location_1080_square_feet_flat_for_rent_in_defence_view_phase_2_karachi_in_only_rs_40000-54498071-8276-4.html",
+        "image": "https://media.zameen.com/thumbnails/304917937-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-22",
         "contact_name": "Not Available",
@@ -360,6 +362,20 @@
         "image": "https://media.zameen.com/thumbnails/304397169-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-22"
+    },
+    {
+        "title": "Stunning 2-Bed DD Apartment Available For Rent in Gulshan-e-Iqbal Block 11",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_stunning_2-bed_dd_apartment_available_for_rent_in_gulshan-e-iqbal_block_11-54504183-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/304978193-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-22",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "BRAND NEW 2BED DD 3RD FLOOR FLATE AVAILABLE FOR RENT NEAR TO RASHID MINHAS ROAD",
