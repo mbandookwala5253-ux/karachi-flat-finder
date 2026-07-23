@@ -120,18 +120,6 @@
         "date": "2026-07-23"
     },
     {
-        "title": "Near Practical Centre Al Raheem Terrace Flat For Rent",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_near_practical_centre_al_raheem_terrace_flat_for_rent-54463467-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/304575019-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-23"
-    },
-    {
         "title": "900 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
         "price": 30000,
         "price_str": "PKR 30,000",
@@ -192,6 +180,18 @@
         "date": "2026-07-23"
     },
     {
+        "title": "Near Practical Centre Al Raheem Terrace Flat For Rent",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_near_practical_centre_al_raheem_terrace_flat_for_rent-54463467-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/304575019-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-23"
+    },
+    {
         "title": "Investors Should Rent This Flat Located Ideally In Jamshed Town",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -237,9 +237,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_brand_new_2bed_lounch_3rd_floor_available_for_rent_near_rashid_minhas_road-54510362-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/305037750-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-23",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-23"
     },
     {
         "title": "2 Bed D. D Gulshan Nipa",
@@ -251,9 +249,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_2_bed_d_d_gulshan_nipa-54491861-6872-4.html",
         "image": "https://media.zameen.com/thumbnails/304858527-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-23",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-23"
     },
     {
         "title": "Flat Available For Rent",
