@@ -132,18 +132,6 @@
         "date": "2026-07-23"
     },
     {
-        "title": "A Prime Location Flat In Karachi",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_a_prime_location_flat_in_karachi-51900209-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/303557635-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-23"
-    },
-    {
         "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-e-Iqbal - Block 1",
         "price": 31000,
         "price_str": "PKR 31,000",
@@ -406,6 +394,20 @@
         "image": "https://media.zameen.com/thumbnails/300888144-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-23"
+    },
+    {
+        "title": "Maymar Avenue Gulshan E Iqbal Block 4",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_maymar_avenue_gulshan_e_iqbal_block_4-54447875-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/304410254-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-23",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "3RD FLOOR PENTHOUSE AVAILABLE ON RENT",
