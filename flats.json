@@ -1,17 +1,5 @@
 [
     {
-        "title": "NEWLY 1BED LOUNCH 2ND FLOOR FLATE AVAILABLE FOR RENT NEAR TO RASHID MINHAS ROAD",
-        "price": 23000,
-        "price_str": "PKR 23,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 1,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_newly_1bed_lounch_2nd_floor_flate_available_for_rent_near_to_rashid_minhas_road-54486411-6863-4.html",
-        "image": "https://media.zameen.com/thumbnails/304806433-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-23"
-    },
-    {
         "title": "Flat For Rent In Sadar Akbar Road",
         "price": 25000,
         "price_str": "PKR 25,000",
@@ -240,16 +228,32 @@
         "date": "2026-07-23"
     },
     {
-        "title": "Prime Location 1080 Square Feet Flat For rent In Defence View Phase 2 Karachi In Only Rs. 40000",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "Saddar",
-        "area": "Clifton Area",
+        "title": "BRAND NEW 2BED LOUNCH 3RD FLOOR AVAILABLE FOR RENT NEAR RASHID MINHAS ROAD",
+        "price": 36000,
+        "price_str": "PKR 36,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/defence_view_society_defence_view_phase_2_prime_location_1080_square_feet_flat_for_rent_in_defence_view_phase_2_karachi_in_only_rs_40000-54498071-8276-4.html",
-        "image": "https://media.zameen.com/thumbnails/304917937-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_brand_new_2bed_lounch_3rd_floor_available_for_rent_near_rashid_minhas_road-54510362-6863-4.html",
+        "image": "https://media.zameen.com/thumbnails/305037750-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-23"
+        "date": "2026-07-23",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "2 Bed D. D Gulshan Nipa",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_2_bed_d_d_gulshan_nipa-54491861-6872-4.html",
+        "image": "https://media.zameen.com/thumbnails/304858527-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-23",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat Available For Rent",
@@ -324,18 +328,6 @@
         "date": "2026-07-23"
     },
     {
-        "title": "Get In Touch Now To Buy A 900 Square Feet Flat In Karachi",
-        "price": 47000,
-        "price_str": "PKR 47,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_get_in_touch_now_to_buy_a_900_square_feet_flat_in_karachi-54463780-8844-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.908304/67.080631/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-07-23"
-    },
-    {
         "title": "Gulshan Iqbal block 13. E. Flat available on Rent at Ground floor. 3bed. d. d.",
         "price": 48000,
         "price_str": "PKR 48,000",
@@ -393,9 +385,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_2_bed_d_d_gulshan_nipa-54508782-6872-4.html",
         "image": "https://media.zameen.com/thumbnails/305021967-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-23",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-23"
     },
     {
         "title": "To rent You Can Find Spacious Flat In Gulshan-e-Iqbal - Block 13/A",
