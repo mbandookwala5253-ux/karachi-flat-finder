@@ -117,9 +117,7 @@
         "link": "https://www.zameen.com/Property/clifton_clifton_-_block_2_affordable_flat_for_rent_in_clifton_-_block_2-54427954-1664-4.html",
         "image": "https://media.zameen.com/thumbnails/304222695-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-24"
     },
     {
         "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-e-Iqbal - Block 1",
@@ -242,20 +240,6 @@
         "date": "2026-07-24"
     },
     {
-        "title": "Flat For Rent 2 Bed DD 2nd Floor Gulshan Iqbal block 13D1 Sana Comfort  Parking Rent 40k*Code(16792)*",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_flat_for_rent_2_bed_dd_2nd_floor_gulshan_iqbal_block_13d1_sana_comfort_parking_rent_40k_code_16792-54515921-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/305092616-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "Flat Available For Rent",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -373,9 +357,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_1100_square_feet_flat_for_rent_in_gulshan-e-iqbal_-_block_13_a_karachi-54500619-8468-4.html",
         "image": "https://media.zameen.com/thumbnails/304943431-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03219257555"
+        "date": "2026-07-24"
     },
     {
         "title": "2 bed d. d Gulshan NIPA",
@@ -424,5 +406,19 @@
         "image": "https://media.zameen.com/thumbnails/300888144-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-24"
+    },
+    {
+        "title": "Maymar Avenue Gulshan E Iqbal Block 4",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_maymar_avenue_gulshan_e_iqbal_block_4-54447875-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/304410254-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     }
 ]
