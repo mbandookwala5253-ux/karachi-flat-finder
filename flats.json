@@ -108,16 +108,18 @@
         "date": "2026-07-24"
     },
     {
-        "title": "900 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
+        "title": "Affordable Flat For rent In Clifton - Block 2",
         "price": 30000,
         "price_str": "PKR 30,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
+        "location": "Clifton",
+        "area": "Clifton Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_900_square_feet_flat_for_rent_in_gulshan-e-iqbal_town-51900217-6858-4.html",
-        "image": "https://media.zameen.com/thumbnails/303560732-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/clifton_clifton_-_block_2_affordable_flat_for_rent_in_clifton_-_block_2-54427954-1664-4.html",
+        "image": "https://media.zameen.com/thumbnails/304222695-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-24"
+        "date": "2026-07-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-e-Iqbal - Block 1",
@@ -216,6 +218,20 @@
         "date": "2026-07-24"
     },
     {
+        "title": "Flat for Rent in Gulshan e Iqbal Near Nipa",
+        "price": 37000,
+        "price_str": "PKR 37,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent_in_gulshan_e_iqbal_near_nipa-54513694-233-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.916643/67.096539/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-07-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 Bed D. D Gulshan Nipa",
         "price": 38000,
         "price_str": "PKR 38,000",
@@ -286,6 +302,20 @@
         "image": "https://media.zameen.com/thumbnails/304304338-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-24"
+    },
+    {
+        "title": "Flat For Rent In Saddar Jubilee Chowk",
+        "price": 46000,
+        "price_str": "PKR 46,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_saddar_town_flat_for_rent_in_saddar_jubilee_chowk-54513692-7269-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.876626/67.018219/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-07-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent In Saddar Jubilee Chowk",
@@ -392,18 +422,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_maymar_avenue_gulshan_e_iqbal_block_4-54447875-6864-4.html",
         "image": "https://media.zameen.com/thumbnails/304410254-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-24"
-    },
-    {
-        "title": "3RD FLOOR PENTHOUSE AVAILABLE ON RENT",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Jamshed_Town_Garden_East",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/karachi_administration_employees_society_kaechs_-_block_4_3rd_floor_penthouse_available_on_rent-54288674-19885-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.85961831/67.07907847/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-07-24"
     }
