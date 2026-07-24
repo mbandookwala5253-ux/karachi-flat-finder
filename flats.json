@@ -120,6 +120,20 @@
         "date": "2026-07-24"
     },
     {
+        "title": "900 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
+        "price": 30000,
+        "price_str": "PKR 30,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_900_square_feet_flat_for_rent_in_gulshan-e-iqbal_town-51900217-6858-4.html",
+        "image": "https://media.zameen.com/thumbnails/303560732-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-e-Iqbal - Block 1",
         "price": 31000,
         "price_str": "PKR 31,000",
@@ -404,18 +418,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_1000_square_feet_flat_for_rent_is_available_in_gulshan-e-iqbal_-_block_11-54336280-6872-4.html",
         "image": "https://media.zameen.com/thumbnails/300888144-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-24"
-    },
-    {
-        "title": "Maymar Avenue Gulshan E Iqbal Block 4",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_maymar_avenue_gulshan_e_iqbal_block_4-54447875-6864-4.html",
-        "image": "https://media.zameen.com/thumbnails/304410254-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-24"
     }
