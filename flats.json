@@ -108,14 +108,14 @@
         "date": "2026-07-25"
     },
     {
-        "title": "Affordable Flat For rent In Clifton - Block 2",
+        "title": "Apartment for rent",
         "price": 30000,
         "price_str": "PKR 30,000",
         "location": "Clifton",
         "area": "Clifton Area",
         "rooms": 2,
         "link": "https://www.zameen.com/Property/clifton_clifton_-_block_2_affordable_flat_for_rent_in_clifton_-_block_2-54427954-1664-4.html",
-        "image": "https://media.zameen.com/thumbnails/304222695-400x300.jpeg",
+        "image": "https://media.zameen.com/thumbnails/304222695-240x180.jpeg",
         "source": "Zameen",
         "date": "2026-07-25"
     },
@@ -128,18 +128,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_900_square_feet_flat_for_rent_in_gulshan-e-iqbal_town-51900217-6858-4.html",
         "image": "https://media.zameen.com/thumbnails/303560732-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-25"
-    },
-    {
-        "title": "A Prime Location Flat In Karachi",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_a_prime_location_flat_in_karachi-51900209-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/303557635-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-25"
     },
