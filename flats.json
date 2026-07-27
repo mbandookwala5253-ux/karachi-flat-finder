@@ -204,18 +204,6 @@
         "date": "2026-07-27"
     },
     {
-        "title": "BRAND NEW 2BED LOUNCH 3RD FLOOR AVAILABLE FOR RENT",
-        "price": 36000,
-        "price_str": "PKR 36,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_brand_new_2bed_lounch_3rd_floor_available_for_rent-54510362-6863-4.html",
-        "image": "https://media.zameen.com/thumbnails/305037753-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-27"
-    },
-    {
         "title": "Flat for Rent in Gulshan e Iqbal Near Nipa",
         "price": 37000,
         "price_str": "PKR 37,000",
@@ -226,20 +214,6 @@
         "image": "https://images.zameen.com/smap/400/300/24.916643/67.096539/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-07-27"
-    },
-    {
-        "title": "One Bedroom With Attach Bathroom Seperate Enterance Lift Car Parking",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "Clifton",
-        "area": "Clifton Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/clifton_clifton_-_block_4_one_bedroom_with_attach_bathroom_seperate_enterance_lift_car_parking-54474863-1666-4.html",
-        "image": "https://media.zameen.com/thumbnails/305178961-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-27",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "Furnished Rooms For Rent At Dhoraji Gulshan Block 3",
@@ -372,6 +346,20 @@
         "image": "https://media.zameen.com/thumbnails/304943431-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-27"
+    },
+    {
+        "title": "Prime location and best for small family",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_prime_location_and_best_for_small_family-54530424-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/305229709-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-27",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Silent Commercial Flat For rent In Gulshan-e-Iqbal - Block 6",
