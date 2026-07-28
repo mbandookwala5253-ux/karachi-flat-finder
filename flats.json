@@ -108,6 +108,20 @@
         "date": "2026-07-28"
     },
     {
+        "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-E-Iqbal - Block 1",
+        "price": 31000,
+        "price_str": "PKR 31,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_fair-priced_850_square_feet_flat_available_in_gulshan-e-iqbal_-_block_1-54508279-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/305017830-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-28",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 Bed Lounge 3rd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
         "price": 32000,
         "price_str": "PKR 32,000",
@@ -204,18 +218,6 @@
         "date": "2026-07-28"
     },
     {
-        "title": "One Bedroom With Attach Bathroom Seperate Enterance Lift Car Parking",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "Clifton",
-        "area": "Clifton Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/clifton_clifton_-_block_4_one_bedroom_with_attach_bathroom_seperate_enterance_lift_car_parking-54474863-1666-4.html",
-        "image": "https://media.zameen.com/thumbnails/305178961-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-28"
-    },
-    {
         "title": "Furnished Rooms For Rent At Dhoraji Gulshan Block 3",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -238,6 +240,20 @@
         "image": "https://media.zameen.com/thumbnails/305167589-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-28"
+    },
+    {
+        "title": "Clifton One Bedroom With Servant Room Seperate Enterance Lift Car Parking",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "Clifton",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/clifton_clifton_-_block_4_clifton_one_bedroom_with_servant_room_seperate_enterance_lift_car_parking-54474863-1666-4.html",
+        "image": "https://media.zameen.com/thumbnails/305273169-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-28",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Furnished Flat For Rent at Dhoraji Gulshan Block 3",
@@ -380,18 +396,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_silent_commercial_flat_for_rent_in_gulshan-e-iqbal_-_block_6-54527931-6867-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-07-28"
-    },
-    {
-        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
-        "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-28"
     }
