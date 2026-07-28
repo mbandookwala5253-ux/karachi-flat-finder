@@ -108,18 +108,6 @@
         "date": "2026-07-28"
     },
     {
-        "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-E-Iqbal - Block 1",
-        "price": 31000,
-        "price_str": "PKR 31,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_fair-priced_850_square_feet_flat_available_in_gulshan-e-iqbal_-_block_1-54508279-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/305017830-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-28"
-    },
-    {
         "title": "2 Bed Lounge 3rd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
         "price": 32000,
         "price_str": "PKR 32,000",
@@ -154,6 +142,20 @@
         "image": "https://media.zameen.com/thumbnails/304169591-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-28"
+    },
+    {
+        "title": "2 Bed Lounge Flat For Rent | Gulshan-E-Iqbal Block 11 | Family Apartment",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_2_bed_lounge_flat_for_rent_gulshan-e-iqbal_block_11_family_apartment-54531536-6872-4.html",
+        "image": "https://media.zameen.com/thumbnails/305238416-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-28",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Buy A 850 Square Feet Flat For rent In Gulshan-e-Iqbal - Block 6",
