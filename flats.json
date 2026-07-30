@@ -192,6 +192,20 @@
         "date": "2026-07-30"
     },
     {
+        "title": "2 Bed Drawing Lounge Flat With Available For Rent At Gulshan E Iqbal",
+        "price": 41000,
+        "price_str": "PKR 41,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-3_2_bed_drawing_lounge_flat_with_available_for_rent_at_gulshan_e_iqbal-53775092-11043-4.html",
+        "image": "https://media.zameen.com/thumbnails/305368162-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-30",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 Bed Drawing Lounge 3rd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
         "price": 42000,
         "price_str": "PKR 42,000",
@@ -324,18 +338,6 @@
         "date": "2026-07-30"
     },
     {
-        "title": "Maintained 02 Bedrooms Apartment Available For Rent",
-        "price": 48000,
-        "price_str": "PKR 48,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_10-a_maintained_02_bedrooms_apartment_available_for_rent-54519107-8894-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.90851753/67.11038939/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-07-30"
-    },
-    {
         "title": "1100 Square Feet Flat For rent In Gulshan-e-Iqbal - Block 13/A Karachi",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -348,18 +350,6 @@
         "date": "2026-07-30"
     },
     {
-        "title": "Newly Built Apartment Available For Rent",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_newly_built_apartment_available_for_rent-51936543-8468-4.html",
-        "image": "https://media.zameen.com/thumbnails/305245021-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-30"
-    },
-    {
         "title": "2 BED DD FLAT AVAILABLE FOR RENT IN Gulshan-e-Iqbal Block 4",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -368,6 +358,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_2_bed_dd_flat_available_for_rent_in_gulshan-e-iqbal_block_4-54530424-6864-4.html",
         "image": "https://media.zameen.com/thumbnails/305229709-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-30"
+    },
+    {
+        "title": "Newly Built Apartment Available For Rent",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_newly_built_apartment_available_for_rent-51936543-8468-4.html",
+        "image": "https://media.zameen.com/thumbnails/305245021-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-30"
     },
