@@ -117,9 +117,7 @@
         "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54481188-9030-4.html",
         "image": "https://media.zameen.com/thumbnails/304753037-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-31"
     },
     {
         "title": "Beautiful Apartment Available For Rent",
@@ -214,18 +212,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-3_2_bed_drawing_lounge_flat_with_available_for_rent_at_gulshan_e_iqbal-53775092-11043-4.html",
         "image": "https://media.zameen.com/thumbnails/305368162-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-31"
-    },
-    {
-        "title": "2 Bed Drawing Lounge 3rd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
-        "price": 42000,
-        "price_str": "PKR 42,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_drawing_lounge_3rd_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54522596-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/305167589-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-31"
     },
@@ -396,5 +382,19 @@
         "image": "https://media.zameen.com/thumbnails/305229709-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-07-31"
+    },
+    {
+        "title": "2 bed lounge for rent pechs block 2 commercial area",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Jamshed_Town_Garden_East",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/jamshed_town_pechs_2_bed_lounge_for_rent_pechs_block_2_commercial_area-54548136-403-4.html",
+        "image": "https://media.zameen.com/thumbnails/305395283-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-07-31",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     }
 ]
