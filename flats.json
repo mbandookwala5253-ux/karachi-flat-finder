@@ -240,18 +240,6 @@
         "date": "2026-07-31"
     },
     {
-        "title": "Furnished Flat For Rent at Dhoraji Gulshan Block 3",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_furnished_flat_for_rent_at_dhoraji_gulshan_block_3-54124817-6863-4.html",
-        "image": "https://media.zameen.com/thumbnails/301778835-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-07-31"
-    },
-    {
         "title": "Furnished Apartment",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -393,9 +381,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-07-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-07-31"
     },
     {
         "title": "2 bed lounge for rent pechs block 2 commercial area",
