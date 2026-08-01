@@ -66,18 +66,6 @@
         "location": "Saddar",
         "area": "Pakistan Chowk Area",
         "rooms": 1,
-        "link": "https://www.zameen.com/Property/karachi_saddar_town_flat_1_bed_common_at_main_saddar_near_rainbow_center_for_rent-54336647-7269-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.876626/67.018219/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-08-01"
-    },
-    {
-        "title": "Flat 1 Bed Common At Main Saddar Near Rainbow Center For Rent",
-        "price": 25000,
-        "price_str": "PKR 25,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 1,
         "link": "https://www.zameen.com/Property/karachi_saddar_town_flat_1_bed_common_at_main_saddar_near_rainbow_center_for_rent-54336593-7269-4.html",
         "image": "https://media.zameen.com/thumbnails/300902493-400x300.jpeg",
         "source": "Zameen",
@@ -103,6 +91,18 @@
         "area": "Pakistan Chowk Area",
         "rooms": 1,
         "link": "https://www.zameen.com/Property/karachi_saddar_town_flat_1_bed_common_at_main_saddar_near_rainbow_center_for_rent-54336622-7269-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.876626/67.018219/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-08-01"
+    },
+    {
+        "title": "Flat 1 Bed Common At Main Saddar Near Rainbow Center For Rent",
+        "price": 25000,
+        "price_str": "PKR 25,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 1,
+        "link": "https://www.zameen.com/Property/karachi_saddar_town_flat_1_bed_common_at_main_saddar_near_rainbow_center_for_rent-54336647-7269-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.876626/67.018219/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-01"
@@ -140,18 +140,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_flat_available_for_rent-54550264-8468-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.905628/67.074788/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-08-01"
-    },
-    {
-        "title": "2 Bed Lounge Flat For Rent | Gulshan-E-Iqbal Block 11 | Family Apartment",
-        "price": 35000,
-        "price_str": "PKR 35,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_2_bed_lounge_flat_for_rent_gulshan-e-iqbal_block_11_family_apartment-54531536-6872-4.html",
-        "image": "https://media.zameen.com/thumbnails/305238418-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-01"
     },
