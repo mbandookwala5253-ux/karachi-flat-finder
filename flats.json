@@ -240,6 +240,20 @@
         "date": "2026-08-03"
     },
     {
+        "title": "flat for rant",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Jamshed_Town_Garden_East",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/pechs_pechs_block_2_flat_for_rant-54557912-6933-4.html",
+        "image": "https://media.zameen.com/thumbnails/305491413-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Dawood Avenue Near KFC Block 7 Gulshan-e-iqbal Karachi",
         "price": 42000,
         "price_str": "PKR 42,000",
@@ -252,7 +266,7 @@
         "date": "2026-08-03"
     },
     {
-        "title": "2 Bedroom Drawing Lounge American kitchen Available Flat For Rent 4th Floor Moizak Flooring 24/7 Light and Water\"Available at a prime location,",
+        "title": "2 Bedroom Drawing Lounge American Kitchen Available Flat For Rent 4th Floor Moizak Flooring 24/7 Light And Water\"Available At A Prime Location,",
         "price": 43000,
         "price_str": "PKR 43,000",
         "location": "PECHS",
@@ -346,6 +360,20 @@
         "image": "https://media.zameen.com/thumbnails/303912346-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-03"
+    },
+    {
+        "title": "Neat & Clean 2 Bed DD Apartment for Rent | 2nd Floor | Gulshan-e-Iqbal Block 11",
+        "price": 47000,
+        "price_str": "PKR 47,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_neat_clean_2_bed_dd_apartment_for_rent_2nd_floor_gulshan-e-iqbal_block_11-54557509-6872-4.html",
+        "image": "https://media.zameen.com/thumbnails/305487065-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Gulshan Iqbal block 13. E. Flat available on Rent at Ground floor. 3bed. d. d.",
