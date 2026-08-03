@@ -108,18 +108,6 @@
         "date": "2026-08-03"
     },
     {
-        "title": "Beautiful Apartment Available For Rent",
-        "price": 32000,
-        "price_str": "PKR 32,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_beautiful_apartment_available_for_rent-54421899-13917-4.html",
-        "image": "https://media.zameen.com/thumbnails/304169591-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-03"
-    },
-    {
         "title": "4th floor flat",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -264,6 +252,18 @@
         "date": "2026-08-03"
     },
     {
+        "title": "FLAT FOR RENT",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54550310-8845-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.9109373/67.0862456/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-08-03"
+    },
+    {
         "title": "1st floor flat",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -284,18 +284,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_ground_floor_flat-54551108-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/305427180-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-03"
-    },
-    {
-        "title": "FLAT FOR RENT",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54550310-8845-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.9109373/67.0862456/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-03"
     },
