@@ -204,18 +204,6 @@
         "date": "2026-08-03"
     },
     {
-        "title": "850 Square Feet Flat In Gulshan-e-Iqbal - Block 3 For rent",
-        "price": 38000,
-        "price_str": "PKR 38,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_850_square_feet_flat_in_gulshan-e-iqbal_-_block_3_for_rent-54409762-6863-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.921946103584/67.093412899386/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-08-03"
-    },
-    {
         "title": "Furnished Rooms For Rent At Dhoraji Gulshan Block 3",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -249,9 +237,7 @@
         "link": "https://www.zameen.com/Property/pechs_pechs_block_2_flat_for_rant-54557912-6933-4.html",
         "image": "https://media.zameen.com/thumbnails/305491413-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-03",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-03"
     },
     {
         "title": "Dawood Avenue Near KFC Block 7 Gulshan-e-iqbal Karachi",
@@ -371,9 +357,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_neat_clean_2_bed_dd_apartment_for_rent_2nd_floor_gulshan-e-iqbal_block_11-54557509-6872-4.html",
         "image": "https://media.zameen.com/thumbnails/305487065-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-03",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-03"
     },
     {
         "title": "Gulshan Iqbal block 13. E. Flat available on Rent at Ground floor. 3bed. d. d.",
@@ -412,14 +396,28 @@
         "date": "2026-08-03"
     },
     {
-        "title": "2 bed lounge for rent pechs block 2 commercial area",
+        "title": "3 BED DD FLAT FOR RENT IN GULSHAN E IQBAL 13 D 2",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 3,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_3_bed_dd_flat_for_rent_in_gulshan_e_iqbal_13_d_2-54560427-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/305515895-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "2 Bed Lounge For Rent Pechs Block 2 Commercial Area",
         "price": 50000,
         "price_str": "PKR 50,000",
         "location": "Jamshed_Town_Garden_East",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
         "link": "https://www.zameen.com/Property/jamshed_town_pechs_2_bed_lounge_for_rent_pechs_block_2_commercial_area-54548136-403-4.html",
-        "image": "https://media.zameen.com/thumbnails/305395283-400x300.jpeg",
+        "image": "https://media.zameen.com/thumbnails/305395286-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-03"
     }
