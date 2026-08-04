@@ -120,7 +120,7 @@
         "date": "2026-08-04"
     },
     {
-        "title": "4th floor flat",
+        "title": "4th Floor Flat",
         "price": 35000,
         "price_str": "PKR 35,000",
         "location": "PECHS",
@@ -132,7 +132,7 @@
         "date": "2026-08-04"
     },
     {
-        "title": "flat available for rent",
+        "title": "Flat Available For Rent",
         "price": 35000,
         "price_str": "PKR 35,000",
         "location": "PECHS",
@@ -288,7 +288,7 @@
         "date": "2026-08-04"
     },
     {
-        "title": "ground floor flat",
+        "title": "Ground Floor Flat",
         "price": 45000,
         "price_str": "PKR 45,000",
         "location": "PECHS",
@@ -348,9 +348,9 @@
         "date": "2026-08-04"
     },
     {
-        "title": "Neat & Clean 2 Bed DD Apartment for Rent | 2nd Floor | Gulshan-e-Iqbal Block 11",
-        "price": 47000,
-        "price_str": "PKR 47,000",
+        "title": "Neat & Clean 2 Bed DD Apartment For Rent | 2nd Floor | Gulshan-E-Iqbal Block 11",
+        "price": 46000,
+        "price_str": "PKR 46,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
