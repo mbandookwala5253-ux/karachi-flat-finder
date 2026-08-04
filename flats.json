@@ -240,7 +240,7 @@
         "date": "2026-08-04"
     },
     {
-        "title": "Dawood Avenue Near KFC Block 7 Gulshan-e-iqbal Karachi",
+        "title": "Dawood Avenue Near KFC Block 7 Gulshan-E-Iqbal Karachi",
         "price": 42000,
         "price_str": "PKR 42,000",
         "location": "PECHS",
@@ -264,6 +264,18 @@
         "date": "2026-08-04"
     },
     {
+        "title": "Ground Floor Flat",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_ground_floor_flat-54551108-8845-4.html",
+        "image": "https://media.zameen.com/thumbnails/305427180-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-04"
+    },
+    {
         "title": "FLAT FOR RENT",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -276,7 +288,7 @@
         "date": "2026-08-04"
     },
     {
-        "title": "1st floor flat",
+        "title": "1st Floor Flat",
         "price": 45000,
         "price_str": "PKR 45,000",
         "location": "PECHS",
@@ -284,18 +296,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_1st_floor_flat-54552098-6864-4.html",
         "image": "https://media.zameen.com/thumbnails/305435965-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-04"
-    },
-    {
-        "title": "Ground Floor Flat",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_ground_floor_flat-54551108-8845-4.html",
-        "image": "https://media.zameen.com/thumbnails/305427180-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-04"
     },
@@ -370,6 +370,20 @@
         "image": "https://media.zameen.com/thumbnails/304951606-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-04"
+    },
+    {
+        "title": "FLAT FOR URGENT RENT",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_flat_for_urgent_rent-54305918-6858-4.html",
+        "image": "https://media.zameen.com/thumbnails/301872586-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-04",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "1100 Square Feet Flat For rent In Gulshan-e-Iqbal - Block 13/A Karachi",
