@@ -228,6 +228,20 @@
         "date": "2026-08-08"
     },
     {
+        "title": "FOR RENT - Gulshan-e-Iqbal Block 3 1000 Sq Ft | 4th Floor | No Lift",
+        "price": 36000,
+        "price_str": "PKR 36,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_for_rent_-_gulshan-e-iqbal_block_3_1000_sq_ft_4th_floor_no_lift-54549417-6863-4.html",
+        "image": "https://media.zameen.com/thumbnails/305406963-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-08",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat For Rent In Gulshan E Iqbal Near Nipa",
         "price": 37000,
         "price_str": "PKR 37,000",
@@ -320,18 +334,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_850_square_feet_flat_available_for_rent_in_gulshan-e-iqbal_-_block_13_c_karachi-54580999-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-08-08"
-    },
-    {
-        "title": "FLAT FOR RENT",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54550310-8845-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.9109373/67.0862456/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-08"
     },
