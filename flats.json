@@ -129,9 +129,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flat_for_rent-54574457-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/305643253-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-09",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-09"
     },
     {
         "title": "A Prime Location Flat In Karachi",
@@ -155,9 +153,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d_maintain_flat-54575675-6874-4.html",
         "image": "https://media.zameen.com/thumbnails/305654106-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-09",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-09"
     },
     {
         "title": "2 Bed Lounge Flat For Rent | Gulshan-E-Iqbal Block 11 | Family Apartment",
@@ -398,6 +394,20 @@
         "image": "https://media.zameen.com/thumbnails/305515895-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-09"
+    },
+    {
+        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_ideal_flat_for_rent_in_gulshan-e-iqbal-54385931-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-09",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "flat available for rent",
