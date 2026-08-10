@@ -129,9 +129,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_fair-priced_850_square_feet_flat_available_in_gulshan-e-iqbal_-_block_1-54508279-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/305017830-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-10",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-10"
     },
     {
         "title": "A Prime Location Flat In Karachi",
@@ -374,18 +372,6 @@
         "date": "2026-08-10"
     },
     {
-        "title": "3 BED DD FLAT FOR RENT IN GULSHAN E IQBAL 13 D 2",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 3,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_3_bed_dd_flat_for_rent_in_gulshan_e_iqbal_13_d_2-54560427-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/305515895-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-10"
-    },
-    {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -394,6 +380,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_ideal_flat_for_rent_in_gulshan-e-iqbal-54385931-233-4.html",
         "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-10"
+    },
+    {
+        "title": "3 BED DD FLAT FOR RENT IN GULSHAN E IQBAL 13 D 2",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 3,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_3_bed_dd_flat_for_rent_in_gulshan_e_iqbal_13_d_2-54560427-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/305515895-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-10"
     },
