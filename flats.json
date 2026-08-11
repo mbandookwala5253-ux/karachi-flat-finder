@@ -228,18 +228,6 @@
         "date": "2026-08-11"
     },
     {
-        "title": "Flat For Rent In Gulshan E Iqbal Near Nipa",
-        "price": 37000,
-        "price_str": "PKR 37,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent_in_gulshan_e_iqbal_near_nipa-54566424-233-4.html",
-        "image": "https://media.zameen.com/thumbnails/305571634-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-11"
-    },
-    {
         "title": "Furnished Rooms For Rent At Dhoraji Gulshan Block 3",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -260,6 +248,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_best_rental_options_in_dhoraji_colony_2_bed_dd_flat_for_rent-54595529-217-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.88776/67.076926/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-08-11"
+    },
+    {
+        "title": "Flat For Rent",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_flat_for_rent-54554810-6858-4.html",
+        "image": "https://media.zameen.com/thumbnails/305637522-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-11",
         "contact_name": "Not Available",
@@ -286,30 +286,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_ground_floor_flat-54551108-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/305427180-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-11"
-    },
-    {
-        "title": "2 Bed Lounge 2nd Floor",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_2_bed_lounge_2nd_floor-54583356-217-4.html",
-        "image": "https://media.zameen.com/thumbnails/305734824-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-11"
-    },
-    {
-        "title": "A One Comford Gulshan Iqbal Block 11 2 Bed DD 4th Floor Boundary Wall Project  Maintained (No Lift) Rent Demand 40000 *Code(16859)*",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_a_one_comford_gulshan_iqbal_block_11_2_bed_dd_4th_floor_boundary_wall_project_maintained_no_lift_rent_demand_40000_code_16859-54582615-6872-4.html",
-        "image": "https://media.zameen.com/thumbnails/305727417-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-11"
     },
@@ -372,6 +348,20 @@
         "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-11"
+    },
+    {
+        "title": "Hashim Arcade 2 Bed DD 3rd Floor Rent Final 50000 No lift Gulshan Iqbal block 1 *Code(16873)*",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_hashim_arcade_2_bed_dd_3rd_floor_rent_final_50000_no_lift_gulshan_iqbal_block_1_code_16873-54596588-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/305856885-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-11",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
