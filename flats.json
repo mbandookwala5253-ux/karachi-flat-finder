@@ -324,18 +324,6 @@
         "date": "2026-08-14"
     },
     {
-        "title": "FLAT AVAILABLE FOR RENT",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "Jamshed_Town_Garden_East",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/pechs_pechs_block_2_flat_available_for_rent-54392728-6933-4.html",
-        "image": "https://media.zameen.com/thumbnails/304304338-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-14"
-    },
-    {
         "title": "Flat For Rent In Saddar Jubilee Chowk",
         "price": 46000,
         "price_str": "PKR 46,000",
@@ -416,18 +404,6 @@
         "rooms": 3,
         "link": "https://www.zameen.com/Property/pechs_pechs_block_2_3rd_floor_3_bed_lounge_flat_for_rent-54595173-6933-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.871447/67.058573/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-08-14"
-    },
-    {
-        "title": "2 Bed Lounge For Rent Pechs Block 2 Commercial Area",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Jamshed_Town_Garden_East",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/jamshed_town_pechs_2_bed_lounge_for_rent_pechs_block_2_commercial_area-54548136-403-4.html",
-        "image": "https://media.zameen.com/thumbnails/305395286-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-14"
     }
