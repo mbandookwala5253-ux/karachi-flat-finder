@@ -108,6 +108,20 @@
         "date": "2026-08-15"
     },
     {
+        "title": "400 Square Feet Flat In Gulshan-e-Iqbal - Block 13/C Is Available",
+        "price": 25000,
+        "price_str": "PKR 25,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_400_square_feet_flat_in_gulshan-e-iqbal_-_block_13_c_is_available-54602349-8845-4.html",
+        "image": "https://media.zameen.com/thumbnails/305910530-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-15",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "1 Bed Lounge For Rent",
         "price": 30000,
         "price_str": "PKR 30,000",
@@ -118,6 +132,20 @@
         "image": "https://media.zameen.com/thumbnails/305728295-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-15"
+    },
+    {
+        "title": "Beautiful Apartment Available For Rent",
+        "price": 32000,
+        "price_str": "PKR 32,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_beautiful_apartment_available_for_rent-54421899-13917-4.html",
+        "image": "https://media.zameen.com/thumbnails/304169591-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-15",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "A Prime Location Flat In Karachi",
@@ -216,18 +244,6 @@
         "date": "2026-08-15"
     },
     {
-        "title": "2 bed lounge flat for rent for bachelor",
-        "price": 38000,
-        "price_str": "PKR 38,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2_bed_lounge_flat_for_rent_for_bachelor-54607412-6867-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-08-15"
-    },
-    {
         "title": "Furnished Rooms For Rent At Dhoraji Gulshan Block 3",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -252,16 +268,18 @@
         "date": "2026-08-15"
     },
     {
-        "title": "2 Bedroom Drawing Lounge American Kitchen Available Flat For Rent 4th Floor Moizak Flooring 24/7 Light And Water\"Available At A Prime Location,",
-        "price": 43000,
-        "price_str": "PKR 43,000",
+        "title": "Best Rental Options In Dhoraji Colony | 2 Bed DD Flat For Rent",
+        "price": 40000,
+        "price_str": "PKR 40,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_2_bedroom_drawing_lounge_american_kitchen_available_flat_for_rent_4th_floor_moizak_flooring_24_7_light_and_water_available_at_a_prime_location-54477280-21704-4.html",
-        "image": "https://media.zameen.com/thumbnails/304715687-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_best_rental_options_in_dhoraji_colony_2_bed_dd_flat_for_rent-54595529-217-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.88776/67.076926/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-08-15"
+        "date": "2026-08-15",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "2 Bed Dd First Floor West Open Gulshan E Iqbal Block 10",
@@ -336,18 +354,6 @@
         "date": "2026-08-15"
     },
     {
-        "title": "Gulshan Block1 2nd Floor Road Facing 2Bed 3Baths",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_gulshan_block1_2nd_floor_road_facing_2bed_3baths-54602900-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/305916473-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-15"
-    },
-    {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -356,6 +362,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_ideal_flat_for_rent_in_gulshan-e-iqbal-54385931-233-4.html",
         "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-15"
+    },
+    {
+        "title": "Gulshan Block1 2nd Floor Road Facing 2Bed 3Baths",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_gulshan_block1_2nd_floor_road_facing_2bed_3baths-54602900-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/305916473-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-15"
     },
@@ -382,20 +400,6 @@
         "image": "https://media.zameen.com/thumbnails/305515895-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-15"
-    },
-    {
-        "title": "Hashim Arcade 2 Bed DD 3rd Floor Rent Final 50000 No Lift Gulshan Iqbal Block 1 *Code(16873)*",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_hashim_arcade_2_bed_dd_3rd_floor_rent_final_50000_no_lift_gulshan_iqbal_block_1_code_16873-54596588-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/305856885-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-15",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "3rd Floor 3 Bed Lounge Flat For Rent",
