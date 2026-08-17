@@ -108,6 +108,20 @@
         "date": "2026-08-17"
     },
     {
+        "title": "400 Square Feet Flat In Gulshan-e-Iqbal - Block 13/C Is Available",
+        "price": 25000,
+        "price_str": "PKR 25,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_400_square_feet_flat_in_gulshan-e-iqbal_-_block_13_c_is_available-54602349-8845-4.html",
+        "image": "https://media.zameen.com/thumbnails/305910530-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-17",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "1 Bed Lounge For Rent",
         "price": 28000,
         "price_str": "PKR 28,000",
@@ -130,6 +144,20 @@
         "image": "https://media.zameen.com/thumbnails/305642756-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-17"
+    },
+    {
+        "title": "Laraib garden ground floor 2 bed launj Vacant",
+        "price": 33000,
+        "price_str": "PKR 33,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_laraib_garden_ground_floor_2_bed_launj_vacant-54623833-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/306109061-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-17",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "4th Floor Flat",
@@ -212,18 +240,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_gulshan_block_4_near_discovery_3-rooms_apt_2nd_floor_road_side-54601948-233-4.html",
         "image": "https://media.zameen.com/thumbnails/305905884-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-17"
-    },
-    {
-        "title": "2 Bed Lounge Flat For Rent For Bachelor",
-        "price": 38000,
-        "price_str": "PKR 38,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2_bed_lounge_flat_for_rent_for_bachelor-54607412-6867-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-17"
     },
@@ -360,18 +376,6 @@
         "date": "2026-08-17"
     },
     {
-        "title": "Gulshan Block1 2nd Floor Road Facing 2Bed 3Baths",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_gulshan_block1_2nd_floor_road_facing_2bed_3baths-54602900-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/305916473-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-17"
-    },
-    {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -380,6 +384,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_ideal_flat_for_rent_in_gulshan-e-iqbal-54385931-233-4.html",
         "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-17"
+    },
+    {
+        "title": "Gulshan Block1 2nd Floor Road Facing 2Bed 3Baths",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_gulshan_block1_2nd_floor_road_facing_2bed_3baths-54602900-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/305916473-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-17"
     },
