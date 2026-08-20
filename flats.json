@@ -249,9 +249,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_750_square_feet_flat_in_gulshan-e-iqbal_-_block_13_a_best_option-54640174-8468-4.html",
         "image": "https://media.zameen.com/thumbnails/306271421-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-20",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-20"
     },
     {
         "title": "Flat For Rent",
@@ -266,18 +264,6 @@
         "date": "2026-08-20"
     },
     {
-        "title": "Furnished Rooms For Rent At Dhoraji Gulshan Block 3",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_furnished_rooms_for_rent_at_dhoraji_gulshan_block_3-54115620-6863-4.html",
-        "image": "https://media.zameen.com/thumbnails/301778632-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-20"
-    },
-    {
         "title": "2 Bed DD First Floor West Open Gulshan E Iqbal Block 10",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -287,9 +273,7 @@
         "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_2_bed_dd_first_floor_west_open_gulshan_e_iqbal_block_10-54597882-6858-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.898465/67.0625/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-08-20",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-20"
     },
     {
         "title": "Ground Floor Flat",
@@ -302,6 +286,20 @@
         "image": "https://media.zameen.com/thumbnails/305427180-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-20"
+    },
+    {
+        "title": "2 Bed Lounge 2nd Floor",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_2_bed_lounge_2nd_floor-54583356-217-4.html",
+        "image": "https://media.zameen.com/thumbnails/305734824-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-20",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent In Saddar Jubilee Chowk",
@@ -328,18 +326,6 @@
         "date": "2026-08-20"
     },
     {
-        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_ideal_flat_for_rent_in_gulshan-e-iqbal-54385931-233-4.html",
-        "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-20"
-    },
-    {
         "title": "Gulshan Block1 2nd Floor Road Facing 2Bed 3Baths",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -348,6 +334,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_gulshan_block1_2nd_floor_road_facing_2bed_3baths-54602900-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/305916473-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-20"
+    },
+    {
+        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_ideal_flat_for_rent_in_gulshan-e-iqbal-54385931-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-20"
     },
@@ -388,18 +386,6 @@
         "date": "2026-08-20"
     },
     {
-        "title": "Furnished Apartment",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Bath_Island",
-        "area": "Clifton Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/karachi_bath_island_furnished_apartment-54420113-198-4.html",
-        "image": "https://media.zameen.com/thumbnails/306090602-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-20"
-    },
-    {
         "title": "apparment for rent",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -408,6 +394,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/karachi_bath_island_apparment_for_rent-54630930-198-4.html",
         "image": "https://media.zameen.com/thumbnails/306172799-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-20"
+    },
+    {
+        "title": "Furnished Apartment",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Bath_Island",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_bath_island_furnished_apartment-54420113-198-4.html",
+        "image": "https://media.zameen.com/thumbnails/306090602-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-20"
     },
