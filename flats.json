@@ -192,18 +192,6 @@
         "date": "2026-08-21"
     },
     {
-        "title": "Near Kamran Market Flat For For Rent",
-        "price": 35000,
-        "price_str": "PKR 35,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_near_kamran_market_flat_for_for_rent-54615374-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/306035400-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-21"
-    },
-    {
         "title": "Investors Should Rent This Flat Located Ideally In Jamshed Town",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -259,7 +247,7 @@
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_750_square_feet_flat_in_gulshan-e-iqbal_-_block_13_a_best_option-54640174-8468-4.html",
-        "image": "https://media.zameen.com/thumbnails/306271421-400x300.jpeg",
+        "image": "https://images.zameen.com/smap/400/300/24.905628/67.074788/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-21"
     },
@@ -358,6 +346,20 @@
         "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-21"
+    },
+    {
+        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
+        "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-21",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat Available For Rent",
