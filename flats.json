@@ -117,9 +117,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_gulshan_block_1-54657499-6861-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.920535/67.08312/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-08-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-24"
     },
     {
         "title": "1 Bed Lounge For Rent",
@@ -130,18 +128,6 @@
         "rooms": 1,
         "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_1_bed_lounge_for_rent-54387425-6858-4.html",
         "image": "https://media.zameen.com/thumbnails/305728295-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-24"
-    },
-    {
-        "title": "Prime Location Flat In Shaz Residency Sized 650 Square Feet Is Available",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_prime_location_flat_in_shaz_residency_sized_650_square_feet_is_available-54570251-13917-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.953908/67.110345/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-24"
     },
@@ -178,18 +164,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_laraib_garden_floor_2nd_2_bed_launj_vacant_corner-54623833-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/306201907-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-24"
-    },
-    {
-        "title": "2 bed lounge flat available for rent 2nd floor in Gulshan block 1",
-        "price": 35000,
-        "price_str": "PKR 35,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_flat_available_for_rent_2nd_floor_in_gulshan_block_1-54639459-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/306265212-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-24"
     },
@@ -251,6 +225,18 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2_bed_lounge_flat_for_rent_for_bachelor-54607412-6867-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
+        "date": "2026-08-24"
+    },
+    {
+        "title": "Furnished Rooms For Rent At Dhoraji Gulshan Block 3",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_furnished_rooms_for_rent_at_dhoraji_gulshan_block_3-54115620-6863-4.html",
+        "image": "https://media.zameen.com/thumbnails/301778632-400x300.jpeg",
+        "source": "Zameen",
         "date": "2026-08-24",
         "contact_name": "Not Available",
         "contact_phone": "03539276123"
@@ -302,6 +288,20 @@
         "image": "https://media.zameen.com/thumbnails/305734824-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-24"
+    },
+    {
+        "title": "Furnished Flat For Rent at Dhoraji Gulshan Block 3",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_furnished_flat_for_rent_at_dhoraji_gulshan_block_3-54124817-6863-4.html",
+        "image": "https://media.zameen.com/thumbnails/301778835-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent In Saddar Jubilee Chowk",
