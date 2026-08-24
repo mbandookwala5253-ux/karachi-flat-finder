@@ -108,16 +108,18 @@
         "date": "2026-08-24"
     },
     {
-        "title": "400 Square Feet Flat In Gulshan-e-Iqbal - Block 13/C Is Available",
-        "price": 25000,
-        "price_str": "PKR 25,000",
+        "title": "gulshan block 1",
+        "price": 26000,
+        "price_str": "PKR 26,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_400_square_feet_flat_in_gulshan-e-iqbal_-_block_13_c_is_available-54602349-8845-4.html",
-        "image": "https://media.zameen.com/thumbnails/305910530-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_gulshan_block_1-54657499-6861-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.920535/67.08312/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-08-24"
+        "date": "2026-08-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "1 Bed Lounge For Rent",
@@ -153,9 +155,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_beautiful_apartment_available_for_rent-54636658-13917-4.html",
         "image": "https://media.zameen.com/thumbnails/306235347-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-24"
     },
     {
         "title": "4th Floor Flat",
@@ -242,16 +242,18 @@
         "date": "2026-08-24"
     },
     {
-        "title": "750 Square Feet Flat In Gulshan-e-Iqbal - Block 13/A Best Option",
+        "title": "2 Bed Lounge Flat For Rent For Bachelor",
         "price": 38000,
         "price_str": "PKR 38,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_750_square_feet_flat_in_gulshan-e-iqbal_-_block_13_a_best_option-54640174-8468-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.905628/67.074788/image.jpeg?quality=80&imageformat=jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2_bed_lounge_flat_for_rent_for_bachelor-54607412-6867-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-08-24"
+        "date": "2026-08-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "maintain flat",
@@ -275,9 +277,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_2_bed_dd_flat_for_rent-54657152-13917-4.html",
         "image": "https://media.zameen.com/thumbnails/306430894-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-08-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-08-24"
     },
     {
         "title": "Ground Floor Flat",
@@ -300,18 +300,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_2_bed_lounge_2nd_floor-54583356-217-4.html",
         "image": "https://media.zameen.com/thumbnails/305734824-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-24"
-    },
-    {
-        "title": "flat available for rent Gulshan Iqbal",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_flat_available_for_rent_gulshan_iqbal-54643948-8468-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.905628/67.074788/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-24"
     },
