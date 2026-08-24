@@ -144,18 +144,6 @@
         "date": "2026-08-24"
     },
     {
-        "title": "Beautiful Apartment Available For Rent",
-        "price": 32000,
-        "price_str": "PKR 32,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_beautiful_apartment_available_for_rent-54636658-13917-4.html",
-        "image": "https://media.zameen.com/thumbnails/306235347-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-24"
-    },
-    {
         "title": "4th Floor Flat",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -188,18 +176,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_flat_available_for_rent_2nd_floor_in_gulshan_block_1-54639459-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/306265212-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-08-24"
-    },
-    {
-        "title": "Near Kamran Market Flat For For Rent",
-        "price": 35000,
-        "price_str": "PKR 35,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_near_kamran_market_flat_for_for_rent-54615374-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/306035400-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-24"
     },
@@ -262,6 +238,20 @@
         "image": "https://images.zameen.com/smap/400/300/24.905628/67.074788/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-08-24"
+    },
+    {
+        "title": "maintain flat",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_maintain_flat-54656463-8468-4.html",
+        "image": "https://media.zameen.com/thumbnails/306424379-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Ground Floor Flat",
