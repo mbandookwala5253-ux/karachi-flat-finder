@@ -132,18 +132,6 @@
         "date": "2026-08-25"
     },
     {
-        "title": "Prime Location Flat In Shaz Residency Sized 650 Square Feet Is Available",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_prime_location_flat_in_shaz_residency_sized_650_square_feet_is_available-54570251-13917-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.953908/67.110345/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-08-25"
-    },
-    {
         "title": "Beautiful Apartment Available For Rent",
         "price": 32000,
         "price_str": "PKR 32,000",
@@ -334,6 +322,20 @@
         "image": "https://media.zameen.com/thumbnails/305571524-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-25"
+    },
+    {
+        "title": "Flat available for rent",
+        "price": 47000,
+        "price_str": "PKR 47,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_available_for_rent-54575646-8845-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-08-25",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
