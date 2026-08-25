@@ -240,6 +240,20 @@
         "date": "2026-08-25"
     },
     {
+        "title": "5 Bed d/d Flat Available For Rent in Mateen Terrace",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 5,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_5_bed_d_d_flat_available_for_rent_in_mateen_terrace-54486197-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/304804171-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-08-25",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "maintain flat",
         "price": 42000,
         "price_str": "PKR 42,000",
@@ -332,6 +346,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_available_for_rent-54575646-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-08-25"
+    },
+    {
+        "title": "Flat Sized 1300 Square Feet Available In Gulistan-E-Jauhar - Block 15",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_15_flat_sized_1300_square_feet_available_in_gulistan-e-jauhar_-_block_15-54427551-6839-4.html",
+        "image": "https://media.zameen.com/thumbnails/304219389-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-08-25",
         "contact_name": "Not Available",
