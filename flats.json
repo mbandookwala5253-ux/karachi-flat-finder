@@ -156,7 +156,7 @@
         "date": "2026-09-02"
     },
     {
-        "title": "2 Bed Lounge Ground Floor flat is Available For Rent In Block 1 Gulshan-E-Iqbal",
+        "title": "2 Bed Lounge Ground Floor Flat Is Available For Rent In Block 1 Gulshan-E-Iqbal",
         "price": 32000,
         "price_str": "PKR 32,000",
         "location": "PECHS",
@@ -298,6 +298,34 @@
         "image": "https://media.zameen.com/thumbnails/306663730-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-02"
+    },
+    {
+        "title": "PECHS BLOCK 6 NEAR FURNITURE MARKET",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "Jamshed_Town_Garden_East",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/pechs_pechs_block_6_pechs_block_6_near_furniture_market-54673466-6935-4.html",
+        "image": "https://media.zameen.com/thumbnails/306582429-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-02",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "PECHS BLOCK 6 NEAR FURNITURE MARKET",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "Jamshed_Town_Garden_East",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/pechs_pechs_block_6_pechs_block_6_near_furniture_market-54673467-6935-4.html",
+        "image": "https://media.zameen.com/thumbnails/306582401-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-02",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent In Saddar Jubilee Chowk",
