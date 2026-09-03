@@ -108,6 +108,20 @@
         "date": "2026-09-03"
     },
     {
+        "title": "400 Square Feet Flat In Gulshan-e-Iqbal - Block 13/C Is Available",
+        "price": 25000,
+        "price_str": "PKR 25,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_400_square_feet_flat_in_gulshan-e-iqbal_-_block_13_c_is_available-54602349-8845-4.html",
+        "image": "https://media.zameen.com/thumbnails/305910530-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Ideal 600 Square Feet Flat has landed on market in Gulshan-e-Iqbal - Block 1, Karachi",
         "price": 26000,
         "price_str": "PKR 26,000",
@@ -225,20 +239,6 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent-54185114-233-4.html",
         "image": "https://media.zameen.com/thumbnails/306831924-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-03",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
-        "title": "2 Bed Dd Flat For Rent",
-        "price": 43000,
-        "price_str": "PKR 43,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_2_bed_dd_flat_for_rent-54657152-13917-4.html",
-        "image": "https://media.zameen.com/thumbnails/306430899-400x300.jpeg",
-        "source": "Zameen",
         "date": "2026-09-03"
     },
     {
@@ -251,9 +251,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_4th_florr_flat_for_rent-54699826-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/306844054-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-03",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-03"
     },
     {
         "title": "Flat For Rent Uniq Complex 3 Bed Drawing 2 Washroom Rent 45000 Maintenance 1300 2nd Floor Main Road Facing *Code(16956)*",
@@ -386,6 +384,20 @@
         "image": "https://media.zameen.com/thumbnails/305257419-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-03"
+    },
+    {
+        "title": "Maymar Avenue Gulshan E Iqbal Block 4",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_maymar_avenue_gulshan_e_iqbal_block_4-54447875-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/304410254-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Furnished Apartment",
