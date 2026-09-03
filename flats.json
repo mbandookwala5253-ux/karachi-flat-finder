@@ -120,18 +120,6 @@
         "date": "2026-09-03"
     },
     {
-        "title": "2 Bedroom Lounge Only For Small Family West Open Fast Moving Lift With Stand By Generator",
-        "price": 32000,
-        "price_str": "PKR 32,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_2_bedroom_lounge_only_for_small_family_west_open_fast_moving_lift_with_stand_by_generator-54676720-13917-4.html",
-        "image": "https://media.zameen.com/thumbnails/306615246-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-03"
-    },
-    {
         "title": "2 Bed Lounge Ground Floor Flat Is Available For Rent In Block 1 Gulshan-E-Iqbal",
         "price": 32000,
         "price_str": "PKR 32,000",
@@ -140,6 +128,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_ground_floor_flat_is_available_for_rent_in_block_1_gulshan-e-iqbal-54615014-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/306767388-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-03"
+    },
+    {
+        "title": "2 Bedroom Lounge Only For Small Family West Open Fast Moving Lift With Stand By Generator",
+        "price": 32000,
+        "price_str": "PKR 32,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_2_bedroom_lounge_only_for_small_family_west_open_fast_moving_lift_with_stand_by_generator-54676720-13917-4.html",
+        "image": "https://media.zameen.com/thumbnails/306615246-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-03"
     },
@@ -216,6 +216,20 @@
         "date": "2026-09-03"
     },
     {
+        "title": "Flat For Rent",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent-54185114-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/306831924-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 Bed Dd Flat For Rent",
         "price": 43000,
         "price_str": "PKR 43,000",
@@ -228,16 +242,18 @@
         "date": "2026-09-03"
     },
     {
-        "title": "Ground Floor Flat",
+        "title": "4th FLORR FLAT FOR RENT",
         "price": 45000,
         "price_str": "PKR 45,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_ground_floor_flat-54551108-8845-4.html",
-        "image": "https://media.zameen.com/thumbnails/305427180-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_4th_florr_flat_for_rent-54699826-6863-4.html",
+        "image": "https://media.zameen.com/thumbnails/306844054-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-03"
+        "date": "2026-09-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent Uniq Complex 3 Bed Drawing 2 Washroom Rent 45000 Maintenance 1300 2nd Floor Main Road Facing *Code(16956)*",
@@ -272,30 +288,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_2_bed_dd_flat_for_rent_main_road_project_gulshan-e-iqbal_block_4-54677080-6864-4.html",
         "image": "https://media.zameen.com/thumbnails/306618108-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-03"
-    },
-    {
-        "title": "PECHS BLOCK 6 NEAR FURNITURE MARKET",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "Jamshed_Town_Garden_East",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/pechs_pechs_block_6_pechs_block_6_near_furniture_market-54673466-6935-4.html",
-        "image": "https://media.zameen.com/thumbnails/306582429-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-03"
-    },
-    {
-        "title": "PECHS BLOCK 6 NEAR FURNITURE MARKET",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "Jamshed_Town_Garden_East",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/pechs_pechs_block_6_pechs_block_6_near_furniture_market-54673467-6935-4.html",
-        "image": "https://media.zameen.com/thumbnails/306582401-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-03"
     },
@@ -396,18 +388,6 @@
         "date": "2026-09-03"
     },
     {
-        "title": "Maymar Avenue Gulshan E Iqbal Block 4",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_maymar_avenue_gulshan_e_iqbal_block_4-54447875-6864-4.html",
-        "image": "https://media.zameen.com/thumbnails/304410254-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-03"
-    },
-    {
         "title": "Furnished Apartment",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -441,8 +421,6 @@
         "link": "https://www.zameen.com/Property/pechs_pechs_block_2_3rd_floor_3_bed_lounge_flat_for_rent-54595173-6933-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.871447/67.058573/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-09-03",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-03"
     }
 ]
