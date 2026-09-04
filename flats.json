@@ -108,18 +108,6 @@
         "date": "2026-09-04"
     },
     {
-        "title": "400 Square Feet Flat In Gulshan-e-Iqbal - Block 13/C Is Available",
-        "price": 25000,
-        "price_str": "PKR 25,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_400_square_feet_flat_in_gulshan-e-iqbal_-_block_13_c_is_available-54602349-8845-4.html",
-        "image": "https://media.zameen.com/thumbnails/305910530-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-04"
-    },
-    {
         "title": "Ideal 600 Square Feet Flat has landed on market in Gulshan-e-Iqbal - Block 1, Karachi",
         "price": 26000,
         "price_str": "PKR 26,000",
@@ -240,6 +228,20 @@
         "date": "2026-09-04"
     },
     {
+        "title": "Affordable Flat Of 1050 Square Feet Is Available For rent",
+        "price": 43000,
+        "price_str": "PKR 43,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_7_affordable_flat_of_1050_square_feet_is_available_for_rent-54705686-6868-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.92754/67.104406/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-09-04",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "4th FLORR FLAT FOR RENT",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -259,19 +261,7 @@
         "area": "PECHS / Shabbirabad",
         "rooms": 3,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_flat_for_rent_uniq_complex_3_bed_drawing_2_washroom_rent_45000_maintenance_1300_2nd_floor_main_road_facing_code_16956-54675071-6872-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.9175843/67.1022052/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-09-04"
-    },
-    {
-        "title": "2 BED DD FLAT FOR RENT MAIN ROAD PROJECT GULSHAN-E-IQBAL BLOCK 4",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_2_bed_dd_flat_for_rent_main_road_project_gulshan-e-iqbal_block_4-54677080-6864-4.html",
-        "image": "https://media.zameen.com/thumbnails/306618108-400x300.jpeg",
+        "image": "https://media.zameen.com/thumbnails/306899428-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-04"
     },
@@ -324,18 +314,6 @@
         "date": "2026-09-04"
     },
     {
-        "title": "3 BED DD FLAT AVAILABLE FOR RENT",
-        "price": 48000,
-        "price_str": "PKR 48,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 3,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_3_bed_dd_flat_available_for_rent-54638760-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/306258061-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-04"
-    },
-    {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -346,6 +324,20 @@
         "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-04"
+    },
+    {
+        "title": "In Gulshan-e-Iqbal - Block 13/C Of Karachi, A 1050 Square Feet Flat Is Available",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_in_gulshan-e-iqbal_-_block_13_c_of_karachi_a_1050_square_feet_flat_is_available-54705664-8845-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-09-04",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "3 Bed DD. 1st floor apartment with lift",
