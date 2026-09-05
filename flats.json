@@ -204,16 +204,18 @@
         "date": "2026-09-05"
     },
     {
-        "title": "maintain flat",
+        "title": "Maintain Flat For Rent",
         "price": 40000,
         "price_str": "PKR 40,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_maintain_flat-54690549-8845-4.html",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_maintain_flat_for_rent-54690549-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/306749340-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-05"
+        "date": "2026-09-05",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent",
@@ -224,18 +226,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent-54185114-233-4.html",
         "image": "https://media.zameen.com/thumbnails/306831924-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-05"
-    },
-    {
-        "title": "Affordable Flat Of 1050 Square Feet Is Available For rent",
-        "price": 43000,
-        "price_str": "PKR 43,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_7_affordable_flat_of_1050_square_feet_is_available_for_rent-54705686-6868-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.92754/67.104406/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-05"
     },
@@ -274,6 +264,20 @@
         "image": "https://images.zameen.com/smap/400/300/24.934623/67.099164/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-05"
+    },
+    {
+        "title": "2 BED DD FLAT FOR RENT MAIN ROAD PROJECT GULSHAN-E-IQBAL BLOCK 4",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_2_bed_dd_flat_for_rent_main_road_project_gulshan-e-iqbal_block_4-54677080-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/306618108-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-05",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent In Saddar Jubilee Chowk",
