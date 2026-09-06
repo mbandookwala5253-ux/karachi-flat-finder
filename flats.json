@@ -120,6 +120,20 @@
         "date": "2026-09-06"
     },
     {
+        "title": "1 Bed Lounge For Rent",
+        "price": 25000,
+        "price_str": "PKR 25,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 1,
+        "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_1_bed_lounge_for_rent-54387425-6858-4.html",
+        "image": "https://media.zameen.com/thumbnails/305728295-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-06",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Ideal 600 Square Feet Flat has landed on market in Gulshan-e-Iqbal - Block 1, Karachi",
         "price": 26000,
         "price_str": "PKR 26,000",
@@ -128,18 +142,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_ideal_600_square_feet_flat_has_landed_on_market_in_gulshan-e-iqbal_-_block_1_karachi-54657499-6861-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.920535/67.08312/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-09-06"
-    },
-    {
-        "title": "2 Bed Lounge Ground Floor Flat Is Available For Rent In Block 1 Gulshan-E-Iqbal",
-        "price": 32000,
-        "price_str": "PKR 32,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_ground_floor_flat_is_available_for_rent_in_block_1_gulshan-e-iqbal-54615014-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/306767388-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-06"
     },
