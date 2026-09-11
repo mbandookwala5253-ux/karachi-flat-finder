@@ -252,6 +252,20 @@
         "date": "2026-09-11"
     },
     {
+        "title": "Flate For Rent",
+        "price": 43000,
+        "price_str": "PKR 43,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flate_for_rent-54733371-6863-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.928318/67.092855/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-09-11",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "4th FLORR FLAT FOR RENT",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -357,9 +371,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flat_for_rent-54732191-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/307149975-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-11",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-11"
     },
     {
         "title": "Maymar Avenue Gulshan E Iqbal Block 4",
@@ -382,18 +394,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_available_for_rent-54582428-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-09-11"
-    },
-    {
-        "title": "West open Corner Flat 2 Bed DD Lift FULLY Tile Flooring Gulshan Block 13d1",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-1_west_open_corner_flat_2_bed_dd_lift_fully_tile_flooring_gulshan_block_13d1-54712480-6875-4.html",
-        "image": "https://media.zameen.com/thumbnails/306966631-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-11"
     },
