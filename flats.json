@@ -156,6 +156,20 @@
         "date": "2026-09-13"
     },
     {
+        "title": "2 Bed Lounge Ground Floor flat available for Rent in Block 1 gulshan-e-Iqbal",
+        "price": 32000,
+        "price_str": "PKR 32,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_ground_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54742442-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/307252412-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-13",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 Bed Lounge Flat Without Balcony On Rent At Tariq Road For Bachelors",
         "price": 32000,
         "price_str": "PKR 32,000",
@@ -214,20 +228,6 @@
         "image": "https://images.zameen.com/smap/400/300/24.898465/67.0625/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-13"
-    },
-    {
-        "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-e-Iqbal - Block 13/C",
-        "price": 38000,
-        "price_str": "PKR 38,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_fair-priced_850_square_feet_flat_available_in_gulshan-e-iqbal_-_block_13_c-54718118-8845-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-09-13",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "Flate For Rent",
@@ -347,9 +347,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_available_for_rent_in_gulshan_e_iqbal-54721881-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-09-13",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-13"
     },
     {
         "title": "Best Options For Flat Is Available For rent In Gulshan-e-Iqbal - Block 13/A",
