@@ -141,9 +141,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_ground_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54742442-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/307252412-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-15",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-15"
     },
     {
         "title": "2 Bed Lounge Flat Without Balcony On Rent At Tariq Road For Bachelors",
@@ -218,6 +216,20 @@
         "date": "2026-09-15"
     },
     {
+        "title": "240 gaz second floor penthouse 2 room",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_240_gaz_second_floor_penthouse_2_room-54623833-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/307328741-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-15",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "4th FLORR FLAT FOR RENT",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -226,18 +238,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_4th_florr_flat_for_rent-54699826-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/306844054-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-15"
-    },
-    {
-        "title": "Sawana City Gulshan E Iqbal Block 13D",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d_sawana_city_gulshan_e_iqbal_block_13d-54727447-6874-4.html",
-        "image": "https://media.zameen.com/thumbnails/307279042-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-15"
     },
