@@ -201,9 +201,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_110_square_yards_flat_for_rent_in_gulshan-e-iqbal_town-54733371-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/307218641-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-16",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-16"
     },
     {
         "title": "240 Gaz Second Floor Penthouse 2 Room",
@@ -242,18 +240,6 @@
         "date": "2026-09-16"
     },
     {
-        "title": "Yaya Pride Flat For Rent Gulshan Iqbal Block 13D2.2 Bed DD. 3rd Floor Rent",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_yaya_pride_flat_for_rent_gulshan_iqbal_block_13d2_2_bed_dd_3rd_floor_rent-54730617-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/307234520-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-16"
-    },
-    {
         "title": "3rd Floor",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -262,6 +248,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_3rd_floor-54632437-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/307233980-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-16"
+    },
+    {
+        "title": "Yaya Pride Flat For Rent Gulshan Iqbal Block 13D2.2 Bed DD. 3rd Floor Rent",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_yaya_pride_flat_for_rent_gulshan_iqbal_block_13d2_2_bed_dd_3rd_floor_rent-54730617-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/307234520-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-16"
     },
@@ -311,9 +309,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_3_b3d_dd_flat_available_for_rent_only_for_11_months_1_tenure-54638972-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/306260319-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-16",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-16"
     },
     {
         "title": "A 1000 Square Feet Flat Is Up For Grabs In Gulshan-e-Iqbal Town",
@@ -374,6 +370,20 @@
         "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-16"
+    },
+    {
+        "title": "Maymar Avenue Gulshan E Iqbal Block 4",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_maymar_avenue_gulshan_e_iqbal_block_4-54447875-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/304410254-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-16",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Furnished Apartment",
