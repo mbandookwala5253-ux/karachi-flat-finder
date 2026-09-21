@@ -132,18 +132,6 @@
         "date": "2026-09-21"
     },
     {
-        "title": "2 Bed Lounge Flat Without Balcony On Rent At Tariq Road For Bachelors",
-        "price": 32000,
-        "price_str": "PKR 32,000",
-        "location": "Jamshed_Town_Garden_East",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/pechs_pechs_block_2_2_bed_lounge_flat_without_balcony_on_rent_at_tariq_road_for_bachelors-54671398-6933-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.871447/67.058573/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-09-21"
-    },
-    {
         "title": "Investors Should Rent This Flat Located Ideally In Jamshed Town",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -300,6 +288,20 @@
         "date": "2026-09-21"
     },
     {
+        "title": "flat for rent",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent-54772956-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/307545736-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-21",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "3 BED DD FLAT AVAILABLE FOR RENT ONLY FOR 11 MONTHS (1 TENURE)",
         "price": 48000,
         "price_str": "PKR 48,000",
@@ -310,6 +312,20 @@
         "image": "https://media.zameen.com/thumbnails/306258061-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-21"
+    },
+    {
+        "title": "Spacious Flat Is Available In Gulshan-E-Iqbal - Block 4 For Rent",
+        "price": 49000,
+        "price_str": "PKR 49,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_spacious_flat_is_available_in_gulshan-e-iqbal_-_block_4_for_rent-54771701-6864-4.html",
+        "image": "https://media.zameen.com/thumbnails/307534821-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-21",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Clifton 2 bed D/D Lift Car Parking Near Ziauddin",
@@ -380,18 +396,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flat_for_rent-54732191-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/307149975-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-21"
-    },
-    {
-        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_ideal_flat_for_rent_in_gulshan-e-iqbal-54385931-233-4.html",
-        "image": "https://media.zameen.com/thumbnails/305777455-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-21"
     },
