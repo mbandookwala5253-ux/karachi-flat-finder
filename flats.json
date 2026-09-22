@@ -204,6 +204,20 @@
         "date": "2026-09-22"
     },
     {
+        "title": "Third Floor Apartment For Rent Ready To Move",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_third_floor_apartment_for_rent_ready_to_move-54761775-6872-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.9175843/67.1022052/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-09-22",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "FIRST FLOOR FLAT FOR RENT",
         "price": 42000,
         "price_str": "PKR 42,000",
@@ -248,18 +262,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_shaz_residency_west_open_flat_for_rent-54746382-13917-4.html",
         "image": "https://media.zameen.com/thumbnails/307290256-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-22"
-    },
-    {
-        "title": "Ground Floor Apartment For Rent Ready To Move",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_ground_floor_apartment_for_rent_ready_to_move-54761775-6872-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.9175843/67.1022052/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-22"
     },
