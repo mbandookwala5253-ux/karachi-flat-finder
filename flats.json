@@ -108,18 +108,6 @@
         "date": "2026-09-24"
     },
     {
-        "title": "650 Square Feet Spacious Flat Is Available In Gulshan-e-Iqbal - Block 13-D2 For rent",
-        "price": 27000,
-        "price_str": "PKR 27,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_650_square_feet_spacious_flat_is_available_in_gulshan-e-iqbal_-_block_13-d2_for_rent-51900242-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/306638605-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-24"
-    },
-    {
         "title": "650 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
         "price": 27000,
         "price_str": "PKR 27,000",
@@ -128,6 +116,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_650_square_feet_flat_for_rent_in_gulshan-e-iqbal_town-51900265-6858-4.html",
         "image": "https://media.zameen.com/thumbnails/306638597-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-24"
+    },
+    {
+        "title": "650 Square Feet Spacious Flat Is Available In Gulshan-e-Iqbal - Block 13-D2 For rent",
+        "price": 27000,
+        "price_str": "PKR 27,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_650_square_feet_spacious_flat_is_available_in_gulshan-e-iqbal_-_block_13-d2_for_rent-51900242-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/306638605-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-24"
     },
@@ -178,6 +178,20 @@
         "image": "https://images.zameen.com/smap/400/300/24.883439/67.033424/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-24"
+    },
+    {
+        "title": "Flat For Rent",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent-54772956-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/307677531-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-e-Iqbal - Block 13/C",
