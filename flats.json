@@ -1,19 +1,5 @@
 [
     {
-        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Main Entrance Of Bahria Town",
-        "price": 27000,
-        "price_str": "PKR 27,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54764541-9030-4.html",
-        "image": "https://media.zameen.com/thumbnails/307464148-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-25",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "650 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
         "price": 27000,
         "price_str": "PKR 27,000",
@@ -132,6 +118,20 @@
         "image": "https://media.zameen.com/thumbnails/307406505-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-25"
+    },
+    {
+        "title": "RABIA ENCLAVE 2BED DD APARTMENT FOR RENT",
+        "price": 43000,
+        "price_str": "PKR 43,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_motorway_rabia_enclave_rabia_enclave_2bed_dd_apartment_for_rent-54118022-12736-4.html",
+        "image": "https://media.zameen.com/thumbnails/300057091-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-25",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "4th FLORR FLAT FOR RENT",
