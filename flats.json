@@ -24,6 +24,20 @@
         "date": "2026-09-25"
     },
     {
+        "title": "Flat available for rent | Rainbow tower | Near Highway | All utilities Available",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_maymar_rainbow_towers_and_shopping_mall_flat_available_for_rent_rainbow_tower_near_highway_all_utilities_available-54788137-10902-4.html",
+        "image": "https://media.zameen.com/thumbnails/307688827-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-25",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat For Rent Gulshan Iqbal block 1 Larib Garden 2 Bed Lounge",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -84,16 +98,18 @@
         "date": "2026-09-25"
     },
     {
-        "title": "240 Gaz Second Floor Penthouse 2 Room",
+        "title": "240 Gaz Second Floor Flat 2 Room",
         "price": 42000,
         "price_str": "PKR 42,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_240_gaz_second_floor_penthouse_2_room-54623833-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/307328741-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_240_gaz_second_floor_flat_2_room-54623833-6861-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.920535/67.08312/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-09-25"
+        "date": "2026-09-25",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Third Floor Apartment For Rent Ready To Move",
