@@ -24,20 +24,6 @@
         "date": "2026-09-27"
     },
     {
-        "title": "3rd Floor 2Bed Lounge west open flat available for rent",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-3_3rd_floor_2bed_lounge_west_open_flat_available_for_rent-54798119-11043-4.html",
-        "image": "https://media.zameen.com/thumbnails/307786906-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-27",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "Flat For Rent Gulshan Iqbal block 1 Larib Garden 2 Bed Lounge",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -48,6 +34,20 @@
         "image": "https://media.zameen.com/thumbnails/307559651-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-27"
+    },
+    {
+        "title": "2 Bed D. D Flat Available For Rent In North Nazimabad Block G Prime Location Near By Heidry Market",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_g_2_bed_d_d_flat_available_for_rent_in_north_nazimabad_block_g_prime_location_near_by_heidry_market-54717641-7215-4.html",
+        "image": "https://media.zameen.com/thumbnails/307367365-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-27",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent",
@@ -72,6 +72,34 @@
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-27"
+    },
+    {
+        "title": "4 Th Floor Inner Corner 1100 SQ FT Dascon Tower Available For Rent In Bahria Town Karachi",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_hills_dascon_tower_4_th_floor_inner_corner_1100_sq_ft_dascon_tower_available_for_rent_in_bahria_town_karachi-54732547-22084-4.html",
+        "image": "https://media.zameen.com/thumbnails/307575261-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-27",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "Flat For Rent",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_k_flat_for_rent-54798825-7219-4.html",
+        "image": "https://media.zameen.com/thumbnails/307794726-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-27",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
@@ -216,6 +244,20 @@
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-27"
+    },
+    {
+        "title": "Best Options For Flat Is Available For Rent In Gulshan-E-Iqbal - Block 13/A",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_best_options_for_flat_is_available_for_rent_in_gulshan-e-iqbal_-_block_13_a-54738232-8468-4.html",
+        "image": "https://media.zameen.com/thumbnails/307213678-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-27",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "PECHS BLOCK 2 BESIDES KHEEL PARK APARTMENT AVAILABLE FOR RENT",
