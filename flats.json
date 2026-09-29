@@ -57,9 +57,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54808458-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-09-29",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-09-29"
     },
     {
         "title": "Flat For Rent",
@@ -84,6 +82,20 @@
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-09-29"
+    },
+    {
+        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Midway In Bahria Town",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54793672-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/307740529-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-29",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
@@ -192,6 +204,20 @@
         "image": "https://media.zameen.com/thumbnails/307534821-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-29"
+    },
+    {
+        "title": "2 BED LUXURY APARTMENT FOR RENT | HILL CREST RESIDENCY | BAHRIA TOWN KARACHI | 1276 SQ FT | JINNAH VIEW | FULLY EQUIPPED",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_precinct_19_2_bed_luxury_apartment_for_rent_hill_crest_residency_bahria_town_karachi_1276_sq_ft_jinnah_view_fully_equipped-54699146-10030-4.html",
+        "image": "https://media.zameen.com/thumbnails/306835118-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-09-29",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "A 1000 Square Feet Flat Is Up For Grabs In Gulshan-e-Iqbal Town",
