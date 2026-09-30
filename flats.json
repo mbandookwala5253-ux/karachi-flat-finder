@@ -84,16 +84,18 @@
         "date": "2026-09-30"
     },
     {
-        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Midway In Bahria Town",
+        "title": "Bahria Heights Apartment For Rent",
         "price": 40000,
         "price_str": "PKR 40,000",
         "location": "Saddar",
         "area": "Pakistan Chowk Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54793672-11761-4.html",
-        "image": "https://media.zameen.com/thumbnails/307740529-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_bahria_heights_apartment_for_rent-54088331-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/303504148-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
@@ -142,20 +144,6 @@
         "image": "https://media.zameen.com/thumbnails/307406505-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-30"
-    },
-    {
-        "title": "RABIA ENCLAVE 2BED DD APARTMENT (Flat) FOR RENT",
-        "price": 43000,
-        "price_str": "PKR 43,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/karachi_motorway_rabia_enclave_rabia_enclave_2bed_dd_apartment_flat_for_rent-54118022-12736-4.html",
-        "image": "https://media.zameen.com/thumbnails/300057092-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-30",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "4th FLORR FLAT FOR RENT",
@@ -214,18 +202,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_spacious_flat_is_available_in_gulshan-e-iqbal_-_block_4_for_rent-54771701-6864-4.html",
         "image": "https://media.zameen.com/thumbnails/307534821-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-09-30"
-    },
-    {
-        "title": "2 BED LUXURY APARTMENT FOR RENT | HILL CREST RESIDENCY | BAHRIA TOWN KARACHI | 1276 SQ FT | JINNAH VIEW | FULLY EQUIPPED",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_precinct_19_2_bed_luxury_apartment_for_rent_hill_crest_residency_bahria_town_karachi_1276_sq_ft_jinnah_view_fully_equipped-54699146-10030-4.html",
-        "image": "https://media.zameen.com/thumbnails/306835118-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-09-30"
     },
