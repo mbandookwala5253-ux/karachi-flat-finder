@@ -60,14 +60,14 @@
         "date": "2026-10-01"
     },
     {
-        "title": "Flat for rent",
+        "title": "Flat For Rent",
         "price": 38000,
         "price_str": "PKR 38,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54808458-8845-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent-54772956-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/307952167-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-01"
     },
@@ -78,8 +78,8 @@
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_flat_for_rent-54772956-233-4.html",
-        "image": "https://media.zameen.com/thumbnails/307677531-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54808458-8845-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-10-01"
     },
@@ -94,20 +94,6 @@
         "image": "https://media.zameen.com/thumbnails/307936138-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-01"
-    },
-    {
-        "title": "Tower A Jinnah Face Brandnew 5Th Floor West Open 1400sq Ft 2BHK Luxury Flat (READY TO MOVE) Available On CASH/ INSTALMENTS. Paragon Towers Are Available On Rent At Minimum Prices.",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_precinct_17_paragon_tower_tower_a_jinnah_face_brandnew_5th_floor_west_open_1400sq_ft_2bhk_luxury_flat_ready_to_move_available_on_cash_instalments_paragon_towers_are_available_on_rent_at_minimum_prices-54565154-21833-4.html",
-        "image": "https://media.zameen.com/thumbnails/307577727-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-01",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
@@ -156,6 +142,20 @@
         "image": "https://media.zameen.com/thumbnails/307406505-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-01"
+    },
+    {
+        "title": "2 Bed Lounge Apartment Available For Rent",
+        "price": 43000,
+        "price_str": "PKR 43,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_h_2_bed_lounge_apartment_available_for_rent-54816615-7216-4.html",
+        "image": "https://media.zameen.com/thumbnails/307968624-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "4th FLORR FLAT FOR RENT",
@@ -251,9 +251,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flat_for_rent-54732191-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/307682995-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-01",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-01"
     },
     {
         "title": "PECHS BLOCK 2 BESIDES KHEEL PARK APARTMENT AVAILABLE FOR RENT",
