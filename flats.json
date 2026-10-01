@@ -24,16 +24,18 @@
         "date": "2026-10-01"
     },
     {
-        "title": "2 Bed Lounge Ground Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
-        "price": 32000,
-        "price_str": "PKR 32,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
+        "title": "2BHK 955 Sq Ft Apartment for Rent in Towers, Precinct-19 Bahria Town Karachi, with Park, Mosque, Gallery & Commercial Area nearby just 2 min drive from Main Gate.",
+        "price": 28000,
+        "price_str": "PKR 28,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_lounge_ground_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54742442-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/307775623-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2bhk_955_sq_ft_apartment_for_rent_in_towers_precinct-19_bahria_town_karachi_with_park_mosque_gallery_commercial_area_nearby_just_2_min_drive_from_main_gate-54720189-9030-4.html",
+        "image": "https://media.zameen.com/thumbnails/307031395-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-01"
+        "date": "2026-10-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat rent 2 bed loung 2 washroom 1st floor Laraib Only husband and wife  Job family only 35k *Code(16803)*",
@@ -60,6 +62,20 @@
         "date": "2026-10-01"
     },
     {
+        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Midway In Bahria Town",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54729342-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/307120068-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat For Rent",
         "price": 38000,
         "price_str": "PKR 38,000",
@@ -84,16 +100,18 @@
         "date": "2026-10-01"
     },
     {
-        "title": "1250 Square Feet Flat In Karachi Is Available For Rent",
+        "title": "1400 Square Feet 2 BHK Luxurious Apartment In Paragon Towers Is Available For RENT Near Precinct-17.5min Drive From Main Gate Of Bahria Town Karachi",
         "price": 40000,
         "price_str": "PKR 40,000",
         "location": "Saddar",
         "area": "Pakistan Chowk Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/ali_garh_society_ali_garh_society_-_sector_9a1_1250_square_feet_flat_in_karachi_is_available_for_rent-54774008-17241-4.html",
-        "image": "https://media.zameen.com/thumbnails/307936138-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/bahria_town_precinct_17_paragon_tower_1400_square_feet_2_bhk_luxurious_apartment_in_paragon_towers_is_available_for_rent_near_precinct-17_5min_drive_from_main_gate_of_bahria_town_karachi-54764540-21833-4.html",
+        "image": "https://media.zameen.com/thumbnails/307464132-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-01"
+        "date": "2026-10-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
@@ -144,20 +162,6 @@
         "date": "2026-10-01"
     },
     {
-        "title": "2 Bed Lounge Apartment Available For Rent",
-        "price": 43000,
-        "price_str": "PKR 43,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_h_2_bed_lounge_apartment_available_for_rent-54816615-7216-4.html",
-        "image": "https://media.zameen.com/thumbnails/307968624-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-01",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "4th FLORR FLAT FOR RENT",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -168,6 +172,20 @@
         "image": "https://media.zameen.com/thumbnails/306844054-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-01"
+    },
+    {
+        "title": "Flat Rent 2 Bed D D Ground Rufi Heaven 45k",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d_flat_rent_2_bed_d_d_ground_rufi_heaven_45k-54706022-6874-4.html",
+        "image": "https://media.zameen.com/thumbnails/307778910-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "3 B3D DD FLAT AVAILABLE FOR RENT ONLY FOR 11 MONTHS (1 TENURE)",
