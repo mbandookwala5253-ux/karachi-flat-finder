@@ -84,6 +84,20 @@
         "date": "2026-10-02"
     },
     {
+        "title": "Block 7 Flat Alnajeeb Plaza",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_7_block_7_flat_alnajeeb_plaza-54819384-6868-4.html",
+        "image": "https://media.zameen.com/thumbnails/307991615-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-02",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Gulshan-e-Iqbal - Block 11 Flat Sized 950 Square Feet",
         "price": 42000,
         "price_str": "PKR 42,000",
@@ -189,9 +203,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-02",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-02"
     },
     {
         "title": "Ground Floor 2 Bed DD Apartment For Rent Family Ideal",
@@ -203,9 +215,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_ground_floor_2_bed_dd_apartment_for_rent_family_ideal-54817925-6872-4.html",
         "image": "https://media.zameen.com/thumbnails/307979504-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-02",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-02"
     },
     {
         "title": "120 Yard 13d-1 Third Floor 2 Bed Drawing Lounge",
@@ -216,18 +226,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_120_yard_13d-1_third_floor_2_bed_drawing_lounge-54623833-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/307805069-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-02"
-    },
-    {
-        "title": "Best Options For Flat Is Available For Rent In Gulshan-E-Iqbal - Block 13/A",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_best_options_for_flat_is_available_for_rent_in_gulshan-e-iqbal_-_block_13_a-54738232-8468-4.html",
-        "image": "https://media.zameen.com/thumbnails/307213678-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-02"
     },
