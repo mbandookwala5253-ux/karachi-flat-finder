@@ -108,7 +108,7 @@
         "date": "2026-10-06"
     },
     {
-        "title": "flat available for rent",
+        "title": "Flat Available For Rent",
         "price": 40000,
         "price_str": "PKR 40,000",
         "location": "PECHS",
@@ -120,6 +120,20 @@
         "date": "2026-10-06"
     },
     {
+        "title": "Flat For rent",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flat_for_rent-54824063-6863-4.html",
+        "image": "https://media.zameen.com/thumbnails/308099143-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-06",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Block 7 Flat Alnajeeb Plaza",
         "price": 42000,
         "price_str": "PKR 42,000",
@@ -128,18 +142,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_7_block_7_flat_alnajeeb_plaza-54819384-6868-4.html",
         "image": "https://media.zameen.com/thumbnails/307991615-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-06"
-    },
-    {
-        "title": "3 B3D DD FLAT AVAILABLE FOR RENT ONLY FOR 11 MONTHS (1 TENURE)",
-        "price": 48000,
-        "price_str": "PKR 48,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_3_b3d_dd_flat_available_for_rent_only_for_11_months_1_tenure-54638972-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/306260319-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-06"
     },
