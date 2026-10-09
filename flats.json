@@ -1,17 +1,5 @@
 [
     {
-        "title": "Third Floor 1 Bed Lounge Apartment For Rent Ready To Move",
-        "price": 25000,
-        "price_str": "PKR 25,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 1,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_third_floor_1_bed_lounge_apartment_for_rent_ready_to_move-54761775-6872-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.9175843/67.1022052/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-10-09"
-    },
-    {
         "title": "650 Square Feet Spacious Flat Is Available In Gulshan-e-Iqbal - Block 13-D2 For rent",
         "price": 27000,
         "price_str": "PKR 27,000",
@@ -22,6 +10,20 @@
         "image": "https://media.zameen.com/thumbnails/306638605-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-09"
+    },
+    {
+        "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
+        "price": 31000,
+        "price_str": "PKR 31,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_third_floor_2_bed_lounge_apartment_for_rent_ready_to_move-54761775-6872-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.9175843/67.1022052/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-10-09",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "2 Bed Lounge 2nd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
