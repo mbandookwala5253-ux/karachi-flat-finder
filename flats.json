@@ -1,15 +1,17 @@
 [
     {
-        "title": "650 Square Feet Spacious Flat Is Available In Gulshan-e-Iqbal - Block 13-D2 For rent",
-        "price": 27000,
-        "price_str": "PKR 27,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
+        "title": "Prime Location Flat Of 950 Square Feet Available For rent In Gulistan-e-Jauhar - Block 13",
+        "price": 26000,
+        "price_str": "PKR 26,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_650_square_feet_spacious_flat_is_available_in_gulshan-e-iqbal_-_block_13-d2_for_rent-51900242-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/306638605-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_13_prime_location_flat_of_950_square_feet_available_for_rent_in_gulistan-e-jauhar_-_block_13-54847717-6837-4.html",
+        "image": "https://media.zameen.com/thumbnails/308285271-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "contact_name": "Not Available",
+        "contact_phone": "03332188716"
     },
     {
         "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
@@ -21,9 +23,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_third_floor_2_bed_lounge_apartment_for_rent_ready_to_move-54761775-6872-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.9175843/67.1022052/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-09",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-09"
     },
     {
         "title": "2 Bed Lounge 2nd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
@@ -158,6 +158,18 @@
         "date": "2026-10-09"
     },
     {
+        "title": "PECHS BLOCK 2 BESIDES KHEEL PARK APARTMENT AVAILABLE FOR RENT",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "Jamshed_Town_Garden_East",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/pechs_pechs_block_2_pechs_block_2_besides_kheel_park_apartment_available_for_rent-54727019-6933-4.html",
+        "image": "https://media.zameen.com/thumbnails/307096399-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-09"
+    },
+    {
         "title": "3 B3D DD FLAT AVAILABLE FOR RENT",
         "price": 48000,
         "price_str": "PKR 48,000",
@@ -218,15 +230,17 @@
         "date": "2026-10-09"
     },
     {
-        "title": "PECHS BLOCK 2 BESIDES KHEEL PARK APARTMENT AVAILABLE FOR RENT",
+        "title": "A 1000 Square Feet Flat Is Up For Grabs In Gulshan-e-Iqbal Town",
         "price": 50000,
         "price_str": "PKR 50,000",
-        "location": "Jamshed_Town_Garden_East",
+        "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/pechs_pechs_block_2_pechs_block_2_besides_kheel_park_apartment_available_for_rent-54727019-6933-4.html",
-        "image": "https://media.zameen.com/thumbnails/307096399-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_a_1000_square_feet_flat_is_up_for_grabs_in_gulshan-e-iqbal_town-54751664-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/307340342-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     }
 ]
