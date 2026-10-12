@@ -12,6 +12,34 @@
         "date": "2026-10-12"
     },
     {
+        "title": "2 Bedroom Lounge Luxurious Apartment is available for RENT Near Main Entrance of Bahria Town",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54852738-9030-4.html",
+        "image": "https://media.zameen.com/thumbnails/308337278-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-12",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "Flat Available For Rent in Gulshan",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_available_for_rent_in_gulshan-54857564-8845-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-10-12",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat Is Available For Rent 2 Bed Lounge",
         "price": 36000,
         "price_str": "PKR 36,000",
@@ -48,6 +76,20 @@
         "date": "2026-10-12"
     },
     {
+        "title": "2 Bedroom Lounge Luxurious Apartment is available for RENT Near Midway in Bahria Town",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54852733-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/308337217-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-12",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -69,9 +111,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_800_square_feet_flat_in_beautiful_location_of_gulshan-e-iqbal_-_block_13_a_in_karachi-54854208-8468-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.905628/67.074788/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-12",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-12"
     },
     {
         "title": "FLAT FOR RENT",
@@ -146,6 +186,20 @@
         "date": "2026-10-12"
     },
     {
+        "title": "New building",
+        "price": 47000,
+        "price_str": "PKR 47,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_new_building-54857383-6862-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.924038/67.087233/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-10-12",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "3 B3D DD FLAT AVAILABLE FOR RENT",
         "price": 48000,
         "price_str": "PKR 48,000",
@@ -170,7 +224,7 @@
         "date": "2026-10-12"
     },
     {
-        "title": "1 bedroom full Furnished Apartments available",
+        "title": "1 Bedroom Full Furnished Apartments Available",
         "price": 50000,
         "price_str": "PKR 50,000",
         "location": "Clifton",
@@ -226,18 +280,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-12"
-    },
-    {
-        "title": "A 1000 Square Feet Flat Is Up For Grabs In Gulshan-e-Iqbal Town",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_a_1000_square_feet_flat_is_up_for_grabs_in_gulshan-e-iqbal_town-54751664-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/307340342-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-12"
     }
