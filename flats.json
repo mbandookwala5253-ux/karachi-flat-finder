@@ -12,18 +12,6 @@
         "date": "2026-10-13"
     },
     {
-        "title": "2 Bedroom Lounge Luxurious Apartment is available for RENT Near Main Entrance of Bahria Town",
-        "price": 35000,
-        "price_str": "PKR 35,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54852738-9030-4.html",
-        "image": "https://media.zameen.com/thumbnails/308337278-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-13"
-    },
-    {
         "title": "Flat Available For Rent in Gulshan",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -165,9 +153,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_flat_available_for_rent_back_side-54858148-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/308389203-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-13",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-13"
     },
     {
         "title": "New building",
@@ -218,6 +204,20 @@
         "date": "2026-10-13"
     },
     {
+        "title": "Fully Furnished Apartment",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_frere_town_fully_furnished_apartment-54420106-224-4.html",
+        "image": "https://media.zameen.com/thumbnails/304150001-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-13",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat For Rent",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -263,8 +263,6 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_a_1000_square_feet_flat_is_up_for_grabs_in_gulshan-e-iqbal_town-54751664-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/307340342-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-13",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-13"
     }
 ]
