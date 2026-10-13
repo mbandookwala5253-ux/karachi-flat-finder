@@ -1,5 +1,19 @@
 [
     {
+        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Main Entrance Of Bahria Town",
+        "price": 27000,
+        "price_str": "PKR 27,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54764541-9030-4.html",
+        "image": "https://media.zameen.com/thumbnails/307464148-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-13",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
         "price": 31000,
         "price_str": "PKR 31,000",
@@ -34,6 +48,20 @@
         "image": "https://media.zameen.com/thumbnails/308198448-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-13"
+    },
+    {
+        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Midway In Bahria Town",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54729342-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/307120068-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-13",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent",
@@ -202,20 +230,6 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-13"
-    },
-    {
-        "title": "Fully Furnished Apartment",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/karachi_frere_town_fully_furnished_apartment-54420106-224-4.html",
-        "image": "https://media.zameen.com/thumbnails/304150001-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-13",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent",
