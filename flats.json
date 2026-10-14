@@ -1,19 +1,5 @@
 [
     {
-        "title": "2 Bedroom Lounge Luxurious Apartment is available for RENT Near Main Entrance of Bahria Town",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54864934-9030-4.html",
-        "image": "https://images.zameen.com/smap/400/300/25.020961/67.321172/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-10-14",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
         "price": 31000,
         "price_str": "PKR 31,000",
@@ -26,7 +12,7 @@
         "date": "2026-10-14"
     },
     {
-        "title": "Flat Available For Rent in Gulshan",
+        "title": "Flat Available For Rent In Gulshan",
         "price": 35000,
         "price_str": "PKR 35,000",
         "location": "PECHS",
@@ -72,6 +58,20 @@
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-10-14"
+    },
+    {
+        "title": "1400sq ft 2BHK Luxurious Apartment in Paragon Towers is available for RENT Near Precinct-17.5min Drive from Main Gate of Bahria Town Karachi",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_precinct_17_paragon_tower_1400sq_ft_2bhk_luxurious_apartment_in_paragon_towers_is_available_for_rent_near_precinct-17_5min_drive_from_main_gate_of_bahria_town_karachi-54852742-21833-4.html",
+        "image": "https://media.zameen.com/thumbnails/308337376-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-14",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
@@ -182,16 +182,32 @@
         "date": "2026-10-14"
     },
     {
-        "title": "New building",
+        "title": "New Building Flat",
         "price": 47000,
         "price_str": "PKR 47,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_new_building-54857383-6862-4.html",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_new_building_flat-54857383-6862-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.924038/67.087233/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "Available For Rent 2bed Dd Apartment In Lakhani Fantasia",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/scheme_33_lakhani_fantasia_available_for_rent_2bed_dd_apartment_in_lakhani_fantasia-53859359-11734-4.html",
+        "image": "https://media.zameen.com/thumbnails/306427590-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-14",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "3 B3D DD FLAT AVAILABLE FOR RENT",
@@ -228,6 +244,20 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-14"
+    },
+    {
+        "title": "3 Bed Apartment For Rent - Precinct 6 Near To Cinema - 1500 Sq Ft - Rent 50,000 - Bahria Town Karachi",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 3,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_precinct_6_3_bed_apartment_for_rent_-_precinct_6_near_to_cinema_-_1500_sq_ft_-_rent_50_000_-_bahria_town_karachi-54826784-10014-4.html",
+        "image": "https://media.zameen.com/thumbnails/308064944-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-14",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent",
