@@ -1,17 +1,5 @@
 [
     {
-        "title": "Centrally Located 3rd Floor Flat In Gulshan-E-Iqbal - Block 13/D-3 Is Available For Rent",
-        "price": 35000,
-        "price_str": "PKR 35,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-3_centrally_located_3rd_floor_flat_in_gulshan-e-iqbal_-_block_13_d-3_is_available_for_rent-53625097-11043-4.html",
-        "image": "https://media.zameen.com/thumbnails/308481649-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-15"
-    },
-    {
         "title": "Flat Available For Rent In Gulshan",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -36,6 +24,18 @@
         "date": "2026-10-15"
     },
     {
+        "title": "A Flat 850 Square Feet In Gulshan-E-Iqbal",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_a_flat_850_square_feet_in_gulshan-e-iqbal-54772956-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/308509723-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-15"
+    },
+    {
         "title": "Flat For Rent",
         "price": 38000,
         "price_str": "PKR 38,000",
@@ -44,18 +44,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54808458-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
-        "source": "Zameen",
-        "date": "2026-10-15"
-    },
-    {
-        "title": "A Flat 850 Square Feet In Gulshan-E-Iqbal",
-        "price": 38000,
-        "price_str": "PKR 38,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_a_flat_850_square_feet_in_gulshan-e-iqbal-54772956-233-4.html",
-        "image": "https://media.zameen.com/thumbnails/307952167-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-15"
     },
@@ -216,20 +204,6 @@
         "date": "2026-10-15"
     },
     {
-        "title": "Brand New Fully Furnished 2 Bedroom Apartment For Rent | J Heights, DHA City Karachi",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Clifton Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/dha_city_sector_3_jakvani_heights_brand_new_fully_furnished_2_bedroom_apartment_for_rent_j_heights_dha_city_karachi-54458521-21766-4.html",
-        "image": "https://media.zameen.com/thumbnails/304521707-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-15",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "Flat For Rent",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -274,6 +248,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-15"
+    },
+    {
+        "title": "A 1000 Square Feet Flat Is Up For Grabs In Gulshan-e-Iqbal Town",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_a_1000_square_feet_flat_is_up_for_grabs_in_gulshan-e-iqbal_town-54751664-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/307340342-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-15",
         "contact_name": "Not Available",
