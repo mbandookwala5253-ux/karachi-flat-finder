@@ -1,5 +1,19 @@
 [
     {
+        "title": "This Is Your Chance To Buy Prime Location Flat In North Nazimabad - Block C Karachi",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_c_this_is_your_chance_to_buy_prime_location_flat_in_north_nazimabad_-_block_c_karachi-53382695-7211-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.936063/67.036128/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-10-16",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat Available For Rent In Gulshan",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -106,20 +120,6 @@
         "image": "https://media.zameen.com/thumbnails/308099143-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-16"
-    },
-    {
-        "title": "A Prime Location Flat At Affordable Price Awaits You",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_n_a_prime_location_flat_at_affordable_price_awaits_you-54239136-7222-4.html",
-        "image": "https://media.zameen.com/thumbnails/300236345-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-16",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "PECHS BLOCK 2 BESIDES KHEEL PARK APARTMENT AVAILABLE FOR RENT",
@@ -275,8 +275,6 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_a_1000_square_feet_flat_is_up_for_grabs_in_gulshan-e-iqbal_town-54751664-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/307340342-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-16",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-16"
     }
 ]
