@@ -1,17 +1,5 @@
 [
     {
-        "title": "2-Bedroom Apartment for Rent at Avenue-1, near Quaid Villas Bahria Town Karachi, just 1 min drive from Main Entrance, with Park, Mosque, Gallery & Commercial Area nearby.",
-        "price": 34000,
-        "price_str": "PKR 34,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_jinnah_avenue_2-bedroom_apartment_for_rent_at_avenue-1_near_quaid_villas_bahria_town_karachi_just_1_min_drive_from_main_entrance_with_park_mosque_gallery_commercial_area_nearby-54876632-13847-4.html",
-        "image": "https://media.zameen.com/thumbnails/308572833-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-17"
-    },
-    {
         "title": "Centrally Located 3rd Floor Flat In Gulshan-E-Iqbal - Block 13/D-3 Is Available For Rent",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -21,9 +9,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-3_centrally_located_3rd_floor_flat_in_gulshan-e-iqbal_-_block_13_d-3_is_available_for_rent-53625097-11043-4.html",
         "image": "https://media.zameen.com/thumbnails/308481649-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-17",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-17"
     },
     {
         "title": "2 Bed Lounge 4th Floor Flat With Roof is Available For Rent In Block 1 Gulshan-E-Iqbal",
@@ -36,6 +22,20 @@
         "image": "https://media.zameen.com/thumbnails/308563951-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-17"
+    },
+    {
+        "title": "3rd Floor 2Bed Drawing Lounge Flat,Available for rent at Gulshan E Iqbal",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-3_3rd_floor_2bed_drawing_lounge_flat_available_for_rent_at_gulshan_e_iqbal-54878770-11043-4.html",
+        "image": "https://media.zameen.com/thumbnails/308595793-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-17",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat Available For Rent In Gulshan",
@@ -74,6 +74,20 @@
         "date": "2026-10-17"
     },
     {
+        "title": "2-Bed Luxury Corner Apartment | 950 Sq. Ft. | Bahria Apartments, Bahria Town Karachi",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2-bed_luxury_corner_apartment_950_sq_ft_bahria_apartments_bahria_town_karachi-54579815-9030-4.html",
+        "image": "https://media.zameen.com/thumbnails/305701254-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-17",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat For Rent",
         "price": 38000,
         "price_str": "PKR 38,000",
@@ -107,9 +121,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2nd_floor_flat_for_rent-54878327-6867-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-17",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-17"
     },
     {
         "title": "Flat For Rent",
@@ -217,9 +229,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_2_bed_lounge_flat_for_rent_gulshan_e_iqbal_block_2_3rd_floor_paramount_tower_lift_car_parking-54877161-6862-4.html",
         "image": "https://media.zameen.com/thumbnails/308578071-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-17",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-17"
     },
     {
         "title": "2 BED DD FLAT AVAILABLE FOR RENT",
@@ -234,16 +244,18 @@
         "date": "2026-10-17"
     },
     {
-        "title": "A Flat 900 Square Feet In Gulshan-E-Iqbal",
+        "title": "A Flat 1000 Square Feet In Gulshan-E-Iqbal",
         "price": 48000,
         "price_str": "PKR 48,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_a_flat_900_square_feet_in_gulshan-e-iqbal-54772956-233-4.html",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_a_flat_1000_square_feet_in_gulshan-e-iqbal-54772956-233-4.html",
         "image": "https://media.zameen.com/thumbnails/308519213-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-17"
+        "date": "2026-10-17",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Spacious Flat Is Available In Gulshan-E-Iqbal - Block 4 For Rent",
@@ -290,18 +302,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flat_for_rent-54732191-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/308141775-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-17"
-    },
-    {
-        "title": "950 Square Feet Flat In Beautiful Location Of Gulshan-e-Iqbal - Block 1 In Karachi",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_950_square_feet_flat_in_beautiful_location_of_gulshan-e-iqbal_-_block_1_in_karachi-54830245-6861-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.920535/67.08312/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-10-17"
     }
