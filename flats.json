@@ -36,6 +36,20 @@
         "date": "2026-10-19"
     },
     {
+        "title": "1100 SQ FT Dascon Tower Available For Rent In Bahria Town Karachi",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_hills_dascon_tower_1100_sq_ft_dascon_tower_available_for_rent_in_bahria_town_karachi-54688616-22084-4.html",
+        "image": "https://media.zameen.com/thumbnails/306727921-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-19",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -48,7 +62,7 @@
         "date": "2026-10-19"
     },
     {
-        "title": "2nd Floor Flat for rent",
+        "title": "2nd Floor Flat For Rent",
         "price": 40000,
         "price_str": "PKR 40,000",
         "location": "PECHS",
@@ -106,6 +120,20 @@
         "image": "https://media.zameen.com/thumbnails/308107762-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-19"
+    },
+    {
+        "title": "WESTOPEN FLAT IN GULSHAN-E-IQBAL BLOCK 2",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_westopen_flat_in_gulshan-e-iqbal_block_2-54886134-6862-4.html",
+        "image": "https://media.zameen.com/thumbnails/308664376-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-19",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Beautiful Apartment Available For Rent",
@@ -175,7 +203,7 @@
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_a_flat_1000_square_feet_in_gulshan-e-iqbal-54772956-233-4.html",
-        "image": "https://media.zameen.com/thumbnails/308519213-400x300.jpeg",
+        "image": "https://media.zameen.com/thumbnails/308519214-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-19"
     },
@@ -285,8 +313,6 @@
         "link": "https://www.zameen.com/Property/pechs_pechs_block_2_2_bed_d_on_rent_at_tariq_road_commercial_near_jheel_park-54885092-6933-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.871447/67.058573/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-19",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-19"
     }
 ]
