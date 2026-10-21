@@ -1,17 +1,5 @@
 [
     {
-        "title": "READY TO MOVE 955 Square Feet 2 Bed Lounge Flat FOR RENT Outer Corner Apartment With AMAZING VIEW 2 KM From MAIN GATE Of BTK",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_jinnah_avenue_ready_to_move_955_square_feet_2_bed_lounge_flat_for_rent_outer_corner_apartment_with_amazing_view_2_km_from_main_gate_of_btk-54735319-13847-4.html",
-        "image": "https://media.zameen.com/thumbnails/307184574-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-20"
-    },
-    {
         "title": "Flat Available For Rent In Gulshan",
         "price": 35000,
         "price_str": "PKR 35,000",
@@ -21,7 +9,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_available_for_rent_in_gulshan-54857564-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Flat Is Available For Rent 2 Bed Lounge",
@@ -33,7 +21,21 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_flat_is_available_for_rent_2_bed_lounge-54839158-6862-4.html",
         "image": "https://media.zameen.com/thumbnails/308198448-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
+    },
+    {
+        "title": "500 Sqft Unfurnished Studio Flat For Rent 3rd Floor Dha Phase 6 Muslim Commerical Neat And Clean Building",
+        "price": 38000,
+        "price_str": "PKR 38,000",
+        "location": "Saddar",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/dha_defence_dha_phase_6_500_sqft_unfurnished_studio_flat_for_rent_3rd_floor_dha_phase_6_muslim_commerical_neat_and_clean_building-54846999-1483-4.html",
+        "image": "https://media.zameen.com/thumbnails/308674279-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-21",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Fair-Priced 850 Square Feet Flat Available In Gulshan-e-Iqbal - Block 13/C",
@@ -45,7 +47,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_fair-priced_850_square_feet_flat_available_in_gulshan-e-iqbal_-_block_13_c-54889972-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Flat For Rent",
@@ -57,7 +59,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54808458-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "GROUND WEST OPEN FLAT FOR RENT",
@@ -69,7 +71,7 @@
         "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_ground_west_open_flat_for_rent-54783563-6858-4.html",
         "image": "https://media.zameen.com/thumbnails/307644029-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "2nd Floor Flat For Rent",
@@ -81,7 +83,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2nd_floor_flat_for_rent-54878327-6867-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Flat For Rent",
@@ -93,7 +95,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_10-a_flat_for_rent-54876108-8894-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.90851753/67.11038939/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "800 Square Feet Flat In Beautiful Location Of Gulshan-e-Iqbal - Block 13/A In Karachi",
@@ -105,7 +107,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_800_square_feet_flat_in_beautiful_location_of_gulshan-e-iqbal_-_block_13_a_in_karachi-54854208-8468-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.905628/67.074788/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "WESTOPEN FLAT IN GULSHAN-E-IQBAL BLOCK 2",
@@ -117,7 +119,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_westopen_flat_in_gulshan-e-iqbal_block_2-54886134-6862-4.html",
         "image": "https://media.zameen.com/thumbnails/308664376-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "2 Bed DD Flat For Rent In Shaz Residence Scheme 33 - Lift, Parking, No Load Shedding",
@@ -129,9 +131,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_2_bed_dd_flat_for_rent_in_shaz_residence_scheme_33_-_lift_parking_no_load_shedding-54891359-13917-4.html",
         "image": "https://media.zameen.com/thumbnails/308713690-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-21"
     },
     {
         "title": "Furnished Apartments Available For Rent At New Dhoraji Gulshan-E-Iqbal Block 3",
@@ -143,7 +143,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_furnished_apartments_available_for_rent_at_new_dhoraji_gulshan-e-iqbal_block_3-54891551-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/308715807-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Beautiful Apartment Available For Rent",
@@ -155,7 +155,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_beautiful_apartment_available_for_rent-54879690-13917-4.html",
         "image": "https://media.zameen.com/thumbnails/308604460-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Flat For Rent 2 Bed DD West open 1st Floor Lift Rent 45000*Code(16930)*Gulshan Iqbal block 13D2",
@@ -167,7 +167,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_flat_for_rent_2_bed_dd_west_open_1st_floor_lift_rent_45000_code_16930_gulshan_iqbal_block_13d2-54788938-6864-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.934623/67.099164/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "PECHS BLOCK 2 BESIDES KHEEL PARK APARTMENT AVAILABLE FOR RENT",
@@ -179,7 +179,7 @@
         "link": "https://www.zameen.com/Property/pechs_pechs_block_2_pechs_block_2_besides_kheel_park_apartment_available_for_rent-54727019-6933-4.html",
         "image": "https://media.zameen.com/thumbnails/307096399-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "New Building Flat",
@@ -191,7 +191,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_new_building_flat-54857383-6862-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.924038/67.087233/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "FLAT AVAILABLE FOR RENT BACK SIDE",
@@ -203,7 +203,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_flat_available_for_rent_back_side-54858148-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/308389203-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "2 BED LOUNGE FLAT FOR RENT GULSHAN E IQBAL BLOCK 2 3rd FLOOR PARAMOUNT TOWER LIFT CAR PARKING",
@@ -215,7 +215,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_2_bed_lounge_flat_for_rent_gulshan_e_iqbal_block_2_3rd_floor_paramount_tower_lift_car_parking-54877161-6862-4.html",
         "image": "https://media.zameen.com/thumbnails/308578072-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "A Flat 1000 Square Feet In Gulshan-E-Iqbal",
@@ -227,7 +227,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_a_flat_1000_square_feet_in_gulshan-e-iqbal-54772956-233-4.html",
         "image": "https://media.zameen.com/thumbnails/308519214-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "2 BED DD FLAT AVAILABLE FOR RENT",
@@ -239,7 +239,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_2_bed_dd_flat_available_for_rent-54638972-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/306260319-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Spacious Flat Is Available In Gulshan-E-Iqbal - Block 4 For Rent",
@@ -251,7 +251,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_4_spacious_flat_is_available_in_gulshan-e-iqbal_-_block_4_for_rent-54771701-6864-4.html",
         "image": "https://media.zameen.com/thumbnails/307534821-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "1 Bedroom Full Furnished Apartments Available",
@@ -263,7 +263,7 @@
         "link": "https://www.zameen.com/Property/clifton_clifton_-_block_9_1_bedroom_full_furnished_apartments_available-54848168-1671-4.html",
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
@@ -275,7 +275,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Ground Floor 2 Bed DD Apartment For Rent Family Ideal",
@@ -287,7 +287,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_ground_floor_2_bed_dd_apartment_for_rent_family_ideal-54817925-6872-4.html",
         "image": "https://media.zameen.com/thumbnails/307979504-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     },
     {
         "title": "Flat 2 Bed D For Rent At Tariq Road Commercial Near Jheel Park",
@@ -299,6 +299,6 @@
         "link": "https://www.zameen.com/Property/pechs_pechs_block_2_flat_2_bed_d_for_rent_at_tariq_road_commercial_near_jheel_park-54885092-6933-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.871447/67.058573/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-20"
+        "date": "2026-10-21"
     }
 ]
