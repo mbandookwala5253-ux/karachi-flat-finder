@@ -36,18 +36,6 @@
         "date": "2026-10-23"
     },
     {
-        "title": "GROUND WEST OPEN FLAT FOR RENT",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_ground_west_open_flat_for_rent-54783563-6858-4.html",
-        "image": "https://media.zameen.com/thumbnails/307644029-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-23"
-    },
-    {
         "title": "2 bed dd second floor boundry wall project block 1 gulshan iqbal",
         "price": 40000,
         "price_str": "PKR 40,000",
@@ -116,6 +104,32 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_7_flat_rent_2_bed_d_d_boundrwall_ground_floor_gulshan_luxyery_apartment_dico_bakery_block_7_just_akber_masjid_corner_rent_43k_union_4k_visit_2_hours_before_code_16928-54880423-6868-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.92754/67.104406/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-10-23"
+    },
+    {
+        "title": "Prime Location 650 Square Feet Flat Ideally Situated In North Nazimabad - Block N",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_n_prime_location_650_square_feet_flat_ideally_situated_in_north_nazimabad_-_block_n-54461118-7222-4.html",
+        "image": "https://media.zameen.com/thumbnails/304545512-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-23",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "Prime Location 650 Square Feet Flat Ideally Situated In North Nazimabad - Block N",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/north_nazimabad_north_nazimabad_-_block_n_prime_location_650_square_feet_flat_ideally_situated_in_north_nazimabad_-_block_n-54888223-7222-4.html",
+        "image": "https://media.zameen.com/thumbnails/308683700-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-23",
         "contact_name": "Not Available",
