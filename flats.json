@@ -1,19 +1,5 @@
 [
     {
-        "title": "READY TO MOVE 955 Square Feet 2 Bed Lounge Flat FOR RENT Outer Corner Apartment With AMAZING VIEW 2 KM From MAIN GATE Of BTK",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_jinnah_avenue_ready_to_move_955_square_feet_2_bed_lounge_flat_for_rent_outer_corner_apartment_with_amazing_view_2_km_from_main_gate_of_btk-54735319-13847-4.html",
-        "image": "https://media.zameen.com/thumbnails/307184574-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "2 Bedroom Lounge Only For Small Family West Open Fast Moving Lift With Stand By Generator Shaz Residency Gulzar E Hijri Next To Fariya Chowk Scheme 33 Karachi",
         "price": 30000,
         "price_str": "PKR 30,000",
@@ -62,18 +48,16 @@
         "date": "2026-10-24"
     },
     {
-        "title": "1400 Square Feet 2 BHK Luxurious Apartment In Paragon Towers Is Available For RENT Near Precinct-17.5min Drive From Main Gate Of Bahria Town Karachi",
+        "title": "2nd Floor Flat For Rent",
         "price": 40000,
         "price_str": "PKR 40,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_precinct_17_paragon_tower_1400_square_feet_2_bhk_luxurious_apartment_in_paragon_towers_is_available_for_rent_near_precinct-17_5min_drive_from_main_gate_of_bahria_town_karachi-54764540-21833-4.html",
-        "image": "https://media.zameen.com/thumbnails/307464132-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2nd_floor_flat_for_rent-54878327-6867-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-24",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-24"
     },
     {
         "title": "2 bed dd second floor boundry wall project block 1 gulshan iqbal",
@@ -84,18 +68,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_dd_second_floor_boundry_wall_project_block_1_gulshan_iqbal-54899639-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/308790425-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-24"
-    },
-    {
-        "title": "2nd Floor Flat For Rent",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_2nd_floor_flat_for_rent-54878327-6867-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-10-24"
     },
@@ -208,6 +180,20 @@
         "date": "2026-10-24"
     },
     {
+        "title": "A Flat 1000 Square Feet In Gulshan-E-Iqbal",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_a_flat_1000_square_feet_in_gulshan-e-iqbal-54772956-233-4.html",
+        "image": "https://media.zameen.com/thumbnails/308519214-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03332332998"
+    },
+    {
         "title": "1 Bedroom Full Furnished Apartments Available",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -220,6 +206,20 @@
         "date": "2026-10-24"
     },
     {
+        "title": "3 Bed Apartment For Rent - Precinct 6 Near To Cinema - 1500 Sq Ft - Rent 50,000 - Bahria Town Karachi",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 3,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_precinct_6_3_bed_apartment_for_rent_-_precinct_6_near_to_cinema_-_1500_sq_ft_-_rent_50_000_-_bahria_town_karachi-54826784-10014-4.html",
+        "image": "https://media.zameen.com/thumbnails/308064944-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-24",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -228,18 +228,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-24"
-    },
-    {
-        "title": "Ground Floor 2 Bed DD Apartment For Rent Family Ideal",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_ground_floor_2_bed_dd_apartment_for_rent_family_ideal-54817925-6872-4.html",
-        "image": "https://media.zameen.com/thumbnails/307979504-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-24"
     }
