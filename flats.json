@@ -84,14 +84,14 @@
         "date": "2026-10-25"
     },
     {
-        "title": "Flat In Gulshan-E-Iqbal - Block 13/B For Rent",
-        "price": 40000,
-        "price_str": "PKR 40,000",
+        "title": "2 Bed Drawing Lounge 2nd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
+        "price": 42000,
+        "price_str": "PKR 42,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_flat_in_gulshan-e-iqbal_-_block_13_b_for_rent-54894544-8844-4.html",
-        "image": "https://media.zameen.com/thumbnails/308745051-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_drawing_lounge_2nd_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54904503-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/308836085-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-25"
     },
@@ -104,18 +104,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_westopen_flat_in_gulshan-e-iqbal_block_2-54886134-6862-4.html",
         "image": "https://media.zameen.com/thumbnails/308664378-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-25"
-    },
-    {
-        "title": "2 Bed Drawing Lounge 2nd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
-        "price": 42000,
-        "price_str": "PKR 42,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_drawing_lounge_2nd_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54904503-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/308836085-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-25"
     },
@@ -180,6 +168,20 @@
         "date": "2026-10-25"
     },
     {
+        "title": "2 BED DD FLAT AVAILABLE FOR RENT",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_2_bed_dd_flat_available_for_rent-54638972-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/306260319-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-25",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 BED LOUNGE FLAT FOR RENT GULSHAN E IQBAL BLOCK 2 3rd FLOOR PARAMOUNT TOWER LIFT CAR PARKING",
         "price": 48000,
         "price_str": "PKR 48,000",
@@ -226,5 +228,19 @@
         "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-25"
+    },
+    {
+        "title": "2 Bed Lounge second Floor Memon Reference Required",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_2_bed_lounge_second_floor_memon_reference_required-54584790-217-4.html",
+        "image": "https://media.zameen.com/thumbnails/305746122-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-25",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     }
 ]
