@@ -24,6 +24,20 @@
         "date": "2026-10-28"
     },
     {
+        "title": "950 Square Feet 2 Bedroom Flats Available For Rent In Precinct-19 Bahria Apartments Bahria Town Karachi",
+        "price": 30000,
+        "price_str": "PKR 30,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_precinct_19_950_square_feet_2_bedroom_flats_available_for_rent_in_precinct-19_bahria_apartments_bahria_town_karachi-54203326-10030-4.html",
+        "image": "https://media.zameen.com/thumbnails/299860643-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-28",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 Bedroom Lounge Only For Small Family West Open Fast Moving Lift With Stand By Generator Shaz Residency Gulzar E Hijri Next To Fariya Chowk Scheme 33 Karachi",
         "price": 30000,
         "price_str": "PKR 30,000",
@@ -68,18 +82,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_2_beds_drawing_dining_flat-54909194-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/308877854-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-28"
-    },
-    {
-        "title": "Bahria Heights Apartment For Rent",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_bahria_heights_apartment_for_rent-54088331-11761-4.html",
-        "image": "https://media.zameen.com/thumbnails/303504148-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-28"
     },
@@ -216,14 +218,14 @@
         "date": "2026-10-28"
     },
     {
-        "title": "Excellent Flat available for rent at Bhayani Heights prime location, peaceful environment! Key Available Roshan Associates",
+        "title": "Available 2 Bed Dd Apartment In Rent Lakhani Fantasia",
         "price": 48000,
         "price_str": "PKR 48,000",
         "location": "Saddar",
         "area": "Pakistan Chowk Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_excellent_flat_available_for_rent_at_bhayani_heights_prime_location_peaceful_environment_key_available_roshan_associates-54919884-21704-4.html",
-        "image": "https://media.zameen.com/thumbnails/308977769-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/scheme_33_lakhani_fantasia_available_2_bed_dd_apartment_in_rent_lakhani_fantasia-53692262-11734-4.html",
+        "image": "https://media.zameen.com/thumbnails/302169263-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-28",
         "contact_name": "Not Available",
@@ -238,6 +240,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_2_bed_lounge_flat_for_rent_gulshan_e_iqbal_block_2_3rd_floor_paramount_tower_lift_car_parking-54877161-6862-4.html",
         "image": "https://media.zameen.com/thumbnails/308578072-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-28"
+    },
+    {
+        "title": "Excellent Flat available for rent at Bhayani Heights prime location, peaceful environment! Key Available Roshan Associates",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_excellent_flat_available_for_rent_at_bhayani_heights_prime_location_peaceful_environment_key_available_roshan_associates-54919884-21704-4.html",
+        "image": "https://media.zameen.com/thumbnails/308977769-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-28"
     },
