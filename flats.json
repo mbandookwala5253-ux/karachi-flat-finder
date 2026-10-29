@@ -60,34 +60,6 @@
         "date": "2026-10-29"
     },
     {
-        "title": "Daniyal Residency Brand New Flat For Rent",
-        "price": 34000,
-        "price_str": "PKR 34,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/scheme_33_daniyal_residency_daniyal_residency_brand_new_flat_for_rent-54220232-10578-4.html",
-        "image": "https://media.zameen.com/thumbnails/302792764-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-29",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
-        "title": "Apartment Available For Rent",
-        "price": 36000,
-        "price_str": "PKR 36,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gadap_town_gulshan-e-maymar_apartment_available_for_rent-54925129-680-4.html",
-        "image": "https://media.zameen.com/thumbnails/309021477-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-29",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
         "title": "Flat Is Available For Rent 2 Bed Lounge",
         "price": 36000,
         "price_str": "PKR 36,000",
@@ -232,16 +204,18 @@
         "date": "2026-10-29"
     },
     {
-        "title": "Habib Appartment Flat For Rent Gulshan Iqbal block 13D2.2 Bed DD. 2nd Floor  Lift Available Basement Parking  Rent Demand 50000 *Code(16756)*",
+        "title": "Habib Appartment Flat For Rent Gulshan Iqbal Block 13D2.2 Bed DD. 2nd Floor Lift Available Basement Parking",
         "price": 47000,
         "price_str": "PKR 47,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_habib_appartment_flat_for_rent_gulshan_iqbal_block_13d2_2_bed_dd_2nd_floor_lift_available_basement_parking_rent_demand_50000_code_16756-54915275-8885-4.html",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_habib_appartment_flat_for_rent_gulshan_iqbal_block_13d2_2_bed_dd_2nd_floor_lift_available_basement_parking-54915275-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/308973402-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-29"
+        "date": "2026-10-29",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Become Owner Of Your Flat Today Which Is Centrally Located In Gulshan-E-Iqbal - Block 1 In Karachi",
@@ -253,9 +227,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_become_owner_of_your_flat_today_which_is_centrally_located_in_gulshan-e-iqbal_-_block_1_in_karachi-54911302-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/308916436-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-29",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-29"
     },
     {
         "title": "2 BED LOUNGE FLAT FOR RENT GULSHAN E IQBAL BLOCK 2 3rd FLOOR PARAMOUNT TOWER LIFT CAR PARKING",
@@ -270,7 +242,7 @@
         "date": "2026-10-29"
     },
     {
-        "title": "Excellent Flat available for rent at Bhayani Heights prime location, peaceful environment! Key Available Roshan Associates",
+        "title": "Excellent Flat Available For Rent At Bhayani Heights Prime Location, Peaceful Environment! Key Available Roshan Associates",
         "price": 48000,
         "price_str": "PKR 48,000",
         "location": "PECHS",
@@ -292,5 +264,19 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-29"
+    },
+    {
+        "title": "Brand New Fully Furnished 2 Bedroom Apartment For Rent | J Heights, DHA City Karachi",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/dha_city_sector_3_jakvani_heights_brand_new_fully_furnished_2_bedroom_apartment_for_rent_j_heights_dha_city_karachi-54458521-21766-4.html",
+        "image": "https://media.zameen.com/thumbnails/304521707-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-29",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     }
 ]
