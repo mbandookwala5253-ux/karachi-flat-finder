@@ -1,5 +1,19 @@
 [
     {
+        "title": "G ? f Apartment on rent in Akhter Colony.",
+        "price": 15000,
+        "price_str": "PKR 15,000",
+        "location": "Jamshed_Town_Garden_East",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/jamshed_town_akhtar_colony_g_f_apartment_on_rent_in_akhter_colony-54927918-6917-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.839945/67.074065/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-10-29",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "650 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
         "price": 27000,
         "price_str": "PKR 27,000",
@@ -56,18 +70,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_affordable_prime_location_flat_for_rent_in_shaz_residency-54923104-13917-4.html",
         "image": "https://media.zameen.com/thumbnails/309005805-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-29"
-    },
-    {
-        "title": "Flat Is Available For Rent 2 Bed Lounge",
-        "price": 36000,
-        "price_str": "PKR 36,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_flat_is_available_for_rent_2_bed_lounge-54839158-6862-4.html",
-        "image": "https://media.zameen.com/thumbnails/308198448-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-29"
     },
@@ -180,14 +182,14 @@
         "date": "2026-10-29"
     },
     {
-        "title": "FLAT FOR RENT GULSHAN-E-IQBAL, BLOCK 1   Location: Maymar Plaza",
+        "title": "FLAT FOR RENT GULSHAN-E-IQBAL, BLOCK 1 Location: Maymar Plaza",
         "price": 45000,
         "price_str": "PKR 45,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_flat_for_rent_gulshan-e-iqbal_block_1_location_maymar_plaza-54913191-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/308930621-400x300.jpeg",
+        "image": "https://media.zameen.com/thumbnails/308930624-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-29"
     },
@@ -213,9 +215,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_habib_appartment_flat_for_rent_gulshan_iqbal_block_13d2_2_bed_dd_2nd_floor_lift_available_basement_parking-54915275-8885-4.html",
         "image": "https://media.zameen.com/thumbnails/308973402-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-29",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-29"
     },
     {
         "title": "Become Owner Of Your Flat Today Which Is Centrally Located In Gulshan-E-Iqbal - Block 1 In Karachi",
@@ -254,6 +254,20 @@
         "date": "2026-10-29"
     },
     {
+        "title": "2 BED DD FLAT AVAILABLE FOR RENT",
+        "price": 48000,
+        "price_str": "PKR 48,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_2_bed_dd_flat_available_for_rent-54638972-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/306260319-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-29",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "1 Bedroom Full Furnished Apartments Available",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -264,19 +278,5 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-29"
-    },
-    {
-        "title": "Brand New Fully Furnished 2 Bedroom Apartment For Rent | J Heights, DHA City Karachi",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Clifton Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/dha_city_sector_3_jakvani_heights_brand_new_fully_furnished_2_bedroom_apartment_for_rent_j_heights_dha_city_karachi-54458521-21766-4.html",
-        "image": "https://media.zameen.com/thumbnails/304521707-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-29",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     }
 ]
