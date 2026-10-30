@@ -36,23 +36,11 @@
         "date": "2026-10-30"
     },
     {
-        "title": "2 Bedroom Lounge Only For Small Family West Open Fast Moving Lift With Stand By Generator Shaz Residency Gulzar E Hijri Next To Fariya Chowk Scheme 33 Karachi",
-        "price": 30000,
-        "price_str": "PKR 30,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_shaz_residency_2_bedroom_lounge_only_for_small_family_west_open_fast_moving_lift_with_stand_by_generator_shaz_residency_gulzar_e_hijri_next_to_fariya_chowk_scheme_33_karachi-54897111-13917-4.html",
-        "image": "https://media.zameen.com/thumbnails/308766787-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-30"
-    },
-    {
         "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
         "price": 31000,
         "price_str": "PKR 31,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_11_third_floor_2_bed_lounge_apartment_for_rent_ready_to_move-54761775-6872-4.html",
         "image": "https://media.zameen.com/thumbnails/308973572-400x300.jpeg",
@@ -70,20 +58,6 @@
         "image": "https://media.zameen.com/thumbnails/309005805-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-30"
-    },
-    {
-        "title": "Stunning Prime Location 950 Square Feet Flat In Bahria Apartments Available For Rent",
-        "price": 38000,
-        "price_str": "PKR 38,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_stunning_prime_location_950_square_feet_flat_in_bahria_apartments_available_for_rent-54859050-9030-4.html",
-        "image": "https://media.zameen.com/thumbnails/308396194-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-30",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "2 BEDS DRAWING DINING FLAT",
@@ -143,9 +117,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_shahid_royal_city_flat_for_rent_gulshan_iqbal_block_1_2nd_floor_2_bed_dd_boundary_wall_project_marble_flooring_rent_demand_42000_code_16977-54930778-6861-4.html",
         "image": "https://media.zameen.com/thumbnails/309075476-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-30",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-30"
     },
     {
         "title": "FLAT RABI APARTMENT FIRST FLOOR 2BDD 13D2 GULSHAN IQBAL",
@@ -290,5 +262,19 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-30"
+    },
+    {
+        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
+        "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-30",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     }
 ]
