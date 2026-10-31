@@ -1,15 +1,17 @@
 [
     {
-        "title": "G / f Apartment on rent in Akhter Colony.",
+        "title": "G / F Apartment For Rent In Akhter Colony.",
         "price": 15000,
         "price_str": "PKR 15,000",
         "location": "Jamshed_Town_Garden_East",
         "area": "Pakistan Chowk Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/jamshed_town_akhtar_colony_g_f_apartment_on_rent_in_akhter_colony-54927918-6917-4.html",
+        "link": "https://www.zameen.com/Property/jamshed_town_akhtar_colony_g_f_apartment_for_rent_in_akhter_colony-54927918-6917-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.839945/67.074065/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-10-31"
+        "date": "2026-10-31",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "650 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
@@ -20,18 +22,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_650_square_feet_flat_for_rent_in_gulshan-e-iqbal_town-51900265-6858-4.html",
         "image": "https://media.zameen.com/thumbnails/306638601-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31"
-    },
-    {
-        "title": "650 Square Feet Spacious Flat Is Available In Gulshan-E-Iqbal - Block 13-D2 For Rent",
-        "price": 27000,
-        "price_str": "PKR 27,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_650_square_feet_spacious_flat_is_available_in_gulshan-e-iqbal_-_block_13-d2_for_rent-51900242-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/306638605-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-31"
     },
@@ -58,20 +48,6 @@
         "image": "https://media.zameen.com/thumbnails/308973572-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-31"
-    },
-    {
-        "title": "2 Bed Apartment For Rent In Bahria Apartments Precinct 19 Bahria Town Karachi",
-        "price": 32000,
-        "price_str": "PKR 32,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_precinct_19_2_bed_apartment_for_rent_in_bahria_apartments_precinct_19_bahria_town_karachi-54751143-10030-4.html",
-        "image": "https://media.zameen.com/thumbnails/307336339-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "Affordable Prime Location Flat For Rent In Shaz Residency",
@@ -132,6 +108,20 @@
         "image": "https://images.zameen.com/smap/400/300/24.923765/67.09852/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-10-31"
+    },
+    {
+        "title": "2 Bed Drawing Lounge 2nd Floor Flat Available For Rent In Block 1 Gulshan-E-Iqbal",
+        "price": 42000,
+        "price_str": "PKR 42,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_drawing_lounge_2nd_floor_flat_available_for_rent_in_block_1_gulshan-e-iqbal-54904503-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/309096085-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-31",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Shahid Royal City Flat For Rent  Gulshan Iqbal block 1 2nd Floor  2 Bed DD Boundary wall project  Marble Flooring Rent Demand 42000 *Code(16977)*",
@@ -276,62 +266,6 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-31"
-    },
-    {
-        "title": "Tower A Outer Brand New Apartment For Rent",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_tower_a_outer_brand_new_apartment_for_rent-54900921-11761-4.html",
-        "image": "https://media.zameen.com/thumbnails/308800268-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
-        "title": "2 Bed Outer Apartment For Rent In Bahria Heights Bahria Town Karachi",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bed_outer_apartment_for_rent_in_bahria_heights_bahria_town_karachi-54728529-11761-4.html",
-        "image": "https://media.zameen.com/thumbnails/307111500-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
-        "title": "Brand New Outer Available For Rent In Paragon Towers",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_precinct_17_paragon_tower_brand_new_outer_available_for_rent_in_paragon_towers-54772316-21833-4.html",
-        "image": "https://media.zameen.com/thumbnails/307540841-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
-    },
-    {
-        "title": "Outer Brand New Apartment For Rent In Tower A Bahria Heights",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_outer_brand_new_apartment_for_rent_in_tower_a_bahria_heights-54904649-11761-4.html",
-        "image": "https://media.zameen.com/thumbnails/308834235-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
     },
     {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
