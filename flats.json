@@ -21,9 +21,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_4th_floor_1_bed_lounge-54934336-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/309110510-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-31"
     },
     {
         "title": "4th floor 1 bed lounge",
@@ -34,6 +32,18 @@
         "rooms": 1,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_4th_floor_1_bed_lounge-54934335-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/309110511-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-31"
+    },
+    {
+        "title": "2BHK 955 Sq Ft Apartment For Rent In Towers, Precinct-19 Bahria Town Karachi, With Park, Mosque, Gallery & Commercial Area Nearby Just 2 Min Drive From Main Gate.",
+        "price": 26500,
+        "price_str": "PKR 26,500",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2bhk_955_sq_ft_apartment_for_rent_in_towers_precinct-19_bahria_town_karachi_with_park_mosque_gallery_commercial_area_nearby_just_2_min_drive_from_main_gate-54909245-9030-4.html",
+        "image": "https://media.zameen.com/thumbnails/308877791-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-31",
         "contact_name": "Not Available",
@@ -64,6 +74,20 @@
         "date": "2026-10-31"
     },
     {
+        "title": "2 Bed Lounge Apartment For Rent In Gulistan-E-Johar, Block 14 | 2nd Floor | Lift & Car Parking Available |",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_14_2_bed_lounge_apartment_for_rent_in_gulistan-e-johar_block_14_2nd_floor_lift_car_parking_available-54884695-6838-4.html",
+        "image": "https://media.zameen.com/thumbnails/308742696-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-31",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 BEDS DRAWING DINING FLAT",
         "price": 38000,
         "price_str": "PKR 38,000",
@@ -74,6 +98,34 @@
         "image": "https://media.zameen.com/thumbnails/308877854-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-31"
+    },
+    {
+        "title": "2 Bed Studio apartment for rent in muslim commercial phase 6",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/dha_defence_dha_phase_6_2_bed_studio_apartment_for_rent_in_muslim_commercial_phase_6-54885594-1483-4.html",
+        "image": "https://media.zameen.com/thumbnails/308658598-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-31",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Midway In Bahria Town",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54793672-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/307740529-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-31",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "2 bed dd second floor boundry wall project block 1 gulshan iqbal",
@@ -148,18 +200,6 @@
         "date": "2026-10-31"
     },
     {
-        "title": "FLAT RABI APARTMENT FIRST FLOOR 2BDD 13D2 GULSHAN IQBAL",
-        "price": 42000,
-        "price_str": "PKR 42,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_flat_rabi_apartment_first_floor_2bdd_13d2_gulshan_iqbal-54917570-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/308958019-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31"
-    },
-    {
         "title": "Three Side Corner Flat For Rent",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -205,9 +245,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_silent_commercial_flat_for_rent_gulshan-e-iqbal-54934800-6867-4.html",
         "image": "https://media.zameen.com/thumbnails/309114966-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-10-31",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-10-31"
     },
     {
         "title": "FLAT FOR RENT GULSHAN-E-IQBAL, BLOCK 1 Location: Maymar Plaza",
@@ -246,18 +284,6 @@
         "date": "2026-10-31"
     },
     {
-        "title": "Excellent Flat Available For Rent At Bhayani Heights Prime Location, Peaceful Environment! Key Available Roshan Associates",
-        "price": 48000,
-        "price_str": "PKR 48,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_excellent_flat_available_for_rent_at_bhayani_heights_prime_location_peaceful_environment_key_available_roshan_associates-54919884-21704-4.html",
-        "image": "https://media.zameen.com/thumbnails/308977769-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-10-31"
-    },
-    {
         "title": "1 Bedroom Full Furnished Apartments Available",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -270,6 +296,20 @@
         "date": "2026-10-31"
     },
     {
+        "title": "Studio Apartment 2 Bed For Rent Badar Commercial Dha Phase 5 Karachi",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Clifton Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/dha_phase_5_badar_commercial_area_studio_apartment_2_bed_for_rent_badar_commercial_dha_phase_5_karachi-54915276-8484-4.html",
+        "image": "https://media.zameen.com/thumbnails/308937208-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-31",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Flat For Rent 2 Bedroom Drawing Dinning American Kitchen Tile Flooring Boundary Wall Project in Bhayani Heights Comfortable accommodation, excellent facilities and a peaceful environment your dream home!",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -278,6 +318,18 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_flat_for_rent_2_bedroom_drawing_dinning_american_kitchen_tile_flooring_boundary_wall_project_in_bhayani_heights_comfortable_accommodation_excellent_facilities_and_a_peaceful_environment_your_dream_home-54934845-21704-4.html",
         "image": "https://media.zameen.com/thumbnails/309115410-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-10-31"
+    },
+    {
+        "title": "Flat for Rent",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54936349-8845-4.html",
+        "image": "https://media.zameen.com/thumbnails/309129780-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-10-31",
         "contact_name": "Not Available",
