@@ -12,19 +12,7 @@
         "date": "2026-11-01"
     },
     {
-        "title": "4th floor 1 bed lounge",
-        "price": 25000,
-        "price_str": "PKR 25,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 1,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_4th_floor_1_bed_lounge-54934336-8845-4.html",
-        "image": "https://media.zameen.com/thumbnails/309110510-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-01"
-    },
-    {
-        "title": "4th floor 1 bed lounge",
+        "title": "4th Floor 1 Bed Lounge",
         "price": 25000,
         "price_str": "PKR 25,000",
         "location": "PECHS",
@@ -34,6 +22,20 @@
         "image": "https://media.zameen.com/thumbnails/309110511-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-01"
+    },
+    {
+        "title": "4th Floor 1 Bed Lounge Flat",
+        "price": 25000,
+        "price_str": "PKR 25,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 1,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_4th_floor_1_bed_lounge_flat-54934336-8845-4.html",
+        "image": "https://media.zameen.com/thumbnails/309110510-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
@@ -60,16 +62,18 @@
         "date": "2026-11-01"
     },
     {
-        "title": "2 BEDS DRAWING DINING FLAT",
-        "price": 38000,
-        "price_str": "PKR 38,000",
+        "title": "2 BEDS LOUNGE GROUND FLOOR BOCK-13C FLAT",
+        "price": 36000,
+        "price_str": "PKR 36,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_2_beds_drawing_dining_flat-54909194-8844-4.html",
-        "image": "https://media.zameen.com/thumbnails/308877854-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_2_beds_lounge_ground_floor_bock-13c_flat-54909194-8844-4.html",
+        "image": "https://media.zameen.com/thumbnails/308877256-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-01"
+        "date": "2026-11-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "2 bed dd second floor boundry wall project block 1 gulshan iqbal",
@@ -216,18 +220,6 @@
         "date": "2026-11-01"
     },
     {
-        "title": "Excellent Flat Available For Rent At Bhayani Heights Prime Location, Peaceful Environment! Key Available Roshan Associates",
-        "price": 48000,
-        "price_str": "PKR 48,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_excellent_flat_available_for_rent_at_bhayani_heights_prime_location_peaceful_environment_key_available_roshan_associates-54919884-21704-4.html",
-        "image": "https://media.zameen.com/thumbnails/308977769-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-01"
-    },
-    {
         "title": "1 Bedroom Full Furnished Apartments Available",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -238,6 +230,20 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-01"
+    },
+    {
+        "title": "Flat For Rent Beautiful and comfortable family flat available for rent! Choose a beautiful home for your family, where comfort, convenience and the best living environment are available together!",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_flat_for_rent_beautiful_and_comfortable_family_flat_available_for_rent_choose_a_beautiful_home_for_your_family_where_comfort_convenience_and_the_best_living_environment_are_available_together-54937591-21704-4.html",
+        "image": "https://media.zameen.com/thumbnails/309144472-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent 2 Bedroom Drawing Dinning American Kitchen Tile Flooring Boundary Wall Project in Bhayani Heights Comfortable accommodation, excellent facilities and a peaceful environment your dream home!",
@@ -252,16 +258,18 @@
         "date": "2026-11-01"
     },
     {
-        "title": "Flat for Rent",
+        "title": "Flat for Rent ( 4th Floor Without Lift)",
         "price": 50000,
         "price_str": "PKR 50,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent-54936349-8845-4.html",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent_4th_floor_without_lift-54936349-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/309129780-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-01"
+        "date": "2026-11-01",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
