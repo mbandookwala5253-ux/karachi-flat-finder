@@ -36,6 +36,20 @@
         "date": "2026-11-02"
     },
     {
+        "title": "Available One Bed Lounge Apartment In Daniyal Residency &Mall",
+        "price": 26000,
+        "price_str": "PKR 26,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/scheme_33_daniyal_residency_available_one_bed_lounge_apartment_in_daniyal_residency_mall-54908055-10578-4.html",
+        "image": "https://media.zameen.com/thumbnails/308866727-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-02",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
         "price": 31000,
         "price_str": "PKR 31,000",
@@ -58,6 +72,34 @@
         "image": "https://media.zameen.com/thumbnails/309005805-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-02"
+    },
+    {
+        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Midway In Bahria Town",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54933401-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/309100726-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-02",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
+        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Main Entrance Of Bahria Town",
+        "price": 35000,
+        "price_str": "PKR 35,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54933395-9030-4.html",
+        "image": "https://media.zameen.com/thumbnails/309100660-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-02",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "2 BEDS LOUNGE GROUND FLOOR BOCK-13C FLAT",
@@ -120,18 +162,6 @@
         "date": "2026-11-02"
     },
     {
-        "title": "RABIA ENCLAVE 2BED DD APARTMENT (Flat) FOR RENT",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/karachi_motorway_rabia_enclave_rabia_enclave_2bed_dd_apartment_flat_for_rent-54118022-12736-4.html",
-        "image": "https://media.zameen.com/thumbnails/300057098-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-02"
-    },
-    {
         "title": "First Floor Tiles Flooring 2Bed D-D Flat Available for rent at Gulshan e Iqbal",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -154,6 +184,20 @@
         "image": "https://media.zameen.com/thumbnails/308877183-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-02"
+    },
+    {
+        "title": "First Floor 2Bed Drawing Lounge Flat Available For Rent",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_d-3_first_floor_2bed_drawing_lounge_flat_available_for_rent-53580245-11043-4.html",
+        "image": "https://media.zameen.com/thumbnails/309156291-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-02",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Furnished Apartments Available For Rent At New Dhoraji Gulshan-E-Iqbal Block 3",
@@ -189,9 +233,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_gulshan-e-iqbal_your_ideal_900_square_feet_flat_has_just_become_available_in_gulshan-e-iqbal-54701091-233-4.html",
         "image": "https://media.zameen.com/thumbnails/309155928-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-02",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-11-02"
     },
     {
         "title": "Get In Touch Now To Buy A Prime Location Flat In Shaz Residency",
@@ -242,7 +284,7 @@
         "date": "2026-11-02"
     },
     {
-        "title": "Flat For Rent Beautiful and comfortable family flat available for rent! Choose a beautiful home for your family, where comfort, convenience and the best living environment are available together!",
+        "title": "Flat For Rent Beautiful And Comfortable Family Flat Available For Rent! Choose A Beautiful Home For Your Family, Where Comfort, Convenience And The Best Living Environment Are Available Together!",
         "price": 50000,
         "price_str": "PKR 50,000",
         "location": "PECHS",
@@ -266,7 +308,7 @@
         "date": "2026-11-02"
     },
     {
-        "title": "Flat for Rent ( 4th Floor Without Lift)",
+        "title": "Flat For Rent ( 4th Floor Without Lift)",
         "price": 50000,
         "price_str": "PKR 50,000",
         "location": "PECHS",
@@ -274,18 +316,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_flat_for_rent_4th_floor_without_lift-54936349-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/309129780-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-02"
-    },
-    {
-        "title": "Ideal Flat For Rent In Gulshan-E-Iqbal - Block 13/B",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_ideal_flat_for_rent_in_gulshan-e-iqbal_-_block_13_b-54482518-8844-4.html",
-        "image": "https://media.zameen.com/thumbnails/304766144-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-02"
     }
