@@ -24,16 +24,18 @@
         "date": "2026-11-03"
     },
     {
-        "title": "4th Floor 1 Bed Lounge Flat",
-        "price": 25000,
-        "price_str": "PKR 25,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 1,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_4th_floor_1_bed_lounge_flat-54934336-8845-4.html",
-        "image": "https://media.zameen.com/thumbnails/309110510-400x300.jpeg",
+        "title": "650 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
+        "price": 27000,
+        "price_str": "PKR 27,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_gulshan-e-iqbal_town_650_square_feet_flat_for_rent_in_gulshan-e-iqbal_town-51900265-6858-4.html",
+        "image": "https://media.zameen.com/thumbnails/306638601-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-03"
+        "date": "2026-11-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Third Floor 2 Bed Lounge Apartment For Rent Ready To Move",
@@ -68,18 +70,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/jamshed_town_akhtar_colony_spacious_2_bed_dd_flat_for_rent_in_akhtar_colony_prime_location_near_nadra_mega_centre_dha_phase_1-54941208-6917-4.html",
         "image": "https://media.zameen.com/thumbnails/309181323-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-03"
-    },
-    {
-        "title": "2 bed dd second floor boundry wall project block 1 gulshan iqbal",
-        "price": 40000,
-        "price_str": "PKR 40,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_2_bed_dd_second_floor_boundry_wall_project_block_1_gulshan_iqbal-54899639-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/308790425-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-03"
     },
@@ -142,6 +132,20 @@
         "image": "https://media.zameen.com/thumbnails/308715807-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-03"
+    },
+    {
+        "title": "FLAT FOR RENT GULSHAN-E-IQBAL, BLOCK 1 Location: Maymar Plaza",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_flat_for_rent_gulshan-e-iqbal_block_1_location_maymar_plaza-54913191-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/308930624-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Silent Commercial Flat For Rent Gulshan-E-Iqbal",
@@ -214,6 +218,20 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-03"
+    },
+    {
+        "title": "3 Bed Apartment For Rent - Precinct 6 Near To Cinema - 1500 Sq Ft - Rent 50,000 - Bahria Town Karachi",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 3,
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_town_-_precinct_6_3_bed_apartment_for_rent_-_precinct_6_near_to_cinema_-_1500_sq_ft_-_rent_50_000_-_bahria_town_karachi-54826784-10014-4.html",
+        "image": "https://media.zameen.com/thumbnails/308064944-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-03",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Flat For Rent Beautiful And Comfortable Family Flat Available For Rent! Choose A Beautiful Home For Your Family, Where Comfort, Convenience And The Best Living Environment Are Available Together!",
