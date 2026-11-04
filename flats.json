@@ -12,18 +12,6 @@
         "date": "2026-11-04"
     },
     {
-        "title": "4th Floor 1 Bed Lounge",
-        "price": 25000,
-        "price_str": "PKR 25,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 1,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_4th_floor_1_bed_lounge-54934335-8845-4.html",
-        "image": "https://media.zameen.com/thumbnails/309110511-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-04"
-    },
-    {
         "title": "Bechlor flat for rent Opposite Baitul Mukkarm masjid near Al Mustafa Hopistal 1 bed loung",
         "price": 26000,
         "price_str": "PKR 26,000",
@@ -33,9 +21,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_bechlor_flat_for_rent_opposite_baitul_mukkarm_masjid_near_al_mustafa_hopistal_1_bed_loung-54950243-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/309269941-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-04",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-11-04"
     },
     {
         "title": "650 Square Feet Flat For Rent In Gulshan-E-Iqbal Town",
@@ -83,19 +69,17 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_b_2_beds_lounge_ground_floor_bock-13c_flat-54909194-8844-4.html",
         "image": "https://media.zameen.com/thumbnails/308877256-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-04",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-11-04"
     },
     {
-        "title": "2 Bedroom Lounge Inner Luxurious Apartment Is Available For Rent Near Midway In Bahria Town",
+        "title": "Bahria Heights Apartment For Rent",
         "price": 40000,
         "price_str": "PKR 40,000",
         "location": "Saddar",
         "area": "Pakistan Chowk Area",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_2_bedroom_lounge_inner_luxurious_apartment_is_available_for_rent_near_midway_in_bahria_town-54801284-11761-4.html",
-        "image": "https://media.zameen.com/thumbnails/307965150-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_heights_bahria_heights_apartment_for_rent-54088331-11761-4.html",
+        "image": "https://media.zameen.com/thumbnails/303504148-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-04",
         "contact_name": "Not Available",
@@ -174,6 +158,20 @@
         "date": "2026-11-04"
     },
     {
+        "title": "Flat For Rent Asma Centre Gulshan-e-Iqbal Block 6",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_flat_for_rent_asma_centre_gulshan-e-iqbal_block_6-54951072-6867-4.html",
+        "image": "https://media.zameen.com/thumbnails/309278386-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-04",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "Silent Commercial Flat For Rent Gulshan-E-Iqbal",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -207,9 +205,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_stunning_flat_is_available_for_rent_in_gulshan-e-iqbal_-_block_13_c-54808458-8845-4.html",
         "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
-        "date": "2026-11-04",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-11-04"
     },
     {
         "title": "FLAT AVAILABLE FOR RENT BACK SIDE",
@@ -246,6 +242,20 @@
         "image": "https://media.zameen.com/thumbnails/308289278-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-04"
+    },
+    {
+        "title": "two bedroom lounge studio apartment for rent",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/dha_phase_6_muslim_commercial_area_two_bedroom_lounge_studio_apartment_for_rent-54951621-8493-4.html",
+        "image": "https://media.zameen.com/thumbnails/309284750-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-04",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "2 Bed Lounge Second Floor Memon Reference Required",
