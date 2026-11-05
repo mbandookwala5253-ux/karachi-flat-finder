@@ -57,9 +57,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_2_flate_for_rent-54955701-6862-4.html",
         "image": "https://media.zameen.com/thumbnails/309325209-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-05",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-11-05"
     },
     {
         "title": "Spacious 2 Bed Lounge Flat For Rent In Akhtar Colony Prime Location | Near NADRA Mega Centre & DHA Phase 1",
@@ -170,18 +168,6 @@
         "date": "2026-11-05"
     },
     {
-        "title": "FLAT FOR RENT GULSHAN-E-IQBAL, BLOCK 1 Location: Maymar Plaza",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_flat_for_rent_gulshan-e-iqbal_block_1_location_maymar_plaza-54913191-6861-4.html",
-        "image": "https://media.zameen.com/thumbnails/308930624-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-05"
-    },
-    {
         "title": "Silent Commercial Flat For Rent Gulshan-E-Iqbal",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -230,6 +216,18 @@
         "date": "2026-11-05"
     },
     {
+        "title": "FLAT FOR RENT GULSHAN-E-IQBAL, BLOCK 1 Location: Maymar Plaza",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_1_flat_for_rent_gulshan-e-iqbal_block_1_location_maymar_plaza-54913191-6861-4.html",
+        "image": "https://media.zameen.com/thumbnails/308930624-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-05"
+    },
+    {
         "title": "FLAT AVAILABLE FOR RENT BACK SIDE",
         "price": 47000,
         "price_str": "PKR 47,000",
@@ -274,18 +272,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_town_dhoraji_colony_2_bed_lounge_second_floor_memon_reference_required-54584790-217-4.html",
         "image": "https://media.zameen.com/thumbnails/305746122-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-05"
-    },
-    {
-        "title": "Flat For Rent Beautiful And Comfortable Family Flat Available For Rent! Choose A Beautiful Home For Your Family, Where Comfort, Convenience And The Best Living Environment Are Available Together!",
-        "price": 50000,
-        "price_str": "PKR 50,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_block_4_bhayani_heights_flat_for_rent_beautiful_and_comfortable_family_flat_available_for_rent_choose_a_beautiful_home_for_your_family_where_comfort_convenience_and_the_best_living_environment_are_available_together-54937591-21704-4.html",
-        "image": "https://media.zameen.com/thumbnails/309144472-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-05"
     }
