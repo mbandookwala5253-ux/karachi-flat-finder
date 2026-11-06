@@ -48,7 +48,7 @@
         "date": "2026-11-06"
     },
     {
-        "title": "Flate for Rent",
+        "title": "Flate For Rent",
         "price": 32000,
         "price_str": "PKR 32,000",
         "location": "PECHS",
@@ -70,6 +70,20 @@
         "image": "https://media.zameen.com/thumbnails/308877256-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-06"
+    },
+    {
+        "title": "Flat For Rent 2 Bed Lounge",
+        "price": 40000,
+        "price_str": "PKR 40,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulistan_e_jauhar_gulistan-e-jauhar_-_block_7_flat_for_rent_2_bed_lounge-54936678-6831-4.html",
+        "image": "https://media.zameen.com/thumbnails/309134847-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-06",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "800 Square Feet Flat In Beautiful Location Of Gulshan-e-Iqbal - Block 13/A In Karachi",
@@ -156,18 +170,6 @@
         "date": "2026-11-06"
     },
     {
-        "title": "Flat For Rent Asma Centre Gulshan-e-Iqbal Block 6",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_flat_for_rent_asma_centre_gulshan-e-iqbal_block_6-54951072-6867-4.html",
-        "image": "https://media.zameen.com/thumbnails/309278386-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-06"
-    },
-    {
         "title": "Maintain Flat",
         "price": 45000,
         "price_str": "PKR 45,000",
@@ -176,18 +178,6 @@
         "rooms": 2,
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_maintain_flat-54951974-8845-4.html",
         "image": "https://media.zameen.com/thumbnails/309287762-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-06"
-    },
-    {
-        "title": "Stunning Flat Is Available For rent In Gulshan-e-Iqbal - Block 13/C",
-        "price": 45000,
-        "price_str": "PKR 45,000",
-        "location": "PECHS",
-        "area": "PECHS / Shabbirabad",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_stunning_flat_is_available_for_rent_in_gulshan-e-iqbal_-_block_13_c-54808458-8845-4.html",
-        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
         "source": "Zameen",
         "date": "2026-11-06"
     },
@@ -204,6 +194,30 @@
         "date": "2026-11-06"
     },
     {
+        "title": "Flat For Rent Asma Centre Gulshan-e-Iqbal Block 6",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_6_flat_for_rent_asma_centre_gulshan-e-iqbal_block_6-54951072-6867-4.html",
+        "image": "https://media.zameen.com/thumbnails/309278386-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-06"
+    },
+    {
+        "title": "Stunning Flat Is Available For rent In Gulshan-e-Iqbal - Block 13/C",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_c_stunning_flat_is_available_for_rent_in_gulshan-e-iqbal_-_block_13_c-54808458-8845-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.911691/67.086039/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-11-06"
+    },
+    {
         "title": "Flat For Rent 2bed Lounge In Al Ghafoor Orchid",
         "price": 47000,
         "price_str": "PKR 47,000",
@@ -213,9 +227,7 @@
         "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_3_flat_for_rent_2bed_lounge_in_al_ghafoor_orchid-54958131-6863-4.html",
         "image": "https://media.zameen.com/thumbnails/309350388-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-06",
-        "contact_name": "Not Available",
-        "contact_phone": "03539276123"
+        "date": "2026-11-06"
     },
     {
         "title": "FLAT AVAILABLE FOR RENT BACK SIDE",
@@ -254,6 +266,20 @@
         "date": "2026-11-06"
     },
     {
+        "title": "Ready To Rent A Flat In Falaknaz Harmony Falaknaz Harmony",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Saddar",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/karachi_falaknaz_harmony_ready_to_rent_a_flat_in_falaknaz_harmony_falaknaz_harmony-54791865-21461-4.html",
+        "image": "https://media.zameen.com/thumbnails/307722306-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-06",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
+    },
+    {
         "title": "2 Bed Lounge Second Floor Memon Reference Required",
         "price": 50000,
         "price_str": "PKR 50,000",
@@ -264,5 +290,19 @@
         "image": "https://media.zameen.com/thumbnails/305746122-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-06"
+    },
+    {
+        "title": "Flat 2 Bed D For Rent At Tariq Road Commercial Near Jheel Park",
+        "price": 50000,
+        "price_str": "PKR 50,000",
+        "location": "Jamshed_Town_Garden_East",
+        "area": "Pakistan Chowk Area",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/pechs_pechs_block_2_flat_2_bed_d_for_rent_at_tariq_road_commercial_near_jheel_park-54885092-6933-4.html",
+        "image": "https://images.zameen.com/smap/400/300/24.871447/67.058573/image.jpeg?quality=80&imageformat=jpeg",
+        "source": "Zameen",
+        "date": "2026-11-06",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     }
 ]
