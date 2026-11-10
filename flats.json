@@ -72,18 +72,6 @@
         "date": "2026-11-10"
     },
     {
-        "title": "2 Bedroom Lounge Luxurious Apartment Is Available For RENT Near Main Entrance Of Bahria Town",
-        "price": 35000,
-        "price_str": "PKR 35,000",
-        "location": "Saddar",
-        "area": "Pakistan Chowk Area",
-        "rooms": 2,
-        "link": "https://www.zameen.com/Property/bahria_town_karachi_bahria_apartments_2_bedroom_lounge_luxurious_apartment_is_available_for_rent_near_main_entrance_of_bahria_town-54906115-9030-4.html",
-        "image": "https://media.zameen.com/thumbnails/308849223-400x300.jpeg",
-        "source": "Zameen",
-        "date": "2026-11-10"
-    },
-    {
         "title": "2 BEDS LOUNGE GROUND FLOOR BOCK-13C FLAT",
         "price": 36000,
         "price_str": "PKR 36,000",
@@ -144,16 +132,18 @@
         "date": "2026-11-10"
     },
     {
-        "title": "Yaya Pride Flat For Rent Gulshan Iqbal block 13D2.2 Bed DD 3rd Floor Rent Demand 45000 *Code(16756)*",
+        "title": "Flat 2 Bed D D Rufi Heaven 13d2 Gulshan Ground Floor Tile 46k Final Deposit Fix 5 Month Keys Union 4000*Code(17068)*",
         "price": 45000,
         "price_str": "PKR 45,000",
         "location": "PECHS",
         "area": "PECHS / Shabbirabad",
         "rooms": 2,
-        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_yaya_pride_flat_for_rent_gulshan_iqbal_block_13d2_2_bed_dd_3rd_floor_rent_demand_45000_code_16756-54915275-8885-4.html",
-        "image": "https://media.zameen.com/thumbnails/309414553-400x300.jpeg",
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13-d2_flat_2_bed_d_d_rufi_heaven_13d2_gulshan_ground_floor_tile_46k_final_deposit_fix_5_month_keys_union_4000_code_17068-54915275-8885-4.html",
+        "image": "https://media.zameen.com/thumbnails/309465448-400x300.jpeg",
         "source": "Zameen",
-        "date": "2026-11-10"
+        "date": "2026-11-10",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "Furnished Apartments Available For Rent At New Dhoraji Gulshan-E-Iqbal Block 3",
@@ -166,6 +156,20 @@
         "image": "https://media.zameen.com/thumbnails/308715807-400x300.jpeg",
         "source": "Zameen",
         "date": "2026-11-10"
+    },
+    {
+        "title": "with lift maintain flat",
+        "price": 45000,
+        "price_str": "PKR 45,000",
+        "location": "PECHS",
+        "area": "PECHS / Shabbirabad",
+        "rooms": 2,
+        "link": "https://www.zameen.com/Property/gulshan_e_iqbal_gulshan-e-iqbal_-_block_13_a_with_lift_maintain_flat-54970185-8468-4.html",
+        "image": "https://media.zameen.com/thumbnails/309465919-400x300.jpeg",
+        "source": "Zameen",
+        "date": "2026-11-10",
+        "contact_name": "Not Available",
+        "contact_phone": "03539276123"
     },
     {
         "title": "FLAT FOR RENT GULSHAN-E-IQBAL, BLOCK 1 Location: Maymar Plaza",
